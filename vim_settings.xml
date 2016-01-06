@@ -70,7 +70,7 @@
         <text encoding="base64">TG9yZW0gaXBzdW0gZG9sb3Igc2l0IGFtZXQsIGNvbnNlY3RldHVyIGFkaXBpc2NpbmcgZWxpdC4gCk1vcmJpIG5vbiBsb3JlbSBwb3J0dGl0b3IgbmVxdWUgZmV1Z2lhdCBibGFuZGl0LiBVdCB2aXRhZSBpcHN1bSBlZ2V0IHF1YW0gbGFjaW5pYSBhY2N1bXNhbi4gCkV0aWFtIHNlZCB0dXJwaXMgYWMgaXBzdW0gY29uZGltZW50dW0gZnJpbmdpbGxhLiBNYWVjZW5hcyBtYWduYS4gClByb2luIGRhcGlidXMgc2FwaWVuIHZlbCBhbnRlLiBBbGlxdWFtIGVyYXQgdm9sdXRwYXQuIFBlbGxlbnRlc3F1ZSBzYWdpdHRpcyBsaWd1bGEgZWdldCBtZXR1cy4gClZlc3RpYnVsdW0gY29tbW9kby4gVXQgcmhvbmN1cyBncmF2aWRhIGFyY3UuIA==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
       <register name="/" type="4">
         <text>Piped</text>
@@ -92,6 +92,7 @@
       <history-cmd>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
