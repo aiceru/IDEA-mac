@@ -1,0 +1,106 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1432291031490">
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="0" column="27" />
+        <mark key="." line="0" column="27" />
+      </file>
+      <file name="$USER_HOME$/Dev/IDEAWorkspace/WebStudy/Tutorial/web/index.jsp" timestamp="1432293328280">
+        <mark key="[" line="15" column="6" />
+        <mark key="]" line="9" column="5" />
+        <mark key="^" line="9" column="5" />
+        <mark key="." line="9" column="5" />
+      </file>
+      <file name="$USER_HOME$/Work/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClientIF.java" timestamp="1452063208287">
+        <mark key="'" line="328" column="30" />
+      </file>
+      <file name="/JavaScript File.txt.ft" timestamp="1432293103019">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Xhtml.txt.ft" timestamp="1432293128811">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Html5.txt.ft" timestamp="1432293107700">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" timestamp="1452063163627">
+        <mark key="'" line="816" column="35" />
+      </file>
+      <file name="/Catch Statement Body.txt.ft" timestamp="1432293117862">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Less File.txt.ft" timestamp="1432293100453">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/IDEAWorkspace/WebProject/WebStudy/web/index.jsp" timestamp="1432427982123">
+        <mark key="[" line="4" column="14" />
+      </file>
+      <file name="/Html.txt.ft" timestamp="1432293106483">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/repo/jam2in/arcus-java-repl/src/main/java/net/spy/memcached/protocol/ascii/OperationImpl.java" timestamp="1451983029468">
+        <mark key="[" line="127" column="57" />
+        <mark key="]" line="127" column="56" />
+        <mark key="^" line="127" column="56" />
+        <mark key="." line="127" column="56" />
+      </file>
+      <file name="/ActionScript File Header.txt.ft" timestamp="1432293116330">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="3036" column="23" filename="$USER_HOME$/Work/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" />
+      <jump line="3490" column="35" filename="$USER_HOME$/Work/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" />
+      <jump line="3494" column="35" filename="$USER_HOME$/Work/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" />
+      <jump line="812" column="35" filename="$USER_HOME$/Work/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" />
+      <jump line="816" column="35" filename="$USER_HOME$/Work/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" />
+      <jump line="260" column="12" filename="$USER_HOME$/Work/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClientIF.java" />
+      <jump line="324" column="28" filename="$USER_HOME$/Work/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClientIF.java" />
+      <jump line="326" column="36" filename="$USER_HOME$/Work/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClientIF.java" />
+      <jump line="328" column="30" filename="$USER_HOME$/Work/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClientIF.java" />
+    </jumps>
+    <registers>
+      <register name="1" type="4">
+        <text encoding="base64">TG9yZW0gaXBzdW0gZG9sb3Igc2l0IGFtZXQsIGNvbnNlY3RldHVyIGFkaXBpc2NpbmcgZWxpdC4gCk1vcmJpIG5vbiBsb3JlbSBwb3J0dGl0b3IgbmVxdWUgZmV1Z2lhdCBibGFuZGl0LiBVdCB2aXRhZSBpcHN1bSBlZ2V0IHF1YW0gbGFjaW5pYSBhY2N1bXNhbi4gCkV0aWFtIHNlZCB0dXJwaXMgYWMgaXBzdW0gY29uZGltZW50dW0gZnJpbmdpbGxhLiBNYWVjZW5hcyBtYWduYS4gClByb2luIGRhcGlidXMgc2FwaWVuIHZlbCBhbnRlLiBBbGlxdWFtIGVyYXQgdm9sdXRwYXQuIFBlbGxlbnRlc3F1ZSBzYWdpdHRpcyBsaWd1bGEgZWdldCBtZXR1cy4gClZlc3RpYnVsdW0gY29tbW9kby4gVXQgcmhvbmN1cyBncmF2aWRhIGFyY3UuIA==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">TG9yZW0gaXBzdW0gZG9sb3Igc2l0IGFtZXQsIGNvbnNlY3RldHVyIGFkaXBpc2NpbmcgZWxpdC4gCk1vcmJpIG5vbiBsb3JlbSBwb3J0dGl0b3IgbmVxdWUgZmV1Z2lhdCBibGFuZGl0LiBVdCB2aXRhZSBpcHN1bSBlZ2V0IHF1YW0gbGFjaW5pYSBhY2N1bXNhbi4gCkV0aWFtIHNlZCB0dXJwaXMgYWMgaXBzdW0gY29uZGltZW50dW0gZnJpbmdpbGxhLiBNYWVjZW5hcyBtYWduYS4gClByb2luIGRhcGlidXMgc2FwaWVuIHZlbCBhbnRlLiBBbGlxdWFtIGVyYXQgdm9sdXRwYXQuIFBlbGxlbnRlc3F1ZSBzYWdpdHRpcyBsaWd1bGEgZWdldCBtZXR1cy4gClZlc3RpYnVsdW0gY29tbW9kby4gVXQgcmhvbmN1cyBncmF2aWRhIGFyY3UuIA==</text>
+      </register>
+      <register name=":" type="4">
+        <text>q</text>
+      </register>
+      <register name="/" type="4">
+        <text>Piped</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>Piped</last-search>
+      <last-offset />
+      <last-pattern>Piped</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>pipied</entry>
+        <entry>piped</entry>
+        <entry>Piped</entry>
+      </history-search>
+      <history-cmd>
+        <entry>wq</entry>
+        <entry>w</entry>
+        <entry>q</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
