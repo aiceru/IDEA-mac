@@ -20,11 +20,11 @@
       <file name="/JavaScript File.txt.ft" timestamp="1432293103019">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" timestamp="1452231824016">
-        <mark key="'" line="537" column="0" />
-        <mark key="[" line="555" column="0" />
-        <mark key="]" line="555" column="0" />
-        <mark key="." line="555" column="0" />
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" timestamp="1452233580873">
+        <mark key="'" line="528" column="0" />
+        <mark key="[" line="537" column="0" />
+        <mark key="]" line="537" column="0" />
+        <mark key="." line="537" column="0" />
       </file>
       <file name="/Xhtml.txt.ft" timestamp="1432293128811">
         <mark key="[" line="0" column="0" />
@@ -70,6 +70,13 @@
       <jump line="16" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
       <jump line="62" column="15" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
       <jump line="85" column="16" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
+      <jump line="537" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
+      <jump line="60" column="8" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
+      <jump line="23" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
+      <jump line="586" column="8" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
+      <jump line="587" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
+      <jump line="63" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
+      <jump line="77" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
       <jump line="104" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
       <jump line="113" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
       <jump line="123" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
@@ -99,7 +106,6 @@
       <jump line="487" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
       <jump line="509" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
       <jump line="528" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
-      <jump line="537" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -109,7 +115,7 @@
         <text encoding="base64">RXhjZXB0aW9uIA==</text>
       </register>
       <register name="/" type="4">
-        <text>e.print</text>
+        <text>e.printStack</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
@@ -143,9 +149,9 @@
       </register>
     </registers>
     <search>
-      <last-search>e.print</last-search>
+      <last-search>e.printStack</last-search>
       <last-offset />
-      <last-pattern>e.print</last-pattern>
+      <last-pattern>e.printStack</last-pattern>
       <last-replace>java.nio.BufferOverflowException e</last-replace>
       <last-substitute>Exception e</last-substitute>
       <last-dir>1</last-dir>
@@ -157,8 +163,9 @@
         <entry>piped</entry>
         <entry>Piped</entry>
         <entry>Exception</entry>
-        <entry>Exception e</entry>
         <entry>e.print</entry>
+        <entry>Exception e</entry>
+        <entry>e.printStack</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
@@ -172,6 +179,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
