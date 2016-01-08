@@ -20,6 +20,12 @@
       <file name="/JavaScript File.txt.ft" timestamp="1432293103019">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" timestamp="1452231824016">
+        <mark key="'" line="537" column="0" />
+        <mark key="[" line="555" column="0" />
+        <mark key="]" line="555" column="0" />
+        <mark key="." line="555" column="0" />
+      </file>
       <file name="/Xhtml.txt.ft" timestamp="1432293128811">
         <mark key="[" line="0" column="0" />
       </file>
@@ -61,25 +67,87 @@
       <jump line="324" column="28" filename="$USER_HOME$/Work/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClientIF.java" />
       <jump line="326" column="36" filename="$USER_HOME$/Work/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClientIF.java" />
       <jump line="328" column="30" filename="$USER_HOME$/Work/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClientIF.java" />
+      <jump line="16" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
+      <jump line="62" column="15" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
+      <jump line="85" column="16" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
+      <jump line="104" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
+      <jump line="113" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
+      <jump line="123" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
+      <jump line="134" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
+      <jump line="149" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
+      <jump line="169" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
+      <jump line="185" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
+      <jump line="200" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
+      <jump line="209" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
+      <jump line="230" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
+      <jump line="249" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
+      <jump line="274" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
+      <jump line="287" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
+      <jump line="300" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
+      <jump line="312" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
+      <jump line="321" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
+      <jump line="341" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
+      <jump line="357" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
+      <jump line="378" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
+      <jump line="387" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
+      <jump line="395" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
+      <jump line="414" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
+      <jump line="432" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
+      <jump line="443" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
+      <jump line="465" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
+      <jump line="476" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
+      <jump line="487" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
+      <jump line="509" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
+      <jump line="528" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
+      <jump line="537" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
     </jumps>
     <registers>
-      <register name="1" type="4">
-        <text encoding="base64">TG9yZW0gaXBzdW0gZG9sb3Igc2l0IGFtZXQsIGNvbnNlY3RldHVyIGFkaXBpc2NpbmcgZWxpdC4gCk1vcmJpIG5vbiBsb3JlbSBwb3J0dGl0b3IgbmVxdWUgZmV1Z2lhdCBibGFuZGl0LiBVdCB2aXRhZSBpcHN1bSBlZ2V0IHF1YW0gbGFjaW5pYSBhY2N1bXNhbi4gCkV0aWFtIHNlZCB0dXJwaXMgYWMgaXBzdW0gY29uZGltZW50dW0gZnJpbmdpbGxhLiBNYWVjZW5hcyBtYWduYS4gClByb2luIGRhcGlidXMgc2FwaWVuIHZlbCBhbnRlLiBBbGlxdWFtIGVyYXQgdm9sdXRwYXQuIFBlbGxlbnRlc3F1ZSBzYWdpdHRpcyBsaWd1bGEgZWdldCBtZXR1cy4gClZlc3RpYnVsdW0gY29tbW9kby4gVXQgcmhvbmN1cyBncmF2aWRhIGFyY3UuIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">TG9yZW0gaXBzdW0gZG9sb3Igc2l0IGFtZXQsIGNvbnNlY3RldHVyIGFkaXBpc2NpbmcgZWxpdC4gCk1vcmJpIG5vbiBsb3JlbSBwb3J0dGl0b3IgbmVxdWUgZmV1Z2lhdCBibGFuZGl0LiBVdCB2aXRhZSBpcHN1bSBlZ2V0IHF1YW0gbGFjaW5pYSBhY2N1bXNhbi4gCkV0aWFtIHNlZCB0dXJwaXMgYWMgaXBzdW0gY29uZGltZW50dW0gZnJpbmdpbGxhLiBNYWVjZW5hcyBtYWduYS4gClByb2luIGRhcGlidXMgc2FwaWVuIHZlbCBhbnRlLiBBbGlxdWFtIGVyYXQgdm9sdXRwYXQuIFBlbGxlbnRlc3F1ZSBzYWdpdHRpcyBsaWd1bGEgZWdldCBtZXR1cy4gClZlc3RpYnVsdW0gY29tbW9kby4gVXQgcmhvbmN1cyBncmF2aWRhIGFyY3UuIA==</text>
-      </register>
-      <register name=":" type="4">
-        <text>q</text>
+      <register name="-" type="4">
+        <text encoding="base64">RXhjZXB0aW9uIA==</text>
       </register>
       <register name="/" type="4">
-        <text>Piped</text>
+        <text>e.print</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Piped</last-search>
+      <last-search>e.print</last-search>
       <last-offset />
-      <last-pattern>Piped</last-pattern>
+      <last-pattern>e.print</last-pattern>
+      <last-replace>java.nio.BufferOverflowException e</last-replace>
+      <last-substitute>Exception e</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -88,11 +156,15 @@
         <entry>pipied</entry>
         <entry>piped</entry>
         <entry>Piped</entry>
+        <entry>Exception</entry>
+        <entry>Exception e</entry>
+        <entry>e.print</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>%s/Exception e/java.nio.BufferOverflowException e/g</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
