@@ -18,6 +18,12 @@
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="5" />
       </file>
+      <file name="$USER_HOME$/Work/arcus/repo/naver/arcus-spring/.gitignore" timestamp="1452496378384">
+        <mark key="[" line="8" column="2" />
+        <mark key="]" line="9" column="5" />
+        <mark key="^" line="9" column="5" />
+        <mark key="." line="9" column="5" />
+      </file>
       <file name="$USER_HOME$/Work/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClientIF.java" timestamp="1452063208287">
         <mark key="'" line="328" column="30" />
       </file>
@@ -165,7 +171,7 @@
         <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -188,10 +194,10 @@
         <entry>e.printStack</entry>
       </history-search>
       <history-cmd>
-        <entry>wq</entry>
         <entry>q</entry>
         <entry>%s/Exception e/java.nio.BufferOverflowException e/g</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
