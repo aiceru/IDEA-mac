@@ -19,7 +19,9 @@
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="5" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/naver/arcus-spring/src/main/java/com/navercorp/arcus/spring/ArcusClientFactoryBean.java" timestamp="1452506902161" />
+      <file name="$USER_HOME$/Work/arcus/repo/naver/arcus-spring/src/main/java/com/navercorp/arcus/spring/ArcusClientFactoryBean.java" timestamp="1452511217906">
+        <mark key="[" line="105" column="26" />
+      </file>
       <file name="$USER_HOME$/Work/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClientIF.java" timestamp="1452063208287">
         <mark key="'" line="328" column="30" />
       </file>
@@ -33,11 +35,8 @@
       <file name="/JavaScript File.txt.ft" timestamp="1432293103019">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/naver/arcus-spring/src/test/java/com/navercorp/arcus/spring/ApplicationContextLoadTest.java" timestamp="1452507520215">
-        <mark key="[" line="40" column="65" />
-        <mark key="]" line="40" column="62" />
-        <mark key="^" line="40" column="62" />
-        <mark key="." line="40" column="62" />
+      <file name="$USER_HOME$/Work/arcus/repo/naver/arcus-spring/src/test/java/com/navercorp/arcus/spring/ApplicationContextLoadTest.java" timestamp="1452511296301">
+        <mark key="[" line="40" column="56" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" timestamp="1452233580873">
         <mark key="'" line="528" column="0" />
@@ -48,7 +47,7 @@
       <file name="/Xhtml.txt.ft" timestamp="1432293128811">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/naver/arcus-spring/src/test/resources/ApplicationContextLoadTest-context.xml" timestamp="1452507308723" />
+      <file name="$USER_HOME$/Work/arcus/repo/naver/arcus-spring/src/test/resources/ApplicationContextLoadTest-context.xml" timestamp="1452511253784" />
       <file name="/Html5.txt.ft" timestamp="1432293107700">
         <mark key="[" line="0" column="0" />
       </file>
