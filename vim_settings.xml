@@ -22,6 +22,13 @@
       <file name="$USER_HOME$/Work/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClientIF.java" timestamp="1452063208287">
         <mark key="'" line="328" column="30" />
       </file>
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/CacheManager.java" timestamp="1452500476098" />
+      <file name="$USER_HOME$/Work/arcus/repo/naver/arcus-spring/src/test/resources/arcus.properties" timestamp="1452500179995">
+        <mark key="[" line="1" column="16" />
+        <mark key="]" line="1" column="43" />
+        <mark key="^" line="1" column="43" />
+        <mark key="." line="1" column="43" />
+      </file>
       <file name="/JavaScript File.txt.ft" timestamp="1432293103019">
         <mark key="[" line="0" column="0" />
       </file>
