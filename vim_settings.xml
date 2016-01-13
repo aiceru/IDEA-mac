@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Work/arcus/repo/naver/arcus-spring/src/test/java/com/navercorp/arcus/spring/cache/ArcusCacheIntegrationTest.java" timestamp="1452664036431" />
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" timestamp="1452494130669">
         <mark key="'" line="1668" column="0" />
         <mark key="." line="795" column="28" />
