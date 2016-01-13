@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/Dev/TobysSpring/src/springbook/user/dao/UserDao.java" timestamp="1452702811865">
-        <mark key="[" line="30" column="25" />
-        <mark key="]" line="35" column="40" />
-        <mark key="^" line="35" column="40" />
-        <mark key="." line="35" column="40" />
+      <file name="D:/Dev/TobysSpring/src/springbook/user/dao/UserDao.java" timestamp="1452703371500">
+        <mark key="[" line="47" column="4" />
+        <mark key="]" line="46" column="19" />
+        <mark key="^" line="46" column="19" />
+        <mark key="." line="46" column="19" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/naver/arcus-spring/src/main/java/com/navercorp/arcus/spring/cache/ArcusCache.java" timestamp="1452674525943">
         <mark key="'" line="51" column="9" />
