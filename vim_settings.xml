@@ -1,13 +1,13 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/Dev/TobysSpring/src/springbook/user/dao/UserDao.java" timestamp="1452694786998">
-        <mark key="[" line="14" column="55" />
-        <mark key="]" line="14" column="52" />
-        <mark key="^" line="14" column="51" />
-        <mark key="." line="14" column="52" />
+      <file name="D:/Dev/TobysSpring/src/springbook/user/dao/UserDao.java" timestamp="1452701814624">
+        <mark key="[" line="31" column="104" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="D:/Dev/TobysSpring/src/springbook/user/domain/User.java" timestamp="1452693489472">
         <mark key="[" line="33" column="0" />
