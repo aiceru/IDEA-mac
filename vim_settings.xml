@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Work/arcus/repo/naver/arcus-spring/src/test/java/com/navercorp/arcus/spring/cache/ArcusCacheIntegrationTest.java" timestamp="1452741000667">
+        <mark key="[" line="35" column="21" />
+        <mark key="]" line="35" column="54" />
+        <mark key="." line="35" column="54" />
+        <mark key="^" line="35" column="54" />
+      </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" timestamp="1452494130669">
         <mark key="'" line="1668" column="0" />
         <mark key="." line="795" column="28" />
@@ -154,40 +160,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>after</text>
       </register>
       <register name="1" type="4">
-        <text>)</text>
+        <text>n</text>
       </register>
       <register name="2" type="4">
-        <text>(</text>
+        <text>)</text>
       </register>
       <register name="3" type="4">
-        <text>.</text>
+        <text>s</text>
       </register>
       <register name="4" type="4">
-        <text>getClient</text>
+        <text>s</text>
       </register>
       <register name="5" type="4">
-        <text>Pool</text>
+        <text>a</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+      <register name="6" type="4">
+        <text>l</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+      <register name="7" type="4">
+        <text>c</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+      <register name="8" type="4">
+        <text>.</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+      <register name="9" type="4">
+        <text>r</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
