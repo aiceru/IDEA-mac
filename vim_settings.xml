@@ -60,6 +60,7 @@
       <file name="/Html5.txt.ft" timestamp="1432293107700">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Work/arcus/repo/naver/arcus-spring/src/test/java/com/navercorp/arcus/spring/cache/ArcusCacheConfig.java" timestamp="1452747072565" />
       <file name="$USER_HOME$/Work/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" timestamp="1452063163627">
         <mark key="'" line="816" column="35" />
       </file>
@@ -160,40 +161,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>Be</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>Be</text>
       </register>
       <register name="/" type="4">
         <text>after</text>
       </register>
       <register name="1" type="4">
-        <text>n</text>
+        <text>Be</text>
       </register>
       <register name="2" type="4">
-        <text>)</text>
+        <text>@</text>
       </register>
       <register name="3" type="4">
-        <text>s</text>
+        <text>an</text>
       </register>
       <register name="4" type="4">
-        <text>s</text>
+        <text>n</text>
       </register>
       <register name="5" type="4">
-        <text>a</text>
+        <text>)</text>
       </register>
       <register name="6" type="4">
-        <text>l</text>
+        <text>s</text>
       </register>
       <register name="7" type="4">
-        <text>c</text>
+        <text>s</text>
       </register>
       <register name="8" type="4">
-        <text>.</text>
+        <text>a</text>
       </register>
       <register name="9" type="4">
-        <text>r</text>
+        <text>l</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
