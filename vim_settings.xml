@@ -3,38 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/Dev/TobysSpring/src/springbook/user/dao/UserDao.java" timestamp="1452781626057">
-        <mark key="[" line="47" column="5" />
-        <mark key="]" line="30" column="48" />
-        <mark key="^" line="30" column="48" />
-        <mark key="." line="30" column="48" />
-      </file>
-      <file name="D:/Dev/TobysSpring/src/springbook/user/domain/User.java" timestamp="1452693489472">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/Work/arcus/repo/naver/arcus-spring/src/main/java/com/navercorp/arcus/spring/ArcusClientFactoryBean.java" timestamp="1452662922049">
-        <mark key="[" line="105" column="26" />
-      </file>
-      <file name="$USER_HOME$/Work/repo/jam2in/arcus-java-repl/src/main/java/net/spy/memcached/protocol/ascii/OperationImpl.java" timestamp="1451983029468">
-        <mark key="[" line="127" column="57" />
-        <mark key="]" line="127" column="56" />
-        <mark key="^" line="127" column="56" />
-        <mark key="." line="127" column="56" />
-      </file>
-      <file name="$USER_HOME$/Dev/IDEAWorkspace/WebProject/WebStudy/web/index.jsp" timestamp="1432427982123">
-        <mark key="[" line="4" column="14" />
-      </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" timestamp="1452233580873">
-        <mark key="'" line="528" column="0" />
-        <mark key="[" line="537" column="0" />
-        <mark key="]" line="537" column="0" />
-        <mark key="." line="537" column="0" />
-      </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" timestamp="1452494130669">
-        <mark key="'" line="1668" column="0" />
-        <mark key="." line="795" column="28" />
+      <file name="$USER_HOME$/Work/arcus/repo/naver/arcus-spring/src/test/java/com/navercorp/arcus/spring/cache/ArcusCacheIntegrationTest.java" timestamp="1452749514550">
+        <mark key="[" line="35" column="21" />
+        <mark key="]" line="35" column="54" />
+        <mark key="." line="35" column="54" />
+        <mark key="^" line="35" column="54" />
       </file>
       <file name="$USER_HOME$/Dev/IDEAWorkspace/WebStudy/Tutorial/web/index.jsp" timestamp="1432293328280">
         <mark key="[" line="15" column="6" />
@@ -42,44 +15,17 @@
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="5" />
       </file>
-      <file name="/Xhtml.txt.ft" timestamp="1432293128811">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Work/arcus/repo/naver/arcus-spring/pom.xml" timestamp="1452506442683">
-        <mark key="[" line="13" column="32" />
-        <mark key="]" line="13" column="32" />
-        <mark key="^" line="13" column="32" />
-        <mark key="." line="13" column="32" />
-      </file>
-      <file name="/Html5.txt.ft" timestamp="1432293107700">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Catch Statement Body.txt.ft" timestamp="1432293117862">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Less File.txt.ft" timestamp="1432293100453">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/HTML File.txt.ft" timestamp="1452692292213">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/ActionScript File Header.txt.ft" timestamp="1432293116330">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Work/arcus/repo/naver/arcus-spring/src/main/java/com/navercorp/arcus/spring/cache/ArcusCache.java" timestamp="1452674525943">
-        <mark key="'" line="51" column="9" />
-      </file>
-      <file name="$USER_HOME$/Work/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClientIF.java" timestamp="1452063208287">
-        <mark key="'" line="328" column="30" />
-      </file>
       <file name="$USER_HOME$/Work/arcus/repo/naver/arcus-spring/.gitignore" timestamp="1452663157353">
         <mark key="[" line="8" column="2" />
         <mark key="]" line="9" column="5" />
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="5" />
       </file>
-      <file name="$USER_HOME$/Work/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" timestamp="1452063163627">
-        <mark key="'" line="816" column="35" />
+      <file name="/a.dummy" timestamp="1452758147740">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClientIF.java" timestamp="1452063208287">
+        <mark key="'" line="328" column="30" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/naver/arcus-spring/src/test/resources/arcus.properties" timestamp="1452506476488">
         <mark key="[" line="0" column="23" />
@@ -87,23 +33,89 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="/JavaScript File.txt.ft" timestamp="1432293103019">
+      <file name="$USER_HOME$/Work/arcus/repo/naver/arcus-spring/src/main/java/com/navercorp/arcus/spring/cache/ArcusCache.java" timestamp="1452674525943">
+        <mark key="'" line="51" column="9" />
+      </file>
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" timestamp="1452233580873">
+        <mark key="'" line="528" column="0" />
+        <mark key="[" line="537" column="0" />
+        <mark key="]" line="537" column="0" />
+        <mark key="." line="537" column="0" />
+      </file>
+      <file name="/Xhtml.txt.ft" timestamp="1432293128811">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/CollectionPipedStore.java" timestamp="1452494057335">
-        <mark key="'" line="88" column="16" />
-        <mark key="." line="0" column="2" />
+      <file name="/Html5.txt.ft" timestamp="1432293107700">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/arcus/repo/naver/arcus-spring/src/test/java/com/navercorp/arcus/spring/cache/ArcusCacheConfig.java" timestamp="1452747072565" />
+      <file name="/Catch Statement Body.txt.ft" timestamp="1432293117862">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Less File.txt.ft" timestamp="1432293100453">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/ActionScript File Header.txt.ft" timestamp="1432293116330">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" timestamp="1452494130669">
+        <mark key="'" line="1668" column="0" />
+        <mark key="." line="795" column="28" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1452758152761">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/arcus/repo/naver/arcus-spring/src/main/java/com/navercorp/arcus/spring/ArcusClientFactoryBean.java" timestamp="1452662922049">
+        <mark key="[" line="105" column="26" />
+      </file>
+      <file name="$USER_HOME$/Work/arcus/Tests/defaultLoggerTest/src/HelloArcus.java" timestamp="1452756755604">
+        <mark key="[" line="21" column="8" />
+        <mark key="]" line="73" column="1" />
+        <mark key="^" line="73" column="1" />
+        <mark key="." line="73" column="1" />
+      </file>
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/compat/log/DefaultLogger.java" timestamp="1452757841758" />
+      <file name="/JavaScript File.txt.ft" timestamp="1432293103019">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/naver/arcus-spring/src/test/java/com/navercorp/arcus/spring/ApplicationContextLoadTest.java" timestamp="1452662958741">
         <mark key="[" line="39" column="63" />
         <mark key="]" line="39" column="63" />
         <mark key="." line="39" column="63" />
       </file>
+      <file name="$USER_HOME$/Work/arcus/Tests/defaultLoggerTest/src/HelloArcusTest.java" timestamp="1452755200330">
+        <mark key="[" line="14" column="8" />
+        <mark key="]" line="8" column="65" />
+        <mark key="^" line="8" column="65" />
+        <mark key="." line="8" column="65" />
+      </file>
+      <file name="$USER_HOME$/Work/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" timestamp="1452063163627">
+        <mark key="'" line="816" column="35" />
+      </file>
+      <file name="$USER_HOME$/Dev/IDEAWorkspace/WebProject/WebStudy/web/index.jsp" timestamp="1432427982123">
+        <mark key="[" line="4" column="14" />
+      </file>
       <file name="/Html.txt.ft" timestamp="1432293106483">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/69a6580b-a195-4357-a2f5-a80590833a9e/console.sql" timestamp="1452781020558">
+      <file name="$USER_HOME$/Work/repo/jam2in/arcus-java-repl/src/main/java/net/spy/memcached/protocol/ascii/OperationImpl.java" timestamp="1451983029468">
+        <mark key="[" line="127" column="57" />
+        <mark key="]" line="127" column="56" />
+        <mark key="^" line="127" column="56" />
+        <mark key="." line="127" column="56" />
+      </file>
+      <file name="/fragment.java" timestamp="1452755818181">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/CollectionPipedStore.java" timestamp="1452494057335">
+        <mark key="'" line="88" column="16" />
+        <mark key="." line="0" column="2" />
+      </file>
+      <file name="$USER_HOME$/Work/arcus/repo/naver/arcus-spring/pom.xml" timestamp="1452506442683">
+        <mark key="[" line="13" column="32" />
+        <mark key="]" line="13" column="32" />
+        <mark key="^" line="13" column="32" />
+        <mark key="." line="13" column="32" />
       </file>
     </filemarks>
     <jumps>
@@ -170,41 +182,41 @@
       <jump line="51" column="9" filename="$USER_HOME$/Work/arcus/repo/naver/arcus-spring/src/main/java/com/navercorp/arcus/spring/cache/ArcusCache.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmFyY3VzQ2xpZW50LmxvZwo=</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>Be</text>
       </register>
       <register name="/" type="4">
-        <text>after</text>
+        <text>Exception e</text>
       </register>
-      <register name="1" type="4">
-        <text>t</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmFyY3VzQ2xpZW50LmxvZwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>Be</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>@</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>an</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>n</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCB0ZW1wKCkgewogICAgICAgIHJldHVybjsKICAgIH0KICAgIA==</text>
+        <text>)</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldE5hbWUoKSB7Cg==</text>
+      <register name="7" type="4">
+        <text>s</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="8" type="4">
+        <text>s</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="9" type="4">
+        <text>a</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -213,16 +225,29 @@
     <search>
       <last-search>after</last-search>
       <last-offset />
-      <last-pattern>after</last-pattern>
+      <last-pattern>Exception e</last-pattern>
       <last-replace>java.nio.BufferOverflowException e</last-replace>
       <last-substitute>Exception e</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>pipied</entry>
+        <entry>piped</entry>
+        <entry>Piped</entry>
+        <entry>Exception</entry>
+        <entry>e.print</entry>
+        <entry>e.printStack</entry>
+        <entry>afterProperty</entry>
+        <entry>after</entry>
+        <entry>Exception e</entry>
+      </history-search>
       <history-cmd>
-        <entry>W</entry>
+        <entry>q</entry>
+        <entry>%s/Exception e/java.nio.BufferOverflowException e/g</entry>
+        <entry>wq</entry>
+        <entry>s</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -240,15 +265,6 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed R</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed C</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed V</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
