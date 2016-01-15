@@ -54,11 +54,10 @@
       <file name="/Less File.txt.ft" timestamp="1432293100453">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/tests/defaultLoggerTest/src/HelloArcusTest.java" timestamp="1452824613258">
-        <mark key="[" line="23" column="8" />
-        <mark key="]" line="31" column="1" />
-        <mark key="^" line="31" column="1" />
-        <mark key="." line="31" column="1" />
+      <file name="$USER_HOME$/Work/arcus/tests/defaultLoggerTest/src/HelloArcusTest.java" timestamp="1452825636937">
+        <mark key="]" line="16" column="28" />
+        <mark key="^" line="16" column="28" />
+        <mark key="." line="16" column="28" />
       </file>
       <file name="/ActionScript File Header.txt.ft" timestamp="1432293116330">
         <mark key="[" line="0" column="0" />
@@ -67,7 +66,7 @@
         <mark key="'" line="1668" column="0" />
         <mark key="." line="795" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1452758152761">
+      <file name="/Dummy.txt" timestamp="1452825651644">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/naver/arcus-spring/src/main/java/com/navercorp/arcus/spring/ArcusClientFactoryBean.java" timestamp="1452662922049">
@@ -108,7 +107,7 @@
         <mark key="^" line="127" column="56" />
         <mark key="." line="127" column="56" />
       </file>
-      <file name="/fragment.java" timestamp="1452755818181">
+      <file name="/fragment.java" timestamp="1452825651661">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/CollectionPipedStore.java" timestamp="1452494057335">
@@ -186,8 +185,8 @@
       <jump line="51" column="9" filename="$USER_HOME$/Work/arcus/repo/naver/arcus-spring/src/main/java/com/navercorp/arcus/spring/cache/ArcusCache.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Sys</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGxpc3RlbkhlbGxvKCkgewo=</text>
       </register>
       <register name="-" type="4">
         <text>Sys</text>
@@ -195,32 +194,32 @@
       <register name="/" type="4">
         <text>Exception e</text>
       </register>
-      <register name="1" type="4">
-        <text>Sys</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGxpc3RlbkhlbGxvKCkgewo=</text>
       </register>
-      <register name="2" type="4">
-        <text>t</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIEBUZXN0Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>e</text>
-      </register>
-      <register name="4" type="4">
-        <text>m</text>
-      </register>
-      <register name="5" type="4">
-        <text>.</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgSGVsbG9BcmN1c1Rlc3QoKSB0aHJvd3MgRmlsZU5vdEZvdW5kRXhjZXB0aW9uIHsKICAgICAgICBmb3MgPSBuZXcgRmlsZU91dHB1dFN0cmVhbShmaWxlKTsKICAgIH0K</text>
-      </register>
-      <register name="7" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIFByaW50U3RyZWFtIHBzID0gbmV3IFByaW50U3RyZWFtKGZvcyk7Cg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIEZpbGVPdXRwdXRTdHJlYW0gZm9zOwo=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNheUhlbGxvKCkgdGhyb3dzIEZpbGVOb3RGb3VuZEV4Y2VwdGlvbiB7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEBCZWZvcmUK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBGaWxlIGZpbGUgPSBuZXcgRmlsZSgiZXJyLnR4dCIpOwogICAgICAgIEZpbGVPdXRwdXRTdHJlYW0gZm9zID0gbmV3IEZpbGVPdXRwdXRTdHJlYW0oZmlsZSk7CiAgICAgICAgUHJpbnRTdHJlYW0gIHBzID0gbmV3IFByaW50U3RyZWFtKGZvcyk7CiAgICAgICAgU3lzdGVtLnNldEVycihwcyk7Cgo=</text>
+      </register>
+      <register name="8" type="4">
+        <text>Sys</text>
+      </register>
+      <register name="9" type="4">
+        <text>t</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
