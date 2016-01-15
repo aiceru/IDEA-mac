@@ -54,6 +54,12 @@
       <file name="/Less File.txt.ft" timestamp="1432293100453">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Work/arcus/tests/defaultLoggerTest/src/HelloArcusTest.java" timestamp="1452824613258">
+        <mark key="[" line="23" column="8" />
+        <mark key="]" line="31" column="1" />
+        <mark key="^" line="31" column="1" />
+        <mark key="." line="31" column="1" />
+      </file>
       <file name="/ActionScript File Header.txt.ft" timestamp="1432293116330">
         <mark key="[" line="0" column="0" />
       </file>
@@ -180,41 +186,41 @@
       <jump line="51" column="9" filename="$USER_HOME$/Work/arcus/repo/naver/arcus-spring/src/main/java/com/navercorp/arcus/spring/cache/ArcusCache.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmFyY3VzQ2xpZW50LmxvZwo=</text>
+      <register name="&quot;" type="4">
+        <text>Sys</text>
       </register>
       <register name="-" type="4">
-        <text>Be</text>
+        <text>Sys</text>
       </register>
       <register name="/" type="4">
         <text>Exception e</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmFyY3VzQ2xpZW50LmxvZwo=</text>
+      <register name="1" type="4">
+        <text>Sys</text>
       </register>
       <register name="2" type="4">
-        <text>Be</text>
+        <text>t</text>
       </register>
       <register name="3" type="4">
-        <text>@</text>
+        <text>e</text>
       </register>
       <register name="4" type="4">
-        <text>an</text>
+        <text>m</text>
       </register>
       <register name="5" type="4">
-        <text>n</text>
+        <text>.</text>
       </register>
-      <register name="6" type="4">
-        <text>)</text>
+      <register name="6" type="2">
+        <text encoding="base64">CiAgICBwdWJsaWMgSGVsbG9BcmN1c1Rlc3QoKSB0aHJvd3MgRmlsZU5vdEZvdW5kRXhjZXB0aW9uIHsKICAgICAgICBmb3MgPSBuZXcgRmlsZU91dHB1dFN0cmVhbShmaWxlKTsKICAgIH0K</text>
       </register>
-      <register name="7" type="4">
-        <text>s</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>s</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIFByaW50U3RyZWFtIHBzID0gbmV3IFByaW50U3RyZWFtKGZvcyk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>a</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIEZpbGVPdXRwdXRTdHJlYW0gZm9zOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -246,6 +252,7 @@
         <entry>%s/Exception e/java.nio.BufferOverflowException e/g</entry>
         <entry>wq</entry>
         <entry>s</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -263,6 +270,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
