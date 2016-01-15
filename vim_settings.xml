@@ -54,11 +54,11 @@
       <file name="/Less File.txt.ft" timestamp="1432293100453">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/tests/defaultLoggerTest/src/HelloArcusTest.java" timestamp="1452827017742">
-        <mark key="[" line="13" column="44" />
-        <mark key="]" line="16" column="28" />
-        <mark key="^" line="16" column="28" />
-        <mark key="." line="16" column="28" />
+      <file name="$USER_HOME$/Work/arcus/tests/defaultLoggerTest/src/HelloArcusTest.java" timestamp="1452837909156">
+        <mark key="[" line="16" column="30" />
+        <mark key="]" line="20" column="7" />
+        <mark key="^" line="20" column="7" />
+        <mark key="." line="20" column="7" />
       </file>
       <file name="/ActionScript File Header.txt.ft" timestamp="1432293116330">
         <mark key="[" line="0" column="0" />
@@ -67,7 +67,7 @@
         <mark key="'" line="1668" column="0" />
         <mark key="." line="795" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1452825651644">
+      <file name="/Dummy.txt" timestamp="1452837932585">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/naver/arcus-spring/src/main/java/com/navercorp/arcus/spring/ArcusClientFactoryBean.java" timestamp="1452662922049">
@@ -108,7 +108,7 @@
         <mark key="^" line="127" column="56" />
         <mark key="." line="127" column="56" />
       </file>
-      <file name="/fragment.java" timestamp="1452836462260">
+      <file name="/fragment.java" timestamp="1452837932604">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/CollectionPipedStore.java" timestamp="1452494057335">
