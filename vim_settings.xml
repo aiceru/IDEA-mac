@@ -24,9 +24,6 @@
       <file name="/a.dummy" timestamp="1452758147740">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClientIF.java" timestamp="1452063208287">
-        <mark key="'" line="328" column="30" />
-      </file>
       <file name="$USER_HOME$/Work/arcus/repo/naver/arcus-spring/src/test/resources/arcus.properties" timestamp="1452506476488">
         <mark key="[" line="0" column="23" />
         <mark key="]" line="0" column="14" />
@@ -47,6 +44,12 @@
       </file>
       <file name="/Html5.txt.ft" timestamp="1432293107700">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/arcus/tests/spring-fundamental/src/main/java/hello/MessagePrinter.java" timestamp="1452853944586">
+        <mark key="[" line="15" column="5" />
+        <mark key="]" line="14" column="30" />
+        <mark key="." line="14" column="30" />
+        <mark key="^" line="14" column="30" />
       </file>
       <file name="/Catch Statement Body.txt.ft" timestamp="1432293117862">
         <mark key="[" line="0" column="0" />
@@ -73,6 +76,9 @@
       <file name="$USER_HOME$/Work/arcus/repo/naver/arcus-spring/src/main/java/com/navercorp/arcus/spring/ArcusClientFactoryBean.java" timestamp="1452662922049">
         <mark key="[" line="105" column="26" />
       </file>
+      <file name="$USER_HOME$/Work/arcus/tests/spring-fundamental/src/main/java/hello/MessageService.java" timestamp="1452853654894">
+        <mark key="[" line="5" column="33" />
+      </file>
       <file name="$USER_HOME$/Work/arcus/Tests/defaultLoggerTest/src/HelloArcus.java" timestamp="1452756755604">
         <mark key="[" line="21" column="8" />
         <mark key="]" line="73" column="1" />
@@ -93,8 +99,8 @@
         <mark key="^" line="8" column="65" />
         <mark key="." line="8" column="65" />
       </file>
-      <file name="$USER_HOME$/Work/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" timestamp="1452063163627">
-        <mark key="'" line="816" column="35" />
+      <file name="$USER_HOME$/Work/arcus/tests/spring-fundamental/src/main/java/hello/Application.java" timestamp="1452854194378">
+        <mark key="[" line="9" column="26" />
       </file>
       <file name="$USER_HOME$/Dev/IDEAWorkspace/WebProject/WebStudy/web/index.jsp" timestamp="1432427982123">
         <mark key="[" line="4" column="14" />
@@ -187,7 +193,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGxpc3RlbkhlbGxvKCkgewo=</text>
+        <text encoding="base64">ICAgIEBDb21wb25lbnQK</text>
       </register>
       <register name="-" type="4">
         <text>Sys</text>
@@ -196,31 +202,31 @@
         <text>Exception e</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGxpc3RlbkhlbGxvKCkgewo=</text>
+        <text encoding="base64">ICAgIEBDb21wb25lbnQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBUZXN0Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGxpc3RlbkhlbGxvKCkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBUZXN0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNheUhlbGxvKCkgdGhyb3dzIEZpbGVOb3RGb3VuZEV4Y2VwdGlvbiB7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBCZWZvcmUK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNheUhlbGxvKCkgdGhyb3dzIEZpbGVOb3RGb3VuZEV4Y2VwdGlvbiB7Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgIEBCZWZvcmUK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBGaWxlIGZpbGUgPSBuZXcgRmlsZSgiZXJyLnR4dCIpOwogICAgICAgIEZpbGVPdXRwdXRTdHJlYW0gZm9zID0gbmV3IEZpbGVPdXRwdXRTdHJlYW0oZmlsZSk7CiAgICAgICAgUHJpbnRTdHJlYW0gIHBzID0gbmV3IFByaW50U3RyZWFtKGZvcyk7CiAgICAgICAgU3lzdGVtLnNldEVycihwcyk7Cgo=</text>
       </register>
-      <register name="8" type="4">
-        <text>Sys</text>
-      </register>
       <register name="9" type="4">
-        <text>t</text>
+        <text>Sys</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
