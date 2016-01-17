@@ -73,11 +73,11 @@
       <file name="$USER_HOME$/Work/arcus/repo/naver/arcus-spring/src/main/java/com/navercorp/arcus/spring/ArcusClientFactoryBean.java" timestamp="1452662922049">
         <mark key="[" line="105" column="26" />
       </file>
-      <file name="$USER_HOME$/PrivateDev/TobysSpring/src/main/java/springbook/user/dao/DaoFactory.java" timestamp="1453016620355">
-        <mark key="[" line="19" column="46" />
-        <mark key="]" line="20" column="42" />
-        <mark key="." line="20" column="42" />
-        <mark key="^" line="20" column="42" />
+      <file name="$USER_HOME$/PrivateDev/TobysSpring/src/main/java/springbook/user/dao/DaoFactory.java" timestamp="1453019545123">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="17" column="42" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Work/arcus/tests/spring-fundamental/src/main/java/hello/MessageService.java" timestamp="1452853654894">
         <mark key="[" line="5" column="33" />
@@ -212,8 +212,8 @@
       <jump line="17" column="0" filename="$USER_HOME$/PrivateDev/TobysSpring/src/main/java/springbook/user/dao/DaoFactory.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PC9kZXBlbmRlbmNpZXM+</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PC9kZXBlbmRlbmNpZXM+</text>
@@ -221,32 +221,32 @@
       <register name="/" type="4">
         <text>=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">PC9kZXBlbmRlbmNpZXM+</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuc3FsLlNRTEV4Y2VwdGlvbjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyRGFvIGRhbyA9IG5ldyBEYW9GYWN0b3J5KCkudXNlckRhbygpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuc3FsLkNvbm5lY3Rpb247Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IENvbm5lY3Rpb25NYWtlcigpIHsKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyBDb25uZWN0aW9uIG1ha2VDb25uZWN0aW9uKCkgdGhyb3dzIENsYXNzTm90Rm91bmRFeGNlcHRpb24sIFNRTEV4Y2VwdGlvbiB7CiAgICAgICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
+      <register name="4" type="4">
+        <text encoding="base64">PC9kZXBlbmRlbmNpZXM+</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBVc2VyRGFvIGRhbyA9IG5ldyBEYW9GYWN0b3J5KCkudXNlckRhbygpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdXNlckRhbzsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IENvbm5lY3Rpb25NYWtlcigpIHsKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyBDb25uZWN0aW9uIG1ha2VDb25uZWN0aW9uKCkgdGhyb3dzIENsYXNzTm90Rm91bmRFeGNlcHRpb24sIFNRTEV4Y2VwdGlvbiB7CiAgICAgICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyRGFvIHVzZXJEYW8gPSBuZXcgVXNlckRhbyhjb25uZWN0aW9uTWFrZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZGRDb25uZWN0aW9uTWFrZXIgY29ubmVjdGlvbk1ha2VyID0gbmV3IFNpbXBsZUNvbm5lY3Rpb25NYWtlcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
