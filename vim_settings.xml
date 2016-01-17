@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="D:/Dev/TobysSpring/src/springbook/user/dao/UserDao.java" timestamp="1452955783399">
@@ -10,9 +10,17 @@
         <mark key="^" line="22" column="5" />
         <mark key="." line="57" column="99" />
       </file>
+      <file name="D:/Dev/TobysSpring/pom.xml" timestamp="1453035574308">
+        <mark key="'" line="20" column="12" />
+        <mark key="[" line="33" column="10" />
+        <mark key="]" line="33" column="10" />
+        <mark key="^" line="33" column="10" />
+        <mark key="." line="33" column="10" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="25" column="17" filename="D:/Dev/TobysSpring/src/springbook/user/dao/UserDao.java" />
+      <jump line="20" column="12" filename="D:/Dev/TobysSpring/pom.xml" />
     </jumps>
     <registers>
       <register name="1" type="2">
