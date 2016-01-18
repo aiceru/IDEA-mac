@@ -99,16 +99,16 @@
       <option name="ENABLED" value="true" />
     </filter>
     <filter>
-      <option name="PATTERN" value="kotlin.*" />
+      <option name="PATTERN" value="javassist.*" />
       <option name="ENABLED" value="true" />
     </filter>
-  </component>
-  <component name="ExternalResourceManagerImpl">
-    <resource url="http://castor.exolab.org/mapping.dtd" location="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.castor/castor-xml/1.3.3/1072663e1b7463f6452eba51749bec5526f4883d/castor-xml-1.3.3.jar" />
-    <resource url="http://jakarta.apache.org/log4j/" location="$USER_HOME$/Dev/IDEAWorkspace/JavaWebWorkbook/lib/log4j-1.2.8.jar!/org/apache/log4j/xml/log4j.dtd" />
-  </component>
-  <component name="RefactoringSettings">
-    <option name="MOVE_PREVIEW_USAGES" value="false" />
-    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+    <filter>
+      <option name="PATTERN" value="org.apache.webbeans.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.ibm.ws.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
   </component>
 </application>
