@@ -85,6 +85,7 @@
       <file name="$USER_HOME$/Work/arcus/tests/spring-fundamental/src/main/java/hello/MessageService.java" timestamp="1452853654894">
         <mark key="[" line="5" column="33" />
       </file>
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/plugin/FrontCacheMemcachedClient.java" timestamp="1453117361116" />
       <file name="$USER_HOME$/Work/arcus/Tests/defaultLoggerTest/src/HelloArcus.java" timestamp="1452756755604">
         <mark key="[" line="21" column="8" />
         <mark key="]" line="73" column="1" />
@@ -133,6 +134,9 @@
         <mark key="]" line="13" column="32" />
         <mark key="^" line="13" column="32" />
         <mark key="." line="13" column="32" />
+      </file>
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/MemcachedClient.java" timestamp="1453118503815">
+        <mark key="'" line="395" column="29" />
       </file>
     </filemarks>
     <jumps>
@@ -226,6 +230,7 @@
       <jump line="3766" column="27" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" />
       <jump line="3998" column="27" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" />
       <jump line="1019" column="27" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" />
+      <jump line="395" column="29" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/MemcachedClient.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
