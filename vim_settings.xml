@@ -27,9 +27,6 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/MemcachedConnection.java" timestamp="1453095744657">
-        <mark key="'" line="586" column="81" />
-      </file>
       <file name="/a.dummy" timestamp="1452758147740">
         <mark key="[" line="0" column="0" />
       </file>
@@ -38,12 +35,6 @@
         <mark key="]" line="0" column="14" />
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
-      </file>
-      <file name="$USER_HOME$/Work/arcus/repo/naver/arcus-spring/src/main/java/com/navercorp/arcus/spring/cache/ArcusCache.java" timestamp="1453104416313">
-        <mark key="'" line="51" column="9" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
       </file>
       <file name="$USER_HOME$/PrivateDev/TobysSpring/pom.xml" timestamp="1453017449177">
         <mark key="'" line="6" column="4" />
@@ -79,11 +70,8 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1432293116330">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1453015655982">
+      <file name="/Dummy.txt" timestamp="1453108703324">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" timestamp="1453097722327">
-        <mark key="'" line="1019" column="27" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/naver/arcus-spring/src/main/java/com/navercorp/arcus/spring/ArcusClientFactoryBean.java" timestamp="1452662922049">
         <mark key="[" line="105" column="26" />
@@ -277,7 +265,7 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IENvbm5lY3Rpb25NYWtlcigpIHsKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyBDb25uZWN0aW9uIG1ha2VDb25uZWN0aW9uKCkgdGhyb3dzIENsYXNzTm90Rm91bmRFeGNlcHRpb24sIFNRTEV4Y2VwdGlvbiB7CiAgICAgICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>1776</text>
+        <text>exit</text>
       </register>
     </registers>
     <search>
@@ -314,12 +302,13 @@
         <entry>gg</entry>
         <entry>gg=G</entry>
         <entry>=G</entry>
-        <entry>q</entry>
         <entry>wq</entry>
         <entry>1031g</entry>
         <entry>w</entry>
         <entry>1654</entry>
         <entry>1776</entry>
+        <entry>q</entry>
+        <entry>exit</entry>
       </history-cmd>
       <history-expr />
       <history-input />
