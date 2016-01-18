@@ -277,7 +277,7 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IENvbm5lY3Rpb25NYWtlcigpIHsKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyBDb25uZWN0aW9uIG1ha2VDb25uZWN0aW9uKCkgdGhyb3dzIENsYXNzTm90Rm91bmRFeGNlcHRpb24sIFNRTEV4Y2VwdGlvbiB7CiAgICAgICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1776</text>
       </register>
     </registers>
     <search>
@@ -318,6 +318,8 @@
         <entry>wq</entry>
         <entry>1031g</entry>
         <entry>w</entry>
+        <entry>1654</entry>
+        <entry>1776</entry>
       </history-cmd>
       <history-expr />
       <history-input />
