@@ -15,8 +15,7 @@
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="5" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/naver/arcus-spring/.gitignore" timestamp="1452663157353">
-        <mark key="[" line="8" column="2" />
+      <file name="$USER_HOME$/Work/arcus/repo/naver/arcus-spring/.gitignore" timestamp="1453282215707">
         <mark key="]" line="9" column="5" />
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="5" />
@@ -269,7 +268,7 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IENvbm5lY3Rpb25NYWtlcigpIHsKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyBDb25uZWN0aW9uIG1ha2VDb25uZWN0aW9uKCkgdGhyb3dzIENsYXNzTm90Rm91bmRFeGNlcHRpb24sIFNRTEV4Y2VwdGlvbiB7CiAgICAgICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>exit</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -306,13 +305,13 @@
         <entry>gg</entry>
         <entry>gg=G</entry>
         <entry>=G</entry>
-        <entry>wq</entry>
         <entry>1031g</entry>
         <entry>w</entry>
         <entry>1654</entry>
         <entry>1776</entry>
         <entry>q</entry>
         <entry>exit</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
