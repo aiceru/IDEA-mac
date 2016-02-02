@@ -25,15 +25,11 @@
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="5" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/protocol/TCPMemcachedNodeImpl.java" timestamp="1454325100163" />
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/.idea/.name" timestamp="1453095101706">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
-      </file>
-      <file name="/a.dummy" timestamp="1454317749773">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/internal/OperationFuture.java" timestamp="1453699133137">
         <mark key="[" line="36" column="14" />
@@ -46,13 +42,6 @@
         <mark key="]" line="0" column="14" />
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
-      </file>
-      <file name="$USER_HOME$/PrivateDev/TobysSpring/pom.xml" timestamp="1453017449177">
-        <mark key="'" line="6" column="4" />
-        <mark key="[" line="31" column="21" />
-        <mark key="]" line="32" column="18" />
-        <mark key="." line="32" column="18" />
-        <mark key="^" line="32" column="18" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/protocol/ascii/BaseGetOpImpl.java" timestamp="1453946980036">
         <mark key="[" line="22" column="37" />
