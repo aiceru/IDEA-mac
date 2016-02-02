@@ -133,11 +133,11 @@
       <file name="$USER_HOME$/Work/arcus/repo/naver/arcus-spring/src/main/java/com/navercorp/arcus/spring/ArcusClientFactoryBean.java" timestamp="1452662922049">
         <mark key="[" line="105" column="26" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/resources/log4j.xml" timestamp="1454390342784">
-        <mark key="[" line="82" column="27" />
-        <mark key="]" line="82" column="25" />
-        <mark key="." line="82" column="25" />
-        <mark key="^" line="82" column="25" />
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/resources/log4j.xml" timestamp="1454393743346">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="8" column="9" />
+        <mark key="." line="8" column="4" />
+        <mark key="^" line="8" column="3" />
       </file>
       <file name="$USER_HOME$/Work/arcus/tests/spring-fundamental/src/main/java/hello/MessageService.java" timestamp="1452853654894">
         <mark key="[" line="5" column="33" />
