@@ -89,7 +89,12 @@
         <mark key="." line="35" column="54" />
         <mark key="^" line="35" column="54" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/collection/BaseIntegrationTest.java" timestamp="1454390078911" />
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/collection/BaseIntegrationTest.java" timestamp="1454392183933">
+        <mark key="[" line="71" column="54" />
+        <mark key="]" line="71" column="53" />
+        <mark key="^" line="71" column="53" />
+        <mark key="." line="71" column="53" />
+      </file>
       <file name="$USER_HOME$/Dev/IDEAWorkspace/WebStudy/Tutorial/web/index.jsp" timestamp="1432293328280">
         <mark key="[" line="15" column="6" />
         <mark key="]" line="9" column="5" />
@@ -312,7 +317,7 @@
         <text encoding="base64">aW1wb3J0IGphdmEuc3FsLkNvbm5lY3Rpb247Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q!</text>
       </register>
     </registers>
     <search>
@@ -356,6 +361,7 @@
         <entry>exit</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>q!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
