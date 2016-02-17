@@ -43,11 +43,11 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/MemcachedConnection.java" timestamp="1455590825706">
-        <mark key="[" line="142" column="4" />
-        <mark key="]" line="142" column="2" />
-        <mark key="^" line="142" column="2" />
-        <mark key="." line="142" column="2" />
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/MemcachedConnection.java" timestamp="1455683716126">
+        <mark key="[" line="190" column="17" />
+        <mark key="]" line="190" column="17" />
+        <mark key="^" line="190" column="17" />
+        <mark key="." line="190" column="17" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/internal/OperationFuture.java" timestamp="1453699133137">
         <mark key="[" line="36" column="14" />
@@ -308,11 +308,11 @@
       <jump line="13" column="74" filename="$USER_HOME$/PrivateDev/TobysSpring/src/main/java/springbook/user/dao/UserDaoTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBBcHBsaWNhdGlvbkNvbnRleHQgY29udGV4dCA9IG5ldyBBbm5vdGF0aW9uQ29uZmlnQXBwbGljYXRpb25Db250ZXh0KERhb0ZhY3RvcnkuY2xhc3MpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>isCancelled</text>
@@ -321,32 +321,32 @@
         <text>StoreType storeType, String key,
 			int exp, CachedData co)</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBBcHBsaWNhdGlvbkNvbnRleHQgY29udGV4dCA9IG5ldyBBbm5vdGF0aW9uQ29uZmlnQXBwbGljYXRpb25Db250ZXh0KERhb0ZhY3RvcnkuY2xhc3MpOwo=</text>
+      <register name="1" type="4">
+        <text>s</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bwo=</text>
+        <text encoding="base64">ICAgICAgICBBcHBsaWNhdGlvbkNvbnRleHQgY29udGV4dCA9IG5ldyBBbm5vdGF0aW9uQ29uZmlnQXBwbGljYXRpb25Db250ZXh0KERhb0ZhY3RvcnkuY2xhc3MpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAiaHR0cDovL3d3dy5zcHJpbmdmcmFtZXdvcmsub3JnL2R0ZC9zcHJpbmctYmVhbnMtMi4wLmR0ZCI+Cg==</text>
+        <text encoding="base64">bwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGJlYW5zIFBVQkxJQyAiLS8vU1BSSU5HLy9EVEQgQkVBTiAyLjAvL0VOIgo=</text>
+        <text encoding="base64">ICAgICAgICAiaHR0cDovL3d3dy5zcHJpbmdmcmFtZXdvcmsub3JnL2R0ZC9zcHJpbmctYmVhbnMtMi4wLmR0ZCI+Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">PCFET0NUWVBFIGJlYW5zIFBVQkxJQyAiLS8vU1BSSU5HLy9EVEQgQkVBTiAyLjAvL0VOIgo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHJldHVybiBuZXcgVXNlckRhbygpOwo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>)</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>(</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>connectionMaker</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBuZXcgVXNlckRhbyhjb25uZWN0aW9uTWFrZXIoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
