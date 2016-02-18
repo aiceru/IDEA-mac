@@ -48,6 +48,12 @@
         <mark key="^" line="13" column="29" />
         <mark key="." line="13" column="29" />
       </file>
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-spring/src/test/java/com/navercorp/arcus/spring/cache/CacheAnnotationTest.java" timestamp="1455768897583">
+        <mark key="[" line="44" column="2" />
+        <mark key="]" line="44" column="2" />
+        <mark key="." line="44" column="2" />
+        <mark key="^" line="44" column="2" />
+      </file>
       <file name="$USER_HOME$/Work/arcus/repo/naver/arcus-spring/src/test/resources/arcus.properties" timestamp="1452506476488">
         <mark key="[" line="0" column="23" />
         <mark key="]" line="0" column="14" />
@@ -255,10 +261,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>private</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>private</text>
       </register>
       <register name="/" type="4">
         <text>isCancelled</text>
@@ -268,31 +274,31 @@
 			int exp, CachedData co)</text>
       </register>
       <register name="1" type="4">
+        <text>private</text>
+      </register>
+      <register name="2" type="4">
         <text>s</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBBcHBsaWNhdGlvbkNvbnRleHQgY29udGV4dCA9IG5ldyBBbm5vdGF0aW9uQ29uZmlnQXBwbGljYXRpb25Db250ZXh0KERhb0ZhY3RvcnkuY2xhc3MpOwo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">bwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAiaHR0cDovL3d3dy5zcHJpbmdmcmFtZXdvcmsub3JnL2R0ZC9zcHJpbmctYmVhbnMtMi4wLmR0ZCI+Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">PCFET0NUWVBFIGJlYW5zIFBVQkxJQyAiLS8vU1BSSU5HLy9EVEQgQkVBTiAyLjAvL0VOIgo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHJldHVybiBuZXcgVXNlckRhbygpOwo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>)</text>
       </register>
-      <register name="8" type="4">
-        <text>(</text>
-      </register>
       <register name="9" type="4">
-        <text>connectionMaker</text>
+        <text>(</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
