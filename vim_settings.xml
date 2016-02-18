@@ -38,7 +38,7 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ops/ExtendedBTreeGetOperation.java" timestamp="1455794471576" />
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ops/ExtendedBTreeGetOperation.java" timestamp="1455796990251" />
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/internal/OperationFuture.java" timestamp="1453699133137">
         <mark key="[" line="36" column="14" />
         <mark key="]" line="36" column="13" />
@@ -86,9 +86,23 @@
         <mark key="^" line="20" column="7" />
         <mark key="." line="20" column="7" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/BTreeGet.java" timestamp="1455794038035" />
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ops/CollectionGetOperation.java" timestamp="1455793979718" />
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" timestamp="1455794143559" />
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/BTreeGet.java" timestamp="1455796851802">
+        <mark key="'" line="82" column="0" />
+        <mark key="[" line="29" column="2" />
+        <mark key="]" line="29" column="4" />
+        <mark key="." line="29" column="4" />
+        <mark key="^" line="29" column="4" />
+      </file>
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/SetGet.java" timestamp="1455794811288" />
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ops/CollectionGetOperation.java" timestamp="1455795945802">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" timestamp="1455796844440" />
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/protocol/ascii/CollectionGetOperationImpl.java" timestamp="1455795603806" />
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/Element.java" timestamp="1455796641861" />
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/BTreeFindPosition.java" timestamp="1454054257455">
         <mark key="]" line="66" column="0" />
         <mark key="^" line="66" column="0" />
@@ -118,7 +132,12 @@
         <mark key="." line="8" column="4" />
         <mark key="^" line="8" column="3" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/CollectionGet.java" timestamp="1455794272693" />
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/CollectionGet.java" timestamp="1455795771319">
+        <mark key="[" line="18" column="36" />
+        <mark key="]" line="18" column="36" />
+        <mark key="^" line="18" column="36" />
+        <mark key="." line="18" column="36" />
+      </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-spring/src/test/java/com/navercorp/arcus/spring/cache/ArcusCacheConfig.java" timestamp="1454642942442">
         <mark key="[" line="59" column="24" />
         <mark key="]" line="61" column="20" />
@@ -131,6 +150,7 @@
         <mark key="^" line="73" column="1" />
         <mark key="." line="73" column="1" />
       </file>
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/CachedData.java" timestamp="1455795627231" />
       <file name="$USER_HOME$/Work/arcus/Tests/defaultLoggerTest/src/HelloArcusTest.java" timestamp="1452755200330">
         <mark key="[" line="14" column="8" />
         <mark key="]" line="8" column="65" />
@@ -167,7 +187,7 @@
         <mark key="^" line="21" column="7" />
         <mark key="." line="21" column="7" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/ExtendedBTreeGet.java" timestamp="1455794283819" />
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/ExtendedBTreeGet.java" timestamp="1455794966278" />
     </filemarks>
     <jumps>
       <jump line="3036" column="23" filename="$USER_HOME$/Work/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" />
@@ -265,13 +285,16 @@
       <jump line="897" column="20" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" />
       <jump line="832" column="24" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" />
       <jump line="13" column="74" filename="$USER_HOME$/PrivateDev/TobysSpring/src/main/java/springbook/user/dao/UserDaoTest.java" />
+      <jump line="82" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/BTreeGet.java" />
+      <jump line="28" column="29" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ops/CollectionGetOperation.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ops/CollectionGetOperation.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>private</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQl2b2lkIGdvdERhdGEoU3RyaW5nIGtleSwgaW50IGZsYWdzLCBieXRlW10gZGF0YSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
         <text>isCancelled</text>
@@ -280,32 +303,32 @@
         <text>StoreType storeType, String key,
 			int exp, CachedData co)</text>
       </register>
-      <register name="1" type="4">
-        <text>private</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQl2b2lkIGdvdERhdGEoU3RyaW5nIGtleSwgaW50IGZsYWdzLCBieXRlW10gZGF0YSk7Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>s</text>
+        <text>?</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBBcHBsaWNhdGlvbkNvbnRleHQgY29udGV4dCA9IG5ldyBBbm5vdGF0aW9uQ29uZmlnQXBwbGljYXRpb25Db250ZXh0KERhb0ZhY3RvcnkuY2xhc3MpOwo=</text>
+      <register name="3" type="4">
+        <text>?</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">bwo=</text>
+      <register name="4" type="4">
+        <text>K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAiaHR0cDovL3d3dy5zcHJpbmdmcmFtZXdvcmsub3JnL2R0ZC9zcHJpbmctYmVhbnMtMi4wLmR0ZCI+Cg==</text>
+      <register name="5" type="4">
+        <text>?</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGJlYW5zIFBVQkxJQyAiLS8vU1BSSU5HLy9EVEQgQkVBTiAyLjAvL0VOIgo=</text>
+      <register name="6" type="4">
+        <text>K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBuZXcgVXNlckRhbygpOwo=</text>
+      <register name="7" type="4">
+        <text>?</text>
       </register>
       <register name="8" type="4">
-        <text>)</text>
+        <text>T</text>
       </register>
       <register name="9" type="4">
-        <text>(</text>
+        <text>T</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
