@@ -130,6 +130,12 @@
         <mark key="." line="8" column="4" />
         <mark key="^" line="8" column="3" />
       </file>
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ops/OperationType.java" timestamp="1455863959496">
+        <mark key="[" line="91" column="12" />
+        <mark key="]" line="91" column="8" />
+        <mark key="^" line="91" column="8" />
+        <mark key="." line="91" column="8" />
+      </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/CollectionGet.java" timestamp="1455795771319">
         <mark key="[" line="18" column="36" />
         <mark key="]" line="18" column="36" />
