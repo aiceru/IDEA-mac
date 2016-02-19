@@ -15,18 +15,8 @@
         <mark key="^" line="71" column="53" />
         <mark key="." line="71" column="53" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-spring/.gitignore" timestamp="1453351886499">
-        <mark key="]" line="9" column="4" />
-        <mark key="^" line="9" column="4" />
-        <mark key="." line="9" column="4" />
-      </file>
       <file name="$USER_HOME$/Dev/IDEAWorkspace/WebStudy/Tutorial/web/index.jsp" timestamp="1432293328280">
         <mark key="[" line="15" column="6" />
-        <mark key="]" line="9" column="5" />
-        <mark key="^" line="9" column="5" />
-        <mark key="." line="9" column="5" />
-      </file>
-      <file name="$USER_HOME$/Work/arcus/repo/naver/arcus-spring/.gitignore" timestamp="1453282215707">
         <mark key="]" line="9" column="5" />
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="5" />
@@ -46,11 +36,6 @@
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/GenericsTest/src/Callee.java" timestamp="1455797914716">
         <mark key="[" line="3" column="21" />
-      </file>
-      <file name="$USER_HOME$/PrivateDev/TobysSpring/src/main/java/springbook/user/dao/UserDao.java" timestamp="1455426998727">
-        <mark key="]" line="13" column="29" />
-        <mark key="^" line="13" column="29" />
-        <mark key="." line="13" column="29" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-spring/src/test/java/com/navercorp/arcus/spring/cache/CacheAnnotationTest.java" timestamp="1455768897583">
         <mark key="[" line="44" column="2" />
@@ -104,11 +89,6 @@
         <mark key="." line="3331" column="50" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/Element.java" timestamp="1455796641861" />
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/BTreeFindPosition.java" timestamp="1454054257455">
-        <mark key="]" line="66" column="0" />
-        <mark key="^" line="66" column="0" />
-        <mark key="." line="66" column="0" />
-      </file>
       <file name="$USER_HOME$/PrivateDev/TobysSpring/src/main/java/springbook/user/dao/DaoFactory.java" timestamp="1455430649776">
         <mark key="[" line="11" column="28" />
         <mark key="]" line="14" column="14" />
