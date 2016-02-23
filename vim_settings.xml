@@ -32,10 +32,11 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/resources/simpleAppContext.xml" timestamp="1456220129019">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="22" column="8" />
-        <mark key="." line="22" column="8" />
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/resources/simpleAppContext.xml" timestamp="1456220333784">
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="1" column="12" />
+        <mark key="." line="1" column="12" />
+        <mark key="^" line="1" column="12" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/SimpleAppMain.java" timestamp="1456216959119" />
       <file name="$USER_HOME$/Work/arcus/tests/spring-fundamental/src/main/java/hello/MessagePrinter.java" timestamp="1452855886994">
@@ -323,8 +324,8 @@
       <jump line="122" column="44" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>*</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgeG1sbnM6cD0iaHR0cDovL3d3dy5zcHJpbmdmcmFtZXdvcmsub3JnL3NjaGVtYS9iZWFucyI+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>*</text>
@@ -335,8 +336,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICogPGJlYW4gaWQ9Im9wZXJhdGlvblRyYW5zY29kZXJBIiBjbGFzcz0ibmV0LnNweS5tZW1jYWNoZWQudHJhbnNjb2RlcnMuU2VyaWFsaXppbmdUcmFuc2NvZGVyIj4KICogICA8cHJvcGVydHkgbmFtZT0iY2hhcnNldCIgdmFsdWU9IlVURi04IiAvPgogKiAgIDxwcm9wZXJ0eSBuYW1lPSJjb21wcmVzc2lvblRocmVzaG9sZCIgdmFsdWU9IjQwMCIgLz4KICogPC9iZWFuPgogKiAKICogPGJlYW4gaWQ9Im9wZXJhdGlvblRyYW5zY29kZXJCIiBjbGFzcz0ibmV0LnNweS5tZW1jYWNoZWQudHJhbnNjb2RlcnMuU2VyaWFsaXppbmdUcmFuc2NvZGVyIj4KICogICA8cHJvcGVydHkgbmFtZT0iY2hhcnNldCIgdmFsdWU9IlVURi04IiAvPgogKiAgIDxwcm9wZXJ0eSBuYW1lPSJjb21wcmVzc2lvblRocmVzaG9sZCIgdmFsdWU9IjEwMjQiIC8+CiAqIDwvYmVhbj4KICogCiAqIDxiZWFuIGlkPSJhcmN1c0NhY2hlTWFuYWdlciIgY2xhc3M9Im9yZy5zcHJpbmdmcmFtZXdvcmsuY2FjaGUuc3VwcG9ydC5TaW1wbGVDYWNoZU1hbmFnZXIiPgogKiAgIDxwcm9wZXJ0eSBuYW1lPSJjYWNoZXMiPgogKiAgICAgPGxpc3Q+CiAqICAgICAgIDxiZWFuIHA6bmFtZT0ibWVtYmVyIiBwOnRpbWVvdXRNaWxsaVNlY29uZHM9IjUwMCIgcGFyZW50PSJkZWZhdWx0QXJjdXNDYWNoZSIgcDpvcGVyYXRpb25UcmFuc2NvZGVyLXJlZj0ib3BlcmF0aW9uVHJhbnNjb2RlckEiIC8+CiAqICAgICAgIDxiZWFuIHA6bmFtZT0ibWVtYmVyTGlzdCIgcDpleHBpcmVTZWNvbmRzPSIzMDAwIglwYXJlbnQ9ImRlZmF1bHRBcmN1c0NhY2hlIiBwOm9wZXJhdGlvblRyYW5zY29kZXItcmVmPSJvcGVyYXRpb25UcmFuc2NvZGVyQiIgLz4KICogICAgIDwvbGlzdD4KICogICA8L3Byb3BlcnR5PgogKiA8L2JlYW4+CiAqIAogKiA8YmVhbiBpZD0iZGVmYXVsdEFyY3VzQ2FjaGUiIGNsYXNzPSJjb20ubmF2ZXJjb3JwLmFyY3VzLnNwcmluZy5jYWNoZS5BcmN1c0NhY2hlIgogKiAgIHA6YXJjdXNDbGllbnQtcmVmPSJhcmN1c0NsaWVudCIgcDp0aW1lb3V0TWlsbGlTZWNvbmRzPSI1MDAiCiAqICAgcDpleHBpcmVTZWNvbmRzPSIzMDAwIiBhYnN0cmFjdD0idHJ1ZSIgc2VydmljZUlkPSJiZXRhLSIgLz4K</text>
       </register>
-      <register name="1" type="4">
-        <text>*</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgeG1sbnM6cD0iaHR0cDovL3d3dy5zcHJpbmdmcmFtZXdvcmsub3JnL3NjaGVtYS9iZWFucyI+Cg==</text>
       </register>
       <register name="2" type="4">
         <text>*</text>
@@ -345,10 +346,10 @@
         <text>*</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>*</text>
       </register>
       <register name="5" type="4">
-        <text>*</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
         <text>*</text>
