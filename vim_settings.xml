@@ -71,6 +71,13 @@
         <mark key="." line="29" column="7" />
         <mark key="^" line="29" column="7" />
       </file>
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/SimpleAppMain.java" timestamp="1456227877014">
+        <mark key="[" line="33" column="12" />
+        <mark key="]" line="34" column="28" />
+        <mark key="m" line="33" column="25" />
+        <mark key="." line="34" column="28" />
+        <mark key="^" line="34" column="28" />
+      </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/protocol/ascii/BaseGetOpImpl.java" timestamp="1453946980036">
         <mark key="[" line="22" column="37" />
         <mark key="]" line="22" column="36" />
@@ -97,6 +104,12 @@
         <mark key="." line="14" column="14" />
         <mark key="^" line="14" column="14" />
       </file>
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/pom.xml" timestamp="1456227086666">
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="15" column="22" />
+        <mark key="." line="15" column="22" />
+        <mark key="^" line="15" column="22" />
+      </file>
       <file name="$USER_HOME$/Work/arcus/tests/defaultLoggerTest/src/HelloArcusTest.java" timestamp="1452837909156">
         <mark key="[" line="16" column="30" />
         <mark key="]" line="20" column="7" />
@@ -109,6 +122,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/driver/DummyDBInterface.java" timestamp="1456227922613">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="1" />
+        <mark key="^" line="8" column="1" />
+        <mark key="." line="8" column="1" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" timestamp="1456124778436">
         <mark key="[" line="96" column="0" />
@@ -207,6 +226,12 @@
       <file name="/fragment.java" timestamp="1456216291222">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/driver/DummyDBWrapper.java" timestamp="1456227799630">
+        <mark key="[" line="5" column="28" />
+        <mark key="]" line="5" column="55" />
+        <mark key="^" line="5" column="55" />
+        <mark key="." line="5" column="55" />
+      </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/ExtendedBTreeGet.java" timestamp="1456124336819">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="20" column="10" />
@@ -233,7 +258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="16" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
       <jump line="537" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
       <jump line="60" column="8" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
       <jump line="23" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
@@ -333,46 +357,47 @@
       <jump line="20" column="4" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/driver/ArcusClientWrapper.java" />
       <jump line="23" column="0" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/driver/ArcusClientWrapper.java" />
       <jump line="19" column="4" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/driver/ArcusClientWrapper.java" />
+      <jump line="71" column="3" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/driver/DummyDBInterface.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+        <text encoding="base64">Ly8gIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text encoding="base64">Ly8gIA==</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICogPGJlYW4gaWQ9Im9wZXJhdGlvblRyYW5zY29kZXJBIiBjbGFzcz0ibmV0LnNweS5tZW1jYWNoZWQudHJhbnNjb2RlcnMuU2VyaWFsaXppbmdUcmFuc2NvZGVyIj4KICogICA8cHJvcGVydHkgbmFtZT0iY2hhcnNldCIgdmFsdWU9IlVURi04IiAvPgogKiAgIDxwcm9wZXJ0eSBuYW1lPSJjb21wcmVzc2lvblRocmVzaG9sZCIgdmFsdWU9IjQwMCIgLz4KICogPC9iZWFuPgogKiAKICogPGJlYW4gaWQ9Im9wZXJhdGlvblRyYW5zY29kZXJCIiBjbGFzcz0ibmV0LnNweS5tZW1jYWNoZWQudHJhbnNjb2RlcnMuU2VyaWFsaXppbmdUcmFuc2NvZGVyIj4KICogICA8cHJvcGVydHkgbmFtZT0iY2hhcnNldCIgdmFsdWU9IlVURi04IiAvPgogKiAgIDxwcm9wZXJ0eSBuYW1lPSJjb21wcmVzc2lvblRocmVzaG9sZCIgdmFsdWU9IjEwMjQiIC8+CiAqIDwvYmVhbj4KICogCiAqIDxiZWFuIGlkPSJhcmN1c0NhY2hlTWFuYWdlciIgY2xhc3M9Im9yZy5zcHJpbmdmcmFtZXdvcmsuY2FjaGUuc3VwcG9ydC5TaW1wbGVDYWNoZU1hbmFnZXIiPgogKiAgIDxwcm9wZXJ0eSBuYW1lPSJjYWNoZXMiPgogKiAgICAgPGxpc3Q+CiAqICAgICAgIDxiZWFuIHA6bmFtZT0ibWVtYmVyIiBwOnRpbWVvdXRNaWxsaVNlY29uZHM9IjUwMCIgcGFyZW50PSJkZWZhdWx0QXJjdXNDYWNoZSIgcDpvcGVyYXRpb25UcmFuc2NvZGVyLXJlZj0ib3BlcmF0aW9uVHJhbnNjb2RlckEiIC8+CiAqICAgICAgIDxiZWFuIHA6bmFtZT0ibWVtYmVyTGlzdCIgcDpleHBpcmVTZWNvbmRzPSIzMDAwIglwYXJlbnQ9ImRlZmF1bHRBcmN1c0NhY2hlIiBwOm9wZXJhdGlvblRyYW5zY29kZXItcmVmPSJvcGVyYXRpb25UcmFuc2NvZGVyQiIgLz4KICogICAgIDwvbGlzdD4KICogICA8L3Byb3BlcnR5PgogKiA8L2JlYW4+CiAqIAogKiA8YmVhbiBpZD0iZGVmYXVsdEFyY3VzQ2FjaGUiIGNsYXNzPSJjb20ubmF2ZXJjb3JwLmFyY3VzLnNwcmluZy5jYWNoZS5BcmN1c0NhY2hlIgogKiAgIHA6YXJjdXNDbGllbnQtcmVmPSJhcmN1c0NsaWVudCIgcDp0aW1lb3V0TWlsbGlTZWNvbmRzPSI1MDAiCiAqICAgcDpleHBpcmVTZWNvbmRzPSIzMDAwIiBhYnN0cmFjdD0idHJ1ZSIgc2VydmljZUlkPSJiZXRhLSIgLz4K</text>
+      <register name="0" type="4">
+        <text encoding="base64">cHVibGljIHZvaWQgY29ubmVjdCgpIHsKICAgICAgICAvLyBTeXN0ZW0uZXJyLnByaW50bG4oIkNhbid0IGNvbm5lY3QgRGF0YWJhc2UiKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkNvbm5lY3QgZGF0YWJhc2UiKTsKICAgIH0KICAgIAogICAgcHVibGljIHZvaWQgZGlzY29ubmVjdCgpIHsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkRpc2Nvbm5lY3QgZGF0YWJhc2UiKTsKICAgIH0KICAgIAogICAgcHVibGljIGJvb2xlYW4gaW5zZXJ0VXNlcihTdHJpbmcgdWlkLCBTdHJpbmcgbmFtZSkgewogICAgICAgIGlmICh1c2VyTWFwLmNvbnRhaW5zS2V5KHVpZCkgfHwgYXJ0aWNsZU1hcC5jb250YWluc0tleSh1aWQpKQogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgCiAgICAgICAgdXNlck1hcC5wdXQodWlkLCBuYW1lKTsKICAgICAgICBhcnRpY2xlTWFwLnB1dCh1aWQsIG5ldyBUcmVlTWFwPExvbmcsIFN0cmluZz4oKSk7CiAgICAgICAgCiAgICAgICAgcmV0dXJuIHRydWU7CiAgICB9CiAgICAKICAgIHB1YmxpYyBTdHJpbmcgZ2V0VXNlcihTdHJpbmcgdWlkKSB7CiAgICAgICAgcmV0dXJuIHVzZXJNYXAuZ2V0KHVpZCk7CiAgICB9CiAgICAKICAgIHB1YmxpYyBib29sZWFuIGRlbGV0ZVVzZXIoU3RyaW5nIHVpZCkgewogICAgICAgIGFydGljbGVNYXAucmVtb3ZlKHVpZCk7CiAgICAgICAgaWYgKHVzZXJNYXAucmVtb3ZlKHVpZCkgPT0gbnVsbCkKICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIHJldHVybiB0cnVlOwogICAgfQogICAgCiAgICBwdWJsaWMgYm9vbGVhbiBpbnNlcnRBcnRpY2xlKFN0cmluZyB1aWQsIGxvbmcgZGF0ZSwgU3RyaW5nIGFydGljbGUpIHsKICAgICAgICBNYXA8TG9uZywgU3RyaW5nPiBhbGxBcnRpY2xlcyA9IGFydGljbGVNYXAuZ2V0KHVpZCk7CiAgICAgICAgCiAgICAgICAgaWYgKGFsbEFydGljbGVzID09IG51bGwpIHsKICAgICAgICAgICAgU3lzdGVtLmVyci5wcmludGYoIkNhbid0IGZpbmQgYXJ0aWNsZXMgbGlzdCBvZiAlcyBmb3IgaW5zZXJ0IGFydGljbGUgZnJvbSBkYXRhYmFzZS5cbiIsIHVpZCk7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9CiAgICAgICAgCiAgICAgICAgaWYgKGFsbEFydGljbGVzLmNvbnRhaW5zS2V5KGRhdGUpKQogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgCiAgICAgICAgYWxsQXJ0aWNsZXMucHV0KGRhdGUsIGFydGljbGUpOwogICAgICAgIAogICAgICAgIHJldHVybiB0cnVlOwogICAgfQogICAgCiAgICBwdWJsaWMgTWFwPExvbmcsIFN0cmluZz4gZ2V0QXJ0aWNsZXMoU3RyaW5nIHVpZCwgbG9uZyBkYXRlLCBpbnQgY291bnQpIHsKICAgICAgICBUcmVlTWFwPExvbmcsIFN0cmluZz4gYWxsQXJ0aWNsZXMgPSBhcnRpY2xlTWFwLmdldCh1aWQpOwogICAgICAgIAogICAgICAgIGlmIChhbGxBcnRpY2xlcyA9PSBudWxsKSB7CiAgICAgICAgICAgIFN5c3RlbS5lcnIucHJpbnRmKCJDYW4ndCBmaW5kIGFydGljbGVzIGxpc3Qgb2YgJXMgZm9yIGdldCBhcnRpY2xlIGZyb20gZGF0YWJhc2UuXG4iLCB1aWQpOwogICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICB9CiAgICAgICAgCiAgICAgICAgTWFwPExvbmcsIFN0cmluZz4gYXJ0aWNsZXMgPSBuZXcgSGFzaE1hcDxMb25nLCBTdHJpbmc+KCk7CiAgICAgICAgSXRlcmF0b3I8RW50cnk8TG9uZywgU3RyaW5nPj4gaXRlciA9IGFsbEFydGljbGVzLmRlc2NlbmRpbmdNYXAoKS5lbnRyeVNldCgpLml0ZXJhdG9yKCk7CiAgICAgICAgRW50cnk8TG9uZywgU3RyaW5nPiBlID0gbnVsbDsgCiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBjb3VudCAmJiBpdGVyLmhhc05leHQoKTsgaSsrKSB7CiAgICAgICAgICAgIGUgPSBpdGVyLm5leHQoKTsKICAgICAgICAgICAgaWYgKGUuZ2V0S2V5KCkgPD0gZGF0ZSkKICAgICAgICAgICAgICAgIGFydGljbGVzLnB1dChlLmdldEtleSgpLCBlLmdldFZhbHVlKCkpOwogICAgICAgIH0KICAgICAgICAKICAgICAgICByZXR1cm4gYXJ0aWNsZXM7CiAgICB9CiAgICAKICAgIHB1YmxpYyBNYXA8TG9uZywgU3RyaW5nPiBnZXRBcnRpY2xlc0JldHdlZW4oU3RyaW5nIHVpZCwgbG9uZyBmcm9tRGF0ZSwgbG9uZyB0b0RhdGUpIHsKICAgICAgICBUcmVlTWFwPExvbmcsIFN0cmluZz4gYWxsQXJ0aWNsZXMgPSBhcnRpY2xlTWFwLmdldCh1aWQpOwogICAgICAgIAogICAgICAgIGlmIChhbGxBcnRpY2xlcyA9PSBudWxsKSB7CiAgICAgICAgICAgIFN5c3RlbS5lcnIucHJpbnRmKCJDYW4ndCBmaW5kIGFydGljbGVzIGxpc3Qgb2YgJXMgZm9yIGdldCBhcnRpY2xlIGJldHdlZW4gZnJvbSBkYXRhYmFzZS5cbiIsIHVpZCk7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgICAgICAKICAgICAgICBNYXA8TG9uZywgU3RyaW5nPiBhcnRpY2xlcyA9IGFsbEFydGljbGVzLnN1Yk1hcChmcm9tRGF0ZSwgdG9EYXRlKTsKICAgICAgICBpZiAoYXJ0aWNsZXMuaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5lcnIucHJpbnRmKCJkb24ndCBleGlzdCBhcnRpY2xlcyBiZXR3ZWVuIGZyb20gZGF0YWJhc2VcbiIsIHVpZCk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBhcnRpY2xlczsKICAgIH0KICAgIAogICAgcHVibGljIGJvb2xlYW4gZGVsZXRlQXJ0aWNsZShTdHJpbmcgdWlkLCBsb25nIGRhdGUpIHsKICAgICAgICBNYXA8TG9uZywgU3RyaW5nPiBhbGxBcnRpY2xlcyA9IGFydGljbGVNYXAuZ2V0KHVpZCk7CiAgICAgICAgCiAgICAgICAgaWYgKGFsbEFydGljbGVzID09IG51bGwpIHsKICAgICAgICAgICAgU3lzdGVtLmVyci5wcmludGYoIkNhbid0IGZpbmQgYXJ0aWNsZXMgbGlzdCBvZiAlcyBmb3IgZGVsZXRlIGFydGljbGUgZm9ybSBkYXRhYmFzZS5cbiIsIHVpZCk7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9CiAgICAgICAgCiAgICAgICAgaWYgKGFsbEFydGljbGVzLnJlbW92ZShkYXRlKSA9PSBudWxsKSB7CiAgICAgICAgICAgIFN5c3RlbS5lcnIucHJpbnRmKCJDYW4ndCBmaW5kIGFydGljbGVzICglcyA6ICVzKSB0byBkZWxldGUgZnJvbSBkYXRhYmFzZS5cbiIsIHVpZCwgbmV3IERhdGUoZGF0ZSkpOwogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQogICAgICAgIAogICAgICAgIHJldHVybiB0cnVlOwogICAgfQogICAgCiAgICBwdWJsaWMgdm9pZCBkZWxldGVBcnRpY2xlc0JldHdlZW4oU3RyaW5nIHVpZCwgbG9uZyBmcm9tRGF0ZSwgbG9uZyB0b0RhdGUpIHs=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">Pg==</text>
+        <text encoding="base64">Ly8gIA==</text>
       </register>
       <register name="2" type="4">
-        <text>s</text>
+        <text encoding="base64">RHVtbXlEQldyYXBwZXIg</text>
       </register>
-      <register name="3" type="4">
-        <text>n</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgRHVtbXlEQldyYXBwZXIgZGJDbGk7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>a</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="4">
-        <text>e</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="4">
-        <text>b</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="4">
-        <text>/</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">PA==</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIGh0dHA6Ly93d3cuc3ByaW5nZnJhbWV3b3JrLm9yZy9zY2hlbWEvcCBodHRwOi8vd3d3LnNwcmluZ2ZyYW1ld29yay5vcmcvc2NoZW1hL3AiCg==</text>
+      <register name="9" type="4">
+        <text>{</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
