@@ -124,6 +124,7 @@
         <mark key="^" line="20" column="10" />
         <mark key="." line="20" column="10" />
       </file>
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/arcus-spring/src/main/java/com/navercorp/arcus/spring/cache/ArcusCache.java" timestamp="1456219210802" />
       <file name="$USER_HOME$/Work/arcus/repo/naver/arcus-spring/src/test/java/com/navercorp/arcus/spring/cache/ArcusCacheIntegrationTest.java" timestamp="1452749514550">
         <mark key="[" line="35" column="21" />
         <mark key="]" line="35" column="54" />
@@ -180,6 +181,7 @@
         <mark key="." line="8" column="4" />
         <mark key="^" line="8" column="3" />
       </file>
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/arcus-spring/src/test/java/com/navercorp/arcus/spring/ArcusTemplateTest.java" timestamp="1456219179364" />
       <file name="$USER_HOME$/PrivateDev/TobysSpring/src/main/java/springbook/user/dao/SimpleConnectionMaker.java" timestamp="1453017627182">
         <mark key="[" line="14" column="66" />
         <mark key="]" line="14" column="60" />
