@@ -104,11 +104,11 @@
         <mark key="." line="14" column="14" />
         <mark key="^" line="14" column="14" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/pom.xml" timestamp="1456227086666">
-        <mark key="[" line="8" column="28" />
-        <mark key="]" line="15" column="22" />
-        <mark key="." line="15" column="22" />
-        <mark key="^" line="15" column="22" />
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/pom.xml" timestamp="1456286531072">
+        <mark key="[" line="19" column="24" />
+        <mark key="]" line="21" column="25" />
+        <mark key="." line="21" column="25" />
+        <mark key="^" line="21" column="25" />
       </file>
       <file name="$USER_HOME$/Work/arcus/tests/defaultLoggerTest/src/HelloArcusTest.java" timestamp="1452837909156">
         <mark key="[" line="16" column="30" />
@@ -227,11 +227,6 @@
       </file>
       <file name="/fragment.java" timestamp="1456216291222">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/driver/DummyDBWrapper.java" timestamp="1456284221873">
-        <mark key="]" line="5" column="55" />
-        <mark key="^" line="5" column="55" />
-        <mark key="." line="5" column="55" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/ExtendedBTreeGet.java" timestamp="1456124336819">
         <mark key="[" line="19" column="0" />
