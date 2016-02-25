@@ -38,11 +38,11 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/resources/simpleAppContext.xml" timestamp="1456378423651">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="16" column="57" />
-        <mark key="." line="16" column="57" />
-        <mark key="^" line="16" column="57" />
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/resources/simpleAppContext.xml" timestamp="1456381314456">
+        <mark key="[" line="39" column="71" />
+        <mark key="]" line="39" column="71" />
+        <mark key="." line="39" column="71" />
+        <mark key="^" line="39" column="71" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/SimpleAppMain.java" timestamp="1456374422802">
         <mark key="[" line="119" column="28" />
@@ -157,7 +157,7 @@
         <mark key="^" line="20" column="10" />
         <mark key="." line="20" column="10" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/arcus-spring/src/main/java/com/navercorp/arcus/spring/cache/ArcusCache.java" timestamp="1456291022968">
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/arcus-spring/src/main/java/com/navercorp/arcus/spring/cache/ArcusCache.java" timestamp="1456381342285">
         <mark key="a" line="64" column="3" />
         <mark key="j" line="43" column="3" />
         <mark key="[" line="43" column="0" />
@@ -216,11 +216,10 @@
         <mark key="^" line="8" column="1" />
         <mark key="." line="8" column="1" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/test/java/com/jam2in/arcus/MapCacheTest.java" timestamp="1456380409261">
-        <mark key="[" line="24" column="27" />
-        <mark key="]" line="26" column="79" />
-        <mark key="^" line="26" column="79" />
-        <mark key="." line="26" column="79" />
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/test/java/com/jam2in/arcus/MapCacheTest.java" timestamp="1456381245668">
+        <mark key="]" line="24" column="30" />
+        <mark key="." line="24" column="30" />
+        <mark key="^" line="24" column="30" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" timestamp="1456124778436">
         <mark key="[" line="96" column="0" />
@@ -258,7 +257,7 @@
         <mark key="^" line="127" column="56" />
         <mark key="." line="127" column="56" />
       </file>
-      <file name="/fragment.java" timestamp="1456380346591">
+      <file name="/fragment.java" timestamp="1456381112169">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/driver/DummyDBWrapper.java" timestamp="1456379602766">
@@ -281,7 +280,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
       <jump line="586" column="8" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
       <jump line="587" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
       <jump line="63" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
@@ -381,13 +379,14 @@
       <jump line="71" column="3" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/driver/DummyDBInterface.java" />
       <jump line="351" column="5" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/SimpleApp.java" />
       <jump line="16" column="0" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/SimpleApp.java" />
+      <jump line="36" column="18" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/driver/DummyDBWrapper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>맵캐시할수있나() {</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGFzc2VydAo=</text>
       </register>
       <register name="-" type="4">
-        <text>맵캐시할수있나() {</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
@@ -395,32 +394,32 @@
       <register name="0" type="4">
         <text encoding="base64">cHVibGljIHZvaWQgY29ubmVjdCgpIHsKICAgICAgICAvLyBTeXN0ZW0uZXJyLnByaW50bG4oIkNhbid0IGNvbm5lY3QgRGF0YWJhc2UiKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkNvbm5lY3QgZGF0YWJhc2UiKTsKICAgIH0KICAgIAogICAgcHVibGljIHZvaWQgZGlzY29ubmVjdCgpIHsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkRpc2Nvbm5lY3QgZGF0YWJhc2UiKTsKICAgIH0KICAgIAogICAgcHVibGljIGJvb2xlYW4gaW5zZXJ0VXNlcihTdHJpbmcgdWlkLCBTdHJpbmcgbmFtZSkgewogICAgICAgIGlmICh1c2VyTWFwLmNvbnRhaW5zS2V5KHVpZCkgfHwgYXJ0aWNsZU1hcC5jb250YWluc0tleSh1aWQpKQogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgCiAgICAgICAgdXNlck1hcC5wdXQodWlkLCBuYW1lKTsKICAgICAgICBhcnRpY2xlTWFwLnB1dCh1aWQsIG5ldyBUcmVlTWFwPExvbmcsIFN0cmluZz4oKSk7CiAgICAgICAgCiAgICAgICAgcmV0dXJuIHRydWU7CiAgICB9CiAgICAKICAgIHB1YmxpYyBTdHJpbmcgZ2V0VXNlcihTdHJpbmcgdWlkKSB7CiAgICAgICAgcmV0dXJuIHVzZXJNYXAuZ2V0KHVpZCk7CiAgICB9CiAgICAKICAgIHB1YmxpYyBib29sZWFuIGRlbGV0ZVVzZXIoU3RyaW5nIHVpZCkgewogICAgICAgIGFydGljbGVNYXAucmVtb3ZlKHVpZCk7CiAgICAgICAgaWYgKHVzZXJNYXAucmVtb3ZlKHVpZCkgPT0gbnVsbCkKICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIHJldHVybiB0cnVlOwogICAgfQogICAgCiAgICBwdWJsaWMgYm9vbGVhbiBpbnNlcnRBcnRpY2xlKFN0cmluZyB1aWQsIGxvbmcgZGF0ZSwgU3RyaW5nIGFydGljbGUpIHsKICAgICAgICBNYXA8TG9uZywgU3RyaW5nPiBhbGxBcnRpY2xlcyA9IGFydGljbGVNYXAuZ2V0KHVpZCk7CiAgICAgICAgCiAgICAgICAgaWYgKGFsbEFydGljbGVzID09IG51bGwpIHsKICAgICAgICAgICAgU3lzdGVtLmVyci5wcmludGYoIkNhbid0IGZpbmQgYXJ0aWNsZXMgbGlzdCBvZiAlcyBmb3IgaW5zZXJ0IGFydGljbGUgZnJvbSBkYXRhYmFzZS5cbiIsIHVpZCk7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9CiAgICAgICAgCiAgICAgICAgaWYgKGFsbEFydGljbGVzLmNvbnRhaW5zS2V5KGRhdGUpKQogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgCiAgICAgICAgYWxsQXJ0aWNsZXMucHV0KGRhdGUsIGFydGljbGUpOwogICAgICAgIAogICAgICAgIHJldHVybiB0cnVlOwogICAgfQogICAgCiAgICBwdWJsaWMgTWFwPExvbmcsIFN0cmluZz4gZ2V0QXJ0aWNsZXMoU3RyaW5nIHVpZCwgbG9uZyBkYXRlLCBpbnQgY291bnQpIHsKICAgICAgICBUcmVlTWFwPExvbmcsIFN0cmluZz4gYWxsQXJ0aWNsZXMgPSBhcnRpY2xlTWFwLmdldCh1aWQpOwogICAgICAgIAogICAgICAgIGlmIChhbGxBcnRpY2xlcyA9PSBudWxsKSB7CiAgICAgICAgICAgIFN5c3RlbS5lcnIucHJpbnRmKCJDYW4ndCBmaW5kIGFydGljbGVzIGxpc3Qgb2YgJXMgZm9yIGdldCBhcnRpY2xlIGZyb20gZGF0YWJhc2UuXG4iLCB1aWQpOwogICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICB9CiAgICAgICAgCiAgICAgICAgTWFwPExvbmcsIFN0cmluZz4gYXJ0aWNsZXMgPSBuZXcgSGFzaE1hcDxMb25nLCBTdHJpbmc+KCk7CiAgICAgICAgSXRlcmF0b3I8RW50cnk8TG9uZywgU3RyaW5nPj4gaXRlciA9IGFsbEFydGljbGVzLmRlc2NlbmRpbmdNYXAoKS5lbnRyeVNldCgpLml0ZXJhdG9yKCk7CiAgICAgICAgRW50cnk8TG9uZywgU3RyaW5nPiBlID0gbnVsbDsgCiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBjb3VudCAmJiBpdGVyLmhhc05leHQoKTsgaSsrKSB7CiAgICAgICAgICAgIGUgPSBpdGVyLm5leHQoKTsKICAgICAgICAgICAgaWYgKGUuZ2V0S2V5KCkgPD0gZGF0ZSkKICAgICAgICAgICAgICAgIGFydGljbGVzLnB1dChlLmdldEtleSgpLCBlLmdldFZhbHVlKCkpOwogICAgICAgIH0KICAgICAgICAKICAgICAgICByZXR1cm4gYXJ0aWNsZXM7CiAgICB9CiAgICAKICAgIHB1YmxpYyBNYXA8TG9uZywgU3RyaW5nPiBnZXRBcnRpY2xlc0JldHdlZW4oU3RyaW5nIHVpZCwgbG9uZyBmcm9tRGF0ZSwgbG9uZyB0b0RhdGUpIHsKICAgICAgICBUcmVlTWFwPExvbmcsIFN0cmluZz4gYWxsQXJ0aWNsZXMgPSBhcnRpY2xlTWFwLmdldCh1aWQpOwogICAgICAgIAogICAgICAgIGlmIChhbGxBcnRpY2xlcyA9PSBudWxsKSB7CiAgICAgICAgICAgIFN5c3RlbS5lcnIucHJpbnRmKCJDYW4ndCBmaW5kIGFydGljbGVzIGxpc3Qgb2YgJXMgZm9yIGdldCBhcnRpY2xlIGJldHdlZW4gZnJvbSBkYXRhYmFzZS5cbiIsIHVpZCk7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgICAgICAKICAgICAgICBNYXA8TG9uZywgU3RyaW5nPiBhcnRpY2xlcyA9IGFsbEFydGljbGVzLnN1Yk1hcChmcm9tRGF0ZSwgdG9EYXRlKTsKICAgICAgICBpZiAoYXJ0aWNsZXMuaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5lcnIucHJpbnRmKCJkb24ndCBleGlzdCBhcnRpY2xlcyBiZXR3ZWVuIGZyb20gZGF0YWJhc2VcbiIsIHVpZCk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBhcnRpY2xlczsKICAgIH0KICAgIAogICAgcHVibGljIGJvb2xlYW4gZGVsZXRlQXJ0aWNsZShTdHJpbmcgdWlkLCBsb25nIGRhdGUpIHsKICAgICAgICBNYXA8TG9uZywgU3RyaW5nPiBhbGxBcnRpY2xlcyA9IGFydGljbGVNYXAuZ2V0KHVpZCk7CiAgICAgICAgCiAgICAgICAgaWYgKGFsbEFydGljbGVzID09IG51bGwpIHsKICAgICAgICAgICAgU3lzdGVtLmVyci5wcmludGYoIkNhbid0IGZpbmQgYXJ0aWNsZXMgbGlzdCBvZiAlcyBmb3IgZGVsZXRlIGFydGljbGUgZm9ybSBkYXRhYmFzZS5cbiIsIHVpZCk7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9CiAgICAgICAgCiAgICAgICAgaWYgKGFsbEFydGljbGVzLnJlbW92ZShkYXRlKSA9PSBudWxsKSB7CiAgICAgICAgICAgIFN5c3RlbS5lcnIucHJpbnRmKCJDYW4ndCBmaW5kIGFydGljbGVzICglcyA6ICVzKSB0byBkZWxldGUgZnJvbSBkYXRhYmFzZS5cbiIsIHVpZCwgbmV3IERhdGUoZGF0ZSkpOwogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQogICAgICAgIAogICAgICAgIHJldHVybiB0cnVlOwogICAgfQogICAgCiAgICBwdWJsaWMgdm9pZCBkZWxldGVBcnRpY2xlc0JldHdlZW4oU3RyaW5nIHVpZCwgbG9uZyBmcm9tRGF0ZSwgbG9uZyB0b0RhdGUpIHs=</text>
       </register>
-      <register name="1" type="4">
-        <text>맵캐시할수있나() {</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGFzc2VydAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZGJJbnRlcmZhY2UuZ2V0QXJ0aWNsZXMoIm5vaWQiLCAxTCwgMTAwKTsK</text>
+        <text encoding="base64">ICAgIGZvcihpbnQgaSA9IDA7IGkgPCA1OyBpKyspIHsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGZvcihpbnQgaSA9IDA7IGkgPCAxMDsgaSsrKSB7Cg==</text>
+      <register name="4" type="4">
+        <text>(</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIER1bW15REJJbnRlcmZhY2UgZGJJbnRlcmZhY2UgPSBuZXcgRHVtbXlEQldyYXBwZXIoKTsK</text>
+      <register name="5" type="4">
+        <text>println</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFRoYXQoKChEdW1teURCV3JhcHBlcilkYkludGVyZmFjZSkuZ2V0R2V0QXJ0aWNsZUNhbGxlZCgpLCBpcygxKSk7Cg==</text>
+      <register name="6" type="4">
+        <text>.</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="7" type="4">
+        <text>out</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZ2V0QXJ0aWNsZUNhbGxlZDsK</text>
+      <register name="8" type="4">
+        <text>.</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgaW50IGdldEdldEFydGljbGVDYWxsZWQoKSB7Cg==</text>
+      <register name="9" type="4">
+        <text>System</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -496,6 +495,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
