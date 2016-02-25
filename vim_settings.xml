@@ -15,6 +15,12 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/arcus-spring/src/main/java/com/navercorp/arcus/spring/cache/ArcusKeyGenerator.java" timestamp="1456396182591">
+        <mark key="[" line="11" column="74" />
+        <mark key="]" line="12" column="32" />
+        <mark key="^" line="12" column="32" />
+        <mark key="." line="12" column="32" />
+      </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/internal/OperationFuture.java" timestamp="1453699133137">
         <mark key="[" line="36" column="14" />
         <mark key="]" line="36" column="13" />
@@ -45,11 +51,11 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/resources/simpleAppContext.xml" timestamp="1456390433539">
-        <mark key="[" line="33" column="26" />
-        <mark key="]" line="35" column="21" />
-        <mark key="." line="35" column="21" />
-        <mark key="^" line="35" column="21" />
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/resources/simpleAppContext.xml" timestamp="1456395509151">
+        <mark key="[" line="30" column="91" />
+        <mark key="]" line="30" column="91" />
+        <mark key="." line="30" column="91" />
+        <mark key="^" line="30" column="91" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/SimpleAppMain.java" timestamp="1456388666010">
         <mark key="[" line="118" column="16" />
@@ -74,12 +80,10 @@
         <mark key="^" line="20" column="7" />
         <mark key="." line="20" column="7" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/driver/ArcusClientWrapper.java" timestamp="1456374272035">
-        <mark key="'" line="21" column="4" />
-        <mark key="[" line="21" column="6" />
-        <mark key="]" line="21" column="5" />
-        <mark key="^" line="21" column="5" />
-        <mark key="." line="21" column="5" />
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/driver/ArcusClientWrapper.java" timestamp="1456392365967">
+        <mark key="[" line="532" column="5" />
+        <mark key="]" line="532" column="5" />
+        <mark key="." line="532" column="5" />
       </file>
       <file name="$USER_HOME$/PrivateDev/TobysSpring/src/main/java/springbook/user/dao/DaoFactory.java" timestamp="1455430649776">
         <mark key="[" line="11" column="28" />
@@ -149,13 +153,7 @@
         <mark key="." line="14" column="50" />
         <mark key="^" line="14" column="50" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/SimpleApp.java" timestamp="1456374319741">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="351" column="3" />
-        <mark key="]" line="351" column="3" />
-        <mark key="^" line="16" column="1" />
-        <mark key="." line="351" column="3" />
-      </file>
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/SimpleApp.java" timestamp="1456392236522" />
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-spring/src/test/java/com/navercorp/arcus/spring/cache/CacheInterfaceImpl.java" timestamp="1456193907838">
         <mark key="[" line="23" column="30" />
         <mark key="]" line="24" column="44" />
@@ -227,12 +225,18 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/driver/ArcusKeyGenerator.java" timestamp="1456396450426">
+        <mark key="[" line="14" column="8" />
+        <mark key="]" line="13" column="72" />
+        <mark key="^" line="14" column="7" />
+        <mark key="." line="13" column="72" />
+      </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/driver/DummyDBInterface.java" timestamp="1456391779342">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/test/java/com/jam2in/arcus/MapCacheTest.java" timestamp="1456391874258">
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/test/java/com/jam2in/arcus/MapCacheTest.java" timestamp="1456395843721">
         <mark key="'" line="28" column="12" />
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
@@ -282,8 +286,8 @@
       <file name="/fragment.java" timestamp="1456381112169">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/driver/DummyDBWrapper.java" timestamp="1456391820536">
-        <mark key="[" line="118" column="0" />
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/driver/DummyDBWrapper.java" timestamp="1456395378596">
+        <mark key="[" line="36" column="19" />
         <mark key="]" line="118" column="0" />
         <mark key="." line="118" column="0" />
       </file>
@@ -301,8 +305,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
-      <jump line="77" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
       <jump line="104" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
       <jump line="113" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
       <jump line="123" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
@@ -397,17 +399,19 @@
       <jump line="19" column="4" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/driver/ArcusClientWrapper.java" />
       <jump line="71" column="3" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/driver/DummyDBInterface.java" />
       <jump line="351" column="5" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/SimpleApp.java" />
-      <jump line="16" column="0" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/SimpleApp.java" />
       <jump line="36" column="18" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/driver/DummyDBWrapper.java" />
       <jump line="26" column="12" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/test/java/com/jam2in/arcus/MapCacheTest.java" />
       <jump line="12" column="0" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/resources/simpleAppContext.xml" />
+      <jump line="16" column="0" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/SimpleApp.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/SimpleApp.java" />
+      <jump line="238" column="2" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/SimpleApp.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRiQ2FsbE51bSsrOwo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>getEnclosingMethod</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>callnum</text>
@@ -415,32 +419,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRiQ2FsbE51bSsrOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGRiQ2FsbE51bSsrOwo=</text>
+      <register name="1" type="4">
+        <text>)</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGRiQ2FsbE51bSsrOwo=</text>
+      <register name="2" type="4">
+        <text>)</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGRiQ2FsbE51bSsrOwo=</text>
+      <register name="3" type="4">
+        <text>(</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGRiQ2FsbE51bSsrOwo=</text>
+      <register name="4" type="4">
+        <text>equals</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGRiQ2FsbE51bSsrOwo=</text>
+      <register name="5" type="4">
+        <text>.</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGRiQ2FsbE51bSsrOwo=</text>
+      <register name="6" type="4">
+        <text>met</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiZ2V0VXNlcigpIGNhbGxlZCIpOwo=</text>
+      <register name="7" type="4">
+        <text>hod</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRiQ2FsbE51bSsrOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGRiQ2FsbE51bSsrOwo=</text>
+      <register name="9" type="4">
+        <text>/</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
