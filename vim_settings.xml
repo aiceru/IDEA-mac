@@ -164,6 +164,12 @@
         <mark key="." line="14" column="50" />
         <mark key="^" line="14" column="50" />
       </file>
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/SimpleApp.java" timestamp="1456474950292">
+        <mark key="[" line="237" column="58" />
+        <mark key="]" line="237" column="58" />
+        <mark key="^" line="237" column="58" />
+        <mark key="." line="237" column="58" />
+      </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-spring/src/test/java/com/navercorp/arcus/spring/cache/CacheInterfaceImpl.java" timestamp="1456193907838">
         <mark key="[" line="23" column="30" />
         <mark key="]" line="24" column="44" />
@@ -245,18 +251,18 @@
         <mark key="." line="12" column="31" />
         <mark key="^" line="12" column="31" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/driver/DummyDBInterface.java" timestamp="1456467738085">
-        <mark key="[" line="18" column="19" />
-        <mark key="]" line="18" column="25" />
-        <mark key="." line="18" column="25" />
-        <mark key="^" line="18" column="25" />
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/driver/DummyDBInterface.java" timestamp="1456474440395">
+        <mark key="[" line="15" column="19" />
+        <mark key="]" line="15" column="24" />
+        <mark key="." line="15" column="24" />
+        <mark key="^" line="15" column="24" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/test/java/com/jam2in/arcus/MapCacheTest.java" timestamp="1456473756001">
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/test/java/com/jam2in/arcus/MapCacheTest.java" timestamp="1456475148311">
         <mark key="'" line="19" column="12" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="32" column="3" />
+        <mark key="[" line="33" column="33" />
+        <mark key="]" line="26" column="68" />
+        <mark key="^" line="26" column="68" />
+        <mark key="." line="26" column="68" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/driver/DummyDBCallCounter.java" timestamp="1456388999738">
         <mark key="[" line="84" column="0" />
@@ -299,11 +305,11 @@
       <file name="/fragment.java" timestamp="1456400818800">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/driver/DummyDBWrapper.java" timestamp="1456473478174">
-        <mark key="[" line="16" column="2" />
-        <mark key="]" line="16" column="9" />
-        <mark key="^" line="16" column="9" />
-        <mark key="." line="16" column="9" />
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/driver/DummyDBWrapper.java" timestamp="1456474849119">
+        <mark key="[" line="139" column="16" />
+        <mark key="]" line="139" column="21" />
+        <mark key="^" line="139" column="21" />
+        <mark key="." line="139" column="21" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/naver/arcus-spring/pom.xml" timestamp="1452506442683">
         <mark key="[" line="13" column="32" />
@@ -421,11 +427,11 @@
       <jump line="238" column="2" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/SimpleApp.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>article3.getUid(), article3.getDate()-1L, article3.getDate()+1L);</text>
       </register>
       <register name="-" type="4">
-        <text>getUserMap().put(user2.getUid(), user2);</text>
+        <text>article3.getUid(), article3.getDate()-1L, article3.getDate()+1L);</text>
       </register>
       <register name="/" type="4">
         <text>callnum</text>
@@ -433,32 +439,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICgoRHVtbXlEQldyYXBwZXIpZGJXcmFwcGVyKS5nZXRBcnRpY2xlTWFwKCkuZ2V0KCJ1c2VyMiIpLnB1dChhcnRpY2xlMi5nZXREYXRlKCksIGFydGljbGUyKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>article3.getUid(), article3.getDate()-1L, article3.getDate()+1L);</text>
       </register>
       <register name="2" type="4">
-        <text>getUserMap().put(user2.getUid(), user2);</text>
+        <text>article2.getUid(), article2.getDate(), 20);</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+        <text>article3.getDate(), article3);</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">cHJpdmF0ZSA=</text>
+        <text>article2.getDate(), article2);</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">cHJpdmF0ZSA=</text>
+        <text>)</text>
       </register>
       <register name="6" type="4">
-        <text>저테스트먼저해보자</text>
+        <text>(</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGRiV3JhcHBlci5pbnNlcnRVc2VyKCJ1c2VyX2lkIiwgInVzZXJfbmFtZSIpOwogICAgU3RyaW5nIHVzZXJuYW1lMSA9IGRiV3JhcHBlci5nZXRVc2VyKCJ1c2VyX2lkIik7CiAgICBTdHJpbmcgdXNlcm5hbWUyID0gZGJXcmFwcGVyLmdldFVzZXIoInVzZXJfaWQiKTsKICAgIGRiV3JhcHBlci5pbnNlcnRBcnRpY2xlKCJ1c2VyX2lkIiwgMTIzLCAidGVzdEFydGljbGUiKTsKICAgIGRiV3JhcHBlci5nZXRBcnRpY2xlcygidXNlcl9pZCIsIDEyMywgMSk7Cg==</text>
+      <register name="7" type="4">
+        <text>d</text>
       </register>
       <register name="8" type="4">
-        <text>e</text>
+        <text>i</text>
       </register>
       <register name="9" type="4">
-        <text>h</text>
+        <text>U</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
