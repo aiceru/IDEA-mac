@@ -15,7 +15,7 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/arcus-spring/src/main/java/com/navercorp/arcus/spring/cache/ArcusKeyGenerator.java" timestamp="1456396182591">
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/arcus-spring/src/main/java/com/navercorp/arcus/spring/cache/ArcusKeyGenerator.java" timestamp="1456473931444">
         <mark key="[" line="11" column="74" />
         <mark key="]" line="12" column="32" />
         <mark key="^" line="12" column="32" />
@@ -80,11 +80,11 @@
         <mark key="^" line="20" column="7" />
         <mark key="." line="20" column="7" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/User.java" timestamp="1456467902617">
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/User.java" timestamp="1456472947223">
         <mark key="[" line="7" column="14" />
-        <mark key="]" line="9" column="25" />
-        <mark key="^" line="9" column="25" />
-        <mark key="." line="9" column="25" />
+        <mark key="]" line="11" column="20" />
+        <mark key="^" line="11" column="20" />
+        <mark key="." line="11" column="20" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/driver/ArcusClientWrapper.java" timestamp="1456451461217">
         <mark key="[" line="532" column="5" />
@@ -176,12 +176,11 @@
         <mark key="^" line="20" column="10" />
         <mark key="." line="20" column="10" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/arcus-spring/src/main/java/com/navercorp/arcus/spring/cache/ArcusCache.java" timestamp="1456466819182">
-        <mark key="j" line="43" column="3" />
-        <mark key="[" line="101" column="41" />
-        <mark key="]" line="147" column="48" />
-        <mark key="." line="147" column="48" />
-        <mark key="^" line="147" column="48" />
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/arcus-spring/src/main/java/com/navercorp/arcus/spring/cache/ArcusCache.java" timestamp="1456473786518">
+        <mark key="j" line="42" column="3" />
+        <mark key="]" line="129" column="46" />
+        <mark key="." line="129" column="46" />
+        <mark key="^" line="129" column="46" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/naver/arcus-spring/src/test/java/com/navercorp/arcus/spring/cache/ArcusCacheIntegrationTest.java" timestamp="1452749514550">
         <mark key="[" line="35" column="21" />
@@ -240,7 +239,7 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/driver/ArcusKeyGenerator.java" timestamp="1456398105810">
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/driver/ArcusKeyGenerator.java" timestamp="1456472762037">
         <mark key="[" line="11" column="74" />
         <mark key="]" line="12" column="31" />
         <mark key="." line="12" column="31" />
@@ -252,12 +251,12 @@
         <mark key="." line="18" column="25" />
         <mark key="^" line="18" column="25" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/test/java/com/jam2in/arcus/MapCacheTest.java" timestamp="1456472266321">
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/test/java/com/jam2in/arcus/MapCacheTest.java" timestamp="1456473756001">
         <mark key="'" line="19" column="12" />
-        <mark key="[" line="22" column="15" />
-        <mark key="]" line="22" column="15" />
-        <mark key="." line="22" column="15" />
-        <mark key="^" line="22" column="8" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="32" column="3" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/driver/DummyDBCallCounter.java" timestamp="1456388999738">
         <mark key="[" line="84" column="0" />
@@ -300,11 +299,11 @@
       <file name="/fragment.java" timestamp="1456400818800">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/driver/DummyDBWrapper.java" timestamp="1456470951899">
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="32" column="36" />
-        <mark key="^" line="32" column="36" />
-        <mark key="." line="32" column="36" />
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/driver/DummyDBWrapper.java" timestamp="1456473478174">
+        <mark key="[" line="16" column="2" />
+        <mark key="]" line="16" column="9" />
+        <mark key="^" line="16" column="9" />
+        <mark key="." line="16" column="9" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/naver/arcus-spring/pom.xml" timestamp="1452506442683">
         <mark key="[" line="13" column="32" />
@@ -422,44 +421,44 @@
       <jump line="238" column="2" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/SimpleApp.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>저테스트먼저해보자</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>저테스트먼저해보자</text>
+        <text>getUserMap().put(user2.getUid(), user2);</text>
       </register>
       <register name="/" type="4">
         <text>callnum</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRiQ2FsbE51bSsrOwo=</text>
+        <text encoding="base64">ICAgICgoRHVtbXlEQldyYXBwZXIpZGJXcmFwcGVyKS5nZXRBcnRpY2xlTWFwKCkuZ2V0KCJ1c2VyMiIpLnB1dChhcnRpY2xlMi5nZXREYXRlKCksIGFydGljbGUyKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>저테스트먼저해보자</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGRiV3JhcHBlci5pbnNlcnRVc2VyKCJ1c2VyX2lkIiwgInVzZXJfbmFtZSIpOwogICAgU3RyaW5nIHVzZXJuYW1lMSA9IGRiV3JhcHBlci5nZXRVc2VyKCJ1c2VyX2lkIik7CiAgICBTdHJpbmcgdXNlcm5hbWUyID0gZGJXcmFwcGVyLmdldFVzZXIoInVzZXJfaWQiKTsKICAgIGRiV3JhcHBlci5pbnNlcnRBcnRpY2xlKCJ1c2VyX2lkIiwgMTIzLCAidGVzdEFydGljbGUiKTsKICAgIGRiV3JhcHBlci5nZXRBcnRpY2xlcygidXNlcl9pZCIsIDEyMywgMSk7Cg==</text>
+      <register name="2" type="4">
+        <text>getUserMap().put(user2.getUid(), user2);</text>
       </register>
       <register name="3" type="4">
-        <text>e</text>
+        <text encoding="base64">cHVibGljIA==</text>
       </register>
       <register name="4" type="4">
-        <text>h</text>
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="5" type="4">
-        <text>c</text>
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="6" type="4">
-        <text>A</text>
+        <text>저테스트먼저해보자</text>
       </register>
-      <register name="7" type="4">
-        <text>v</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGRiV3JhcHBlci5pbnNlcnRVc2VyKCJ1c2VyX2lkIiwgInVzZXJfbmFtZSIpOwogICAgU3RyaW5nIHVzZXJuYW1lMSA9IGRiV3JhcHBlci5nZXRVc2VyKCJ1c2VyX2lkIik7CiAgICBTdHJpbmcgdXNlcm5hbWUyID0gZGJXcmFwcGVyLmdldFVzZXIoInVzZXJfaWQiKTsKICAgIGRiV3JhcHBlci5pbnNlcnRBcnRpY2xlKCJ1c2VyX2lkIiwgMTIzLCAidGVzdEFydGljbGUiKTsKICAgIGRiV3JhcHBlci5nZXRBcnRpY2xlcygidXNlcl9pZCIsIDEyMywgMSk7Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>a</text>
+        <text>e</text>
       </register>
       <register name="9" type="4">
-        <text>l</text>
+        <text>h</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
