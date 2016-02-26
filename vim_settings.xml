@@ -182,13 +182,13 @@
         <mark key="^" line="20" column="10" />
         <mark key="." line="20" column="10" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/arcus-spring/src/main/java/com/navercorp/arcus/spring/cache/ArcusCache.java" timestamp="1456479627655">
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/arcus-spring/src/main/java/com/navercorp/arcus/spring/cache/ArcusCache.java" timestamp="1456480907660">
         <mark key="'" line="130" column="41" />
         <mark key="j" line="40" column="3" />
-        <mark key="[" line="141" column="24" />
-        <mark key="]" line="141" column="27" />
-        <mark key="." line="141" column="27" />
-        <mark key="^" line="141" column="27" />
+        <mark key="[" line="144" column="0" />
+        <mark key="]" line="144" column="0" />
+        <mark key="." line="144" column="0" />
+        <mark key="^" line="145" column="74" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/naver/arcus-spring/src/test/java/com/navercorp/arcus/spring/cache/ArcusCacheIntegrationTest.java" timestamp="1452749514550">
         <mark key="[" line="35" column="21" />
@@ -430,8 +430,8 @@
       <jump line="132" column="41" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/arcus-spring/src/main/java/com/navercorp/arcus/spring/cache/ArcusCache.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>false</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBDbGFzcyBjID0gdmFsdWUuZ2V0Q2xhc3MoKTsK</text>
       </register>
       <register name="-" type="4">
         <text>false</text>
@@ -442,32 +442,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICgoRHVtbXlEQldyYXBwZXIpZGJXcmFwcGVyKS5nZXRBcnRpY2xlTWFwKCkuZ2V0KCJ1c2VyMiIpLnB1dChhcnRpY2xlMi5nZXREYXRlKCksIGFydGljbGUyKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>false</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBDbGFzcyBjID0gdmFsdWUuZ2V0Q2xhc3MoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdWNjZXNzID0gY29sbGVjdGlvbkZ1dHVyZS5nZXQodGltZW91dE1pbGxpU2Vjb25kcywgVGltZVVuaXQuTUlMTElTRUNPTkRTKTsK</text>
+        <text encoding="base64">ICAgICAgICBUcmVlTWFwPExvbmcsIE9iamVjdD4gdmFsdWVNYXAgPSAoVHJlZU1hcDxMb25nLCBPYmplY3Q+KXZhbHVlOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>false</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBUaW1lVW5pdC5NSUxMSVNFQ09ORFMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBzdWNjZXNzID0gY29sbGVjdGlvbkZ1dHVyZS5nZXQodGltZW91dE1pbGxpU2Vjb25kcywgVGltZVVuaXQuTUlMTElTRUNPTkRTKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYm9vbGVhbiBzdWNjZXNzID0gZnV0dXJlLmdldCh0aW1lb3V0TWlsbGlTZWNvbmRzLAo=</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBUaW1lVW5pdC5NSUxMSVNFQ09ORFMpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgYm9vbGVhbiBzdWNjZXNzID0gZnV0dXJlLmdldCh0aW1lb3V0TWlsbGlTZWNvbmRzLAo=</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmdXR1cmUgPSBhcmN1c0NsaWVudC5zZXQoY2FjaGVLZXksIGV4cGlyZVNlY29uZHMsIHZhbHVlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
