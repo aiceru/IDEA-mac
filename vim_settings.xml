@@ -51,7 +51,7 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/resources/simpleAppContext.xml" timestamp="1456395509151">
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/resources/simpleAppContext.xml" timestamp="1456476246758">
         <mark key="[" line="30" column="91" />
         <mark key="]" line="30" column="91" />
         <mark key="." line="30" column="91" />
@@ -182,7 +182,7 @@
         <mark key="^" line="20" column="10" />
         <mark key="." line="20" column="10" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/arcus-spring/src/main/java/com/navercorp/arcus/spring/cache/ArcusCache.java" timestamp="1456473786518">
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/arcus-spring/src/main/java/com/navercorp/arcus/spring/cache/ArcusCache.java" timestamp="1456477501965">
         <mark key="j" line="42" column="3" />
         <mark key="]" line="129" column="46" />
         <mark key="." line="129" column="46" />
@@ -251,18 +251,19 @@
         <mark key="." line="12" column="31" />
         <mark key="^" line="12" column="31" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/driver/DummyDBInterface.java" timestamp="1456474440395">
-        <mark key="[" line="15" column="19" />
-        <mark key="]" line="15" column="24" />
-        <mark key="." line="15" column="24" />
-        <mark key="^" line="15" column="24" />
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/driver/DummyDBInterface.java" timestamp="1456476902993">
+        <mark key="'" line="9" column="25" />
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="9" column="24" />
+        <mark key="." line="9" column="24" />
+        <mark key="^" line="9" column="24" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/test/java/com/jam2in/arcus/MapCacheTest.java" timestamp="1456475148311">
-        <mark key="'" line="19" column="12" />
-        <mark key="[" line="33" column="33" />
-        <mark key="]" line="26" column="68" />
-        <mark key="^" line="26" column="68" />
-        <mark key="." line="26" column="68" />
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/test/java/com/jam2in/arcus/MapCacheTest.java" timestamp="1456476953236">
+        <mark key="'" line="21" column="12" />
+        <mark key="[" line="26" column="48" />
+        <mark key="]" line="27" column="71" />
+        <mark key="^" line="27" column="71" />
+        <mark key="." line="27" column="71" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/driver/DummyDBCallCounter.java" timestamp="1456388999738">
         <mark key="[" line="84" column="0" />
@@ -305,11 +306,11 @@
       <file name="/fragment.java" timestamp="1456400818800">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/driver/DummyDBWrapper.java" timestamp="1456474849119">
-        <mark key="[" line="139" column="16" />
-        <mark key="]" line="139" column="21" />
-        <mark key="^" line="139" column="21" />
-        <mark key="." line="139" column="21" />
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/driver/DummyDBWrapper.java" timestamp="1456477566711">
+        <mark key="[" line="45" column="14" />
+        <mark key="]" line="45" column="14" />
+        <mark key="^" line="45" column="14" />
+        <mark key="." line="45" column="14" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/naver/arcus-spring/pom.xml" timestamp="1452506442683">
         <mark key="[" line="13" column="32" />
@@ -325,7 +326,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
       <jump line="113" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
       <jump line="123" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
       <jump line="134" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
@@ -425,13 +425,14 @@
       <jump line="16" column="0" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/SimpleApp.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/SimpleApp.java" />
       <jump line="238" column="2" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/SimpleApp.java" />
+      <jump line="9" column="25" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/driver/DummyDBInterface.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>article3.getUid(), article3.getDate()-1L, article3.getDate()+1L);</text>
+        <text>long</text>
       </register>
       <register name="-" type="4">
-        <text>article3.getUid(), article3.getDate()-1L, article3.getDate()+1L);</text>
+        <text>long</text>
       </register>
       <register name="/" type="4">
         <text>callnum</text>
@@ -440,34 +441,34 @@
         <text encoding="base64">ICAgICgoRHVtbXlEQldyYXBwZXIpZGJXcmFwcGVyKS5nZXRBcnRpY2xlTWFwKCkuZ2V0KCJ1c2VyMiIpLnB1dChhcnRpY2xlMi5nZXREYXRlKCksIGFydGljbGUyKTsK</text>
       </register>
       <register name="1" type="4">
-        <text>article3.getUid(), article3.getDate()-1L, article3.getDate()+1L);</text>
+        <text>long</text>
       </register>
       <register name="2" type="4">
-        <text>article2.getUid(), article2.getDate(), 20);</text>
+        <text encoding="base64">Iik7CiAgICA=</text>
       </register>
       <register name="3" type="4">
-        <text>article3.getDate(), article3);</text>
+        <text encoding="base64">ewogICAg</text>
       </register>
       <register name="4" type="4">
-        <text>article2.getDate(), article2);</text>
+        <text>.</text>
       </register>
       <register name="5" type="4">
         <text>)</text>
       </register>
       <register name="6" type="4">
-        <text>(</text>
+        <text>dbWrapper</text>
       </register>
       <register name="7" type="4">
-        <text>d</text>
+        <text>)</text>
       </register>
       <register name="8" type="4">
-        <text>i</text>
+        <text>DummyDBWrapper</text>
       </register>
       <register name="9" type="4">
-        <text>U</text>
+        <text>((</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -513,9 +514,9 @@
         <entry>exit</entry>
         <entry>q!</entry>
         <entry>2</entry>
-        <entry>q</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
