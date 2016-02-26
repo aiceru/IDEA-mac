@@ -172,12 +172,11 @@
         <mark key="^" line="20" column="10" />
         <mark key="." line="20" column="10" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/arcus-spring/src/main/java/com/navercorp/arcus/spring/cache/ArcusCache.java" timestamp="1456451828738">
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/arcus-spring/src/main/java/com/navercorp/arcus/spring/cache/ArcusCache.java" timestamp="1456453556400">
         <mark key="j" line="43" column="3" />
-        <mark key="[" line="146" column="97" />
-        <mark key="]" line="143" column="38" />
-        <mark key="^" line="143" column="38" />
-        <mark key="." line="143" column="38" />
+        <mark key="[" line="122" column="0" />
+        <mark key="]" line="122" column="0" />
+        <mark key="." line="122" column="0" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/naver/arcus-spring/src/test/java/com/navercorp/arcus/spring/cache/ArcusCacheIntegrationTest.java" timestamp="1452749514550">
         <mark key="[" line="35" column="21" />
@@ -419,11 +418,11 @@
       <jump line="238" column="2" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/SimpleApp.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>Attributes</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>callnum</text>
@@ -431,32 +430,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRiQ2FsbE51bSsrOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>/</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIENvbGxlY3Rpb25BdHRyaWJ1dGVzIGF0dHJpYnV0ZXMgPSBuZXcgQ29sbGVjdGlvbkF0dHJpYnV0ZXMoCiAgICAgICAgICAgICAgICAgIGV4cGlyZVNlY29uZHMsIDQwMDBMLCBDb2xsZWN0aW9uT3ZlcmZsb3dBY3Rpb24uc21hbGxlc3Rfc2lsZW50X3RyaW0pOwo=</text>
+      <register name="2" type="4">
+        <text>/</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJ5dGVbXSBlZmxhZyA9IG5ldyBieXRlW10gezB9Owo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBuZXcgU2ltcGxlVmFsdWVXcmFwcGVyKCJmYWtlISEiKTsK</text>
       </register>
       <register name="4" type="4">
-        <text>Attributes</text>
+        <text>)</text>
       </register>
       <register name="5" type="4">
-        <text>g</text>
+        <text>(</text>
       </register>
       <register name="6" type="4">
-        <text>n</text>
+        <text>Object</text>
       </register>
       <register name="7" type="4">
-        <text>i</text>
+        <text encoding="base64">bmV3IA==</text>
       </register>
       <register name="8" type="4">
-        <text>r</text>
+        <text>/</text>
       </register>
       <register name="9" type="4">
-        <text>t</text>
+        <text>/</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

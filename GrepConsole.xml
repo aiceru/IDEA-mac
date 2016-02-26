@@ -10,6 +10,26 @@
                 <option name="grepExpressionItems">
                   <list>
                     <GrepExpressionItem>
+                      <option name="grepExpression" value=".*ArcusCache.*" />
+                      <option name="id" value="0bab6976-e1ae-4b3a-bc2f-2f272d4b03ea" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-16742007" />
+                            </GrepColor>
+                          </option>
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="color" value="-10223784" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="8c358bbc-1d87-44f3-b65a-25997b80d4d5" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
                       <option name="grepExpression" value=".*FATAL.*" />
                       <option name="id" value="9f9b96ab-421c-4660-9a95-c49c60632692" />
                       <option name="style">
