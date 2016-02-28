@@ -33,6 +33,15 @@
         <mark key="^" line="30" column="9" />
         <mark key="." line="30" column="9" />
       </file>
+      <file name="$USER_HOME$/PrivateDev/TobysSpring/src/main/java/springbook/user/dao/UserDao.java" timestamp="1456643804911">
+        <mark key="'" line="0" column="0" />
+        <mark key="j" line="15" column="0" />
+        <mark key="[" line="94" column="5" />
+        <mark key="]" line="94" column="4" />
+        <mark key="m" line="15" column="0" />
+        <mark key="^" line="94" column="4" />
+        <mark key="." line="94" column="4" />
+      </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-spring/src/test/java/com/navercorp/arcus/spring/cache/CacheInterface.java" timestamp="1456192451069">
         <mark key="[" line="6" column="38" />
         <mark key="]" line="6" column="37" />
@@ -146,6 +155,11 @@
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-spring/src/main/java/com/navercorp/arcus/spring/cache/ArcusCache.java" timestamp="1456195285727">
         <mark key="[" line="122" column="9" />
+      </file>
+      <file name="$USER_HOME$/PrivateDev/TobysSpring/src/test/resources/applicationContext.xml" timestamp="1456643421034">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/test/resources/log4j.xml" timestamp="1456389515518">
         <mark key="[" line="15" column="12" />
@@ -341,12 +355,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="149" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
-      <jump line="169" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
-      <jump line="185" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
-      <jump line="200" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
-      <jump line="209" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
-      <jump line="230" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
       <jump line="249" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
       <jump line="274" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
       <jump line="287" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
@@ -441,13 +449,19 @@
       <jump line="143" column="6" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/arcus-spring/src/main/java/com/navercorp/arcus/spring/cache/ArcusCache.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/arcus-spring/src/main/java/com/navercorp/arcus/spring/cache/ArcusCache.java" />
       <jump line="132" column="41" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/arcus-spring/src/main/java/com/navercorp/arcus/spring/cache/ArcusCache.java" />
+      <jump line="35" column="0" filename="$USER_HOME$/PrivateDev/TobysSpring/src/main/java/springbook/user/dao/UserDao.java" />
+      <jump line="33" column="19" filename="$USER_HOME$/PrivateDev/TobysSpring/src/main/java/springbook/user/dao/UserDao.java" />
+      <jump line="4" column="0" filename="$USER_HOME$/PrivateDev/TobysSpring/src/main/java/springbook/user/dao/UserDao.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/PrivateDev/TobysSpring/src/main/java/springbook/user/dao/UserDao.java" />
+      <jump line="96" column="0" filename="$USER_HOME$/PrivateDev/TobysSpring/src/main/java/springbook/user/dao/UserDao.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/PrivateDev/TobysSpring/src/main/java/springbook/user/dao/UserDao.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">aW50IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5oMi5jb21tYW5kLlByZXBhcmVkOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW50IA==</text>
+        <text>new StatementStratege() {</text>
       </register>
       <register name="/" type="4">
         <text>callnum</text>
@@ -455,32 +469,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICgoRHVtbXlEQldyYXBwZXIpZGJXcmFwcGVyKS5nZXRBcnRpY2xlTWFwKCkuZ2V0KCJ1c2VyMiIpLnB1dChhcnRpY2xlMi5nZXREYXRlKCksIGFydGljbGUyKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">aW50IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5oMi5jb21tYW5kLlByZXBhcmVkOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text>T</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>T</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="4" type="4">
-        <text>T</text>
+        <text>new StatementStratege() {</text>
       </register>
-      <register name="5" type="4">
-        <text>t</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcHM7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>n</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>i</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwcy5zZXRTdHJpbmcoMywgdXNlci5nZXRQYXNzd29yZCgpKTsK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBwcy5zZXRTdHJpbmcoMiwgdXNlci5nZXROYW1lKCkpOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>:</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBwcy5zZXRTdHJpbmcoMSwgdXNlci5nZXRJZCgpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
