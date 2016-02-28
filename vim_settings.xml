@@ -33,14 +33,14 @@
         <mark key="^" line="30" column="9" />
         <mark key="." line="30" column="9" />
       </file>
-      <file name="$USER_HOME$/PrivateDev/TobysSpring/src/main/java/springbook/user/dao/UserDao.java" timestamp="1456643804911">
+      <file name="$USER_HOME$/PrivateDev/TobysSpring/src/main/java/springbook/user/dao/UserDao.java" timestamp="1456645752273">
         <mark key="'" line="0" column="0" />
-        <mark key="j" line="15" column="0" />
-        <mark key="[" line="94" column="5" />
-        <mark key="]" line="94" column="4" />
-        <mark key="m" line="15" column="0" />
-        <mark key="^" line="94" column="4" />
-        <mark key="." line="94" column="4" />
+        <mark key="j" line="14" column="0" />
+        <mark key="[" line="77" column="0" />
+        <mark key="m" line="14" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="^" line="64" column="10" />
+        <mark key="." line="77" column="0" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-spring/src/test/java/com/navercorp/arcus/spring/cache/CacheInterface.java" timestamp="1456192451069">
         <mark key="[" line="6" column="38" />
@@ -156,10 +156,10 @@
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-spring/src/main/java/com/navercorp/arcus/spring/cache/ArcusCache.java" timestamp="1456195285727">
         <mark key="[" line="122" column="9" />
       </file>
-      <file name="$USER_HOME$/PrivateDev/TobysSpring/src/test/resources/applicationContext.xml" timestamp="1456643421034">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/PrivateDev/TobysSpring/src/test/resources/applicationContext.xml" timestamp="1456645817217">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/test/resources/log4j.xml" timestamp="1456389515518">
         <mark key="[" line="15" column="12" />
@@ -458,7 +458,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5oMi5jb21tYW5kLlByZXBhcmVkOwo=</text>
+        <text encoding="base64">ICAgIDxwcm9wZXJ0eSBuYW1lPSJqZGJjQ29udGV4dCIgcmVmPSJqZGJjQ29udGV4dCIvPgo=</text>
       </register>
       <register name="-" type="4">
         <text>new StatementStratege() {</text>
@@ -470,31 +470,31 @@
         <text encoding="base64">ICAgICgoRHVtbXlEQldyYXBwZXIpZGJXcmFwcGVyKS5nZXRBcnRpY2xlTWFwKCkuZ2V0KCJ1c2VyMiIpLnB1dChhcnRpY2xlMi5nZXREYXRlKCksIGFydGljbGUyKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5oMi5jb21tYW5kLlByZXBhcmVkOwo=</text>
+        <text encoding="base64">ICAgIDxwcm9wZXJ0eSBuYW1lPSJqZGJjQ29udGV4dCIgcmVmPSJqZGJjQ29udGV4dCIvPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgIENvbm5lY3Rpb24gYyA9IG51bGw7CiAgICBQcmVwYXJlZFN0YXRlbWVudCBwcyA9IG51bGw7CiAgICBSZXN1bHRTZXQgcnMgPSBudWxsOwogICAgdHJ5IHsKICAgICAgYyA9IGRhdGFTb3VyY2UuZ2V0Q29ubmVjdGlvbigpOwoKICAgICAgcHMgPSBjLnByZXBhcmVTdGF0ZW1lbnQoCiAgICAgICAgICAgICAgInNlbGVjdCBjb3VudCgqKSBmcm9tIHVzZXJzIgogICAgICApOwogICAgICBycyA9IHBzLmV4ZWN1dGVRdWVyeSgpOwogICAgICBycy5uZXh0KCk7CiAgICAgIHJldHVybiBycy5nZXRJbnQoMSk7CiAgICB9IGNhdGNoIChTUUxFeGNlcHRpb24gZSkgewogICAgICB0aHJvdyBlOwogICAgfSBmaW5hbGx5IHsKICAgICAgaWYgKHJzICE9IG51bGwpIHsKICAgICAgICB0cnkgewogICAgICAgICAgcnMuY2xvc2UoKTsKICAgICAgICB9IGNhdGNoIChTUUxFeGNlcHRpb24gZSkgewogICAgICAgIH0KICAgICAgfQogICAgICBpZiAocHMgIT0gbnVsbCkgewogICAgICAgIHRyeSB7CiAgICAgICAgICBwcy5jbG9zZSgpOwogICAgICAgIH0gY2F0Y2ggKFNRTEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgfQogICAgICB9CiAgICAgIGlmIChjICE9IG51bGwpIHsKICAgICAgICB0cnkgewogICAgICAgICAgYy5jbG9zZSgpOwogICAgICAgIH0gY2F0Y2ggKFNRTEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgfQogICAgICB9CiAgICB9CiAgfQo=</text>
       </register>
-      <register name="4" type="4">
-        <text>new StatementStratege() {</text>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5oMi5jb21tYW5kLlByZXBhcmVkOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcHM7Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcy5zZXRTdHJpbmcoMywgdXNlci5nZXRQYXNzd29yZCgpKTsK</text>
+      <register name="7" type="4">
+        <text>new StatementStratege() {</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcy5zZXRTdHJpbmcoMiwgdXNlci5nZXROYW1lKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcHM7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcy5zZXRTdHJpbmcoMSwgdXNlci5nZXRJZCgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
