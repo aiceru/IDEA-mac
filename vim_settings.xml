@@ -33,14 +33,14 @@
         <mark key="^" line="30" column="9" />
         <mark key="." line="30" column="9" />
       </file>
-      <file name="$USER_HOME$/PrivateDev/TobysSpring/src/main/java/springbook/user/dao/UserDao.java" timestamp="1456645752273">
+      <file name="$USER_HOME$/PrivateDev/TobysSpring/src/main/java/springbook/user/dao/UserDao.java" timestamp="1456647468441">
         <mark key="'" line="0" column="0" />
         <mark key="j" line="14" column="0" />
-        <mark key="[" line="77" column="0" />
+        <mark key="[" line="63" column="25" />
         <mark key="m" line="14" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="^" line="64" column="10" />
-        <mark key="." line="77" column="0" />
+        <mark key="]" line="65" column="83" />
+        <mark key="." line="65" column="83" />
+        <mark key="^" line="65" column="83" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-spring/src/test/java/com/navercorp/arcus/spring/cache/CacheInterface.java" timestamp="1456192451069">
         <mark key="[" line="6" column="38" />
@@ -274,6 +274,11 @@
         <mark key="." line="12" column="31" />
         <mark key="^" line="12" column="31" />
       </file>
+      <file name="$USER_HOME$/PrivateDev/TobysSpring/src/test/java/springbook/user/dao/UserDaoTest.java" timestamp="1456646918950">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/driver/DummyDBInterface.java" timestamp="1456476902993">
         <mark key="'" line="9" column="25" />
         <mark key="[" line="9" column="21" />
@@ -458,10 +463,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxwcm9wZXJ0eSBuYW1lPSJqZGJjQ29udGV4dCIgcmVmPSJqZGJjQ29udGV4dCIvPgo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBqZGJjVGVtcGxhdGUucXVlcnkoCiAgICAgICAgICAgIG5ldyBQcmVwYXJlZFN0YXRlbWVudENyZWF0b3IoKSB7CiAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgcHVibGljIFByZXBhcmVkU3RhdGVtZW50IGNyZWF0ZVByZXBhcmVkU3RhdGVtZW50KENvbm5lY3Rpb24gY29ubmVjdGlvbikgdGhyb3dzIFNRTEV4Y2VwdGlvbiB7CiAgICAgICAgICAgICAgICByZXR1cm4gY29ubmVjdGlvbi5wcmVwYXJlU3RhdGVtZW50KCJzZWxlY3QgY291bnQoKikgZnJvbSB1c2VycyIpOwogICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSwKICAgICAgICAgICAgbmV3IFJlc3VsdFNldEV4dHJhY3RvcjxJbnRlZ2VyPigpIHsKICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICBwdWJsaWMgSW50ZWdlciBleHRyYWN0RGF0YShSZXN1bHRTZXQgcmVzdWx0U2V0KSB0aHJvd3MgU1FMRXhjZXB0aW9uLCBEYXRhQWNjZXNzRXhjZXB0aW9uIHsKICAgICAgICAgICAgICAgIGlmKHJlc3VsdFNldC5uZXh0KCkpIHsKICAgICAgICAgICAgICAgICAgcmV0dXJuIHJlc3VsdFNldC5nZXRJbnQoMSk7CiAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICByZXR1cm4gMTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOwogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>new StatementStratege() {</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>callnum</text>
@@ -470,31 +475,31 @@
         <text encoding="base64">ICAgICgoRHVtbXlEQldyYXBwZXIpZGJXcmFwcGVyKS5nZXRBcnRpY2xlTWFwKCkuZ2V0KCJ1c2VyMiIpLnB1dChhcnRpY2xlMi5nZXREYXRlKCksIGFydGljbGUyKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxwcm9wZXJ0eSBuYW1lPSJqZGJjQ29udGV4dCIgcmVmPSJqZGJjQ29udGV4dCIvPgo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBqZGJjVGVtcGxhdGUucXVlcnkoCiAgICAgICAgICAgIG5ldyBQcmVwYXJlZFN0YXRlbWVudENyZWF0b3IoKSB7CiAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgcHVibGljIFByZXBhcmVkU3RhdGVtZW50IGNyZWF0ZVByZXBhcmVkU3RhdGVtZW50KENvbm5lY3Rpb24gY29ubmVjdGlvbikgdGhyb3dzIFNRTEV4Y2VwdGlvbiB7CiAgICAgICAgICAgICAgICByZXR1cm4gY29ubmVjdGlvbi5wcmVwYXJlU3RhdGVtZW50KCJzZWxlY3QgY291bnQoKikgZnJvbSB1c2VycyIpOwogICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSwKICAgICAgICAgICAgbmV3IFJlc3VsdFNldEV4dHJhY3RvcjxJbnRlZ2VyPigpIHsKICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICBwdWJsaWMgSW50ZWdlciBleHRyYWN0RGF0YShSZXN1bHRTZXQgcmVzdWx0U2V0KSB0aHJvd3MgU1FMRXhjZXB0aW9uLCBEYXRhQWNjZXNzRXhjZXB0aW9uIHsKICAgICAgICAgICAgICAgIGlmKHJlc3VsdFNldC5uZXh0KCkpIHsKICAgICAgICAgICAgICAgICAgcmV0dXJuIHJlc3VsdFNldC5nZXRJbnQoMSk7CiAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICByZXR1cm4gMTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOwogIH0K</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICkK</text>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIENvbm5lY3Rpb24gYyA9IG51bGw7CiAgICBQcmVwYXJlZFN0YXRlbWVudCBwcyA9IG51bGw7CiAgICBSZXN1bHRTZXQgcnMgPSBudWxsOwogICAgdHJ5IHsKICAgICAgYyA9IGRhdGFTb3VyY2UuZ2V0Q29ubmVjdGlvbigpOwoKICAgICAgcHMgPSBjLnByZXBhcmVTdGF0ZW1lbnQoCiAgICAgICAgICAgICAgInNlbGVjdCBjb3VudCgqKSBmcm9tIHVzZXJzIgogICAgICApOwogICAgICBycyA9IHBzLmV4ZWN1dGVRdWVyeSgpOwogICAgICBycy5uZXh0KCk7CiAgICAgIHJldHVybiBycy5nZXRJbnQoMSk7CiAgICB9IGNhdGNoIChTUUxFeGNlcHRpb24gZSkgewogICAgICB0aHJvdyBlOwogICAgfSBmaW5hbGx5IHsKICAgICAgaWYgKHJzICE9IG51bGwpIHsKICAgICAgICB0cnkgewogICAgICAgICAgcnMuY2xvc2UoKTsKICAgICAgICB9IGNhdGNoIChTUUxFeGNlcHRpb24gZSkgewogICAgICAgIH0KICAgICAgfQogICAgICBpZiAocHMgIT0gbnVsbCkgewogICAgICAgIHRyeSB7CiAgICAgICAgICBwcy5jbG9zZSgpOwogICAgICAgIH0gY2F0Y2ggKFNRTEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgfQogICAgICB9CiAgICAgIGlmIChjICE9IG51bGwpIHsKICAgICAgICB0cnkgewogICAgICAgICAgYy5jbG9zZSgpOwogICAgICAgIH0gY2F0Y2ggKFNRTEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgfQogICAgICB9CiAgICB9CiAgfQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">U1FMRXhjZXB0aW9uIA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5oMi5jb21tYW5kLlByZXBhcmVkOwo=</text>
+      <register name="4" type="4">
+        <text>throws</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgImpkYmM6aDI6bWVtOnRlc3REQiIsICJzYSIsICIiLCB0cnVlCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>new StatementStratege() {</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGRhby5zZXREYXRhU291cmNlKG5ldyBTaW5nbGVDb25uZWN0aW9uRGF0YVNvdXJjZSgK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcHM7Cg==</text>
+        <text encoding="base64">ICAgICkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgImpkYmM6aDI6bWVtOnRlc3REQiIsICJzYSIsICIiLCB0cnVlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
