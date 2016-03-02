@@ -214,14 +214,14 @@
         <mark key="^" line="20" column="10" />
         <mark key="." line="20" column="10" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/arcus-spring/src/main/java/com/navercorp/arcus/spring/cache/ArcusCache.java" timestamp="1456896881681">
-        <mark key="a" line="209" column="2" />
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/arcus-spring/src/main/java/com/navercorp/arcus/spring/cache/ArcusCache.java" timestamp="1456898775232">
+        <mark key="a" line="423" column="4" />
         <mark key="v" line="135" column="56" />
         <mark key="'" line="373" column="66" />
-        <mark key="[" line="434" column="47" />
-        <mark key="]" line="440" column="13" />
-        <mark key="." line="440" column="13" />
-        <mark key="^" line="440" column="13" />
+        <mark key="[" line="416" column="70" />
+        <mark key="]" line="418" column="64" />
+        <mark key="." line="418" column="64" />
+        <mark key="^" line="418" column="64" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/naver/arcus-spring/src/test/java/com/navercorp/arcus/spring/cache/ArcusCacheIntegrationTest.java" timestamp="1452749514550">
         <mark key="[" line="35" column="21" />
@@ -458,10 +458,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAKICBwcml2YXRlIHZvaWQgZXZpY3RVc2VyKFN0cmluZyBrZXkpIHsKICAgIEZ1dHVyZTxCb29sZWFuPiBmdXR1cmUgPSBudWxsOwogICAgdHJ5IHsKICAgICAgZnV0dXJlID0gYXJjdXNDbGllbnQuZGVsZXRlKGtleSk7CiAgICB9IGNhdGNoIChJbGxlZ2FsU3RhdGVFeGNlcHRpb24gZSkgewogICAgICBsb2dnZXIuaW5mbyhlLmdldE1lc3NhZ2UoKSk7CiAgICAgIHRocm93IGU7CiAgICB9CiAgfQo=</text>
+        <text encoding="base64">ICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgIH0gY2F0Y2ggKEV4ZWN1dGlvbkV4Y2VwdGlvbiBlKSB7CiAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICB9IGNhdGNoIChUaW1lb3V0RXhjZXB0aW9uIGUpIHsKICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>user&quot;, &quot;article&quot;})</text>
+        <text>catch (InterruptedException e) {</text>
       </register>
       <register name="/" type="4">
         <text>callnum</text>
@@ -470,31 +470,31 @@
         <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiR290IHJlc3BvbnNlIGZyb20gQVJDVVMgY2FjaGUgbm9kZSA6ICIgKyByZXNwb25zZXMudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAKICBwcml2YXRlIHZvaWQgZXZpY3RVc2VyKFN0cmluZyBrZXkpIHsKICAgIEZ1dHVyZTxCb29sZWFuPiBmdXR1cmUgPSBudWxsOwogICAgdHJ5IHsKICAgICAgZnV0dXJlID0gYXJjdXNDbGllbnQuZGVsZXRlKGtleSk7CiAgICB9IGNhdGNoIChJbGxlZ2FsU3RhdGVFeGNlcHRpb24gZSkgewogICAgICBsb2dnZXIuaW5mbyhlLmdldE1lc3NhZ2UoKSk7CiAgICAgIHRocm93IGU7CiAgICB9CiAgfQo=</text>
+        <text encoding="base64">ICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgIH0gY2F0Y2ggKEV4ZWN1dGlvbkV4Y2VwdGlvbiBlKSB7CiAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICB9IGNhdGNoIChUaW1lb3V0RXhjZXB0aW9uIGUpIHsKICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgIH0K</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZvaWQgZXZpY3RVc2VyKFN0cmluZyBrZXkpIHsKICAgIEZ1dHVyZTxCb29sZWFuPiBmdXR1cmUgPSBudWxsOwogICAgdHJ5IHsKICAgICAgZnV0dXJlID0gYXJjdXNDbGllbnQuZGVsZXRlKGtleSk7CiAgICB9IGNhdGNoIChJbGxlZ2FsU3RhdGVFeGNlcHRpb24gZSkgewogICAgICBsb2dnZXIuaW5mbyhlLmdldE1lc3NhZ2UoKSk7CiAgICAgIHRocm93IGU7CiAgICB9CiAgfQo=</text>
+      <register name="2" type="4">
+        <text>catch (InterruptedException e) {</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIFN0cmluZyBjYWNoZUtleSA9IGNyZWF0ZUFyY3VzS2V5KGtleSk7CiAgICAgIGlmIChsb2dnZXIuaXNEZWJ1Z0VuYWJsZWQoKSkgewogICAgICAgIGxvZ2dlci5kZWJ1ZygiZXZpY3RpbmcgYSBrZXk6IHt9IiwgY2FjaGVLZXkpOwogICAgICB9CgogICAgICBGdXR1cmU8Qm9vbGVhbj4gZnV0dXJlID0gYXJjdXNDbGllbnQuZGVsZXRlKGNhY2hlS2V5KTsKCiAgICAgIGJvb2xlYW4gc3VjY2VzcyA9IGZ1dHVyZS5nZXQodGltZW91dE1pbGxpU2Vjb25kcywKICAgICAgICAgICAgICBUaW1lVW5pdC5NSUxMSVNFQ09ORFMpOwoKCQkJaWYgKGxvZ2dlci5pc0RlYnVnRW5hYmxlZCgpICYmICFzdWNjZXNzKSB7CgkJCQlsb2dnZXIuZGVidWcoImZhaWxlZCB0byBldml2dCBhIGtleToge30iLCBrZXkudG9TdHJpbmcoKSk7CgkJCX0KCQl9IGNhdGNoIChFeGNlcHRpb24gZSkgewoJCQlsb2dnZXIuaW5mbyhlLmdldE1lc3NhZ2UoKSk7CgkJCWlmICh3YW50VG9HZXRFeGNlcHRpb24pIHsKCQkJCXRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKGUpOwoJCQl9CgkJfQo=</text>
+        <text encoding="base64">ICAKICBwcml2YXRlIHZvaWQgZXZpY3RVc2VyKFN0cmluZyBrZXkpIHsKICAgIEZ1dHVyZTxCb29sZWFuPiBmdXR1cmUgPSBudWxsOwogICAgdHJ5IHsKICAgICAgZnV0dXJlID0gYXJjdXNDbGllbnQuZGVsZXRlKGtleSk7CiAgICB9IGNhdGNoIChJbGxlZ2FsU3RhdGVFeGNlcHRpb24gZSkgewogICAgICBsb2dnZXIuaW5mbyhlLmdldE1lc3NhZ2UoKSk7CiAgICAgIHRocm93IGU7CiAgICB9CiAgfQo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICBwcml2YXRlIHZvaWQgZXZpY3RVc2VyKFN0cmluZyBrZXkpIHsKICAgIEZ1dHVyZTxCb29sZWFuPiBmdXR1cmUgPSBudWxsOwogICAgdHJ5IHsKICAgICAgZnV0dXJlID0gYXJjdXNDbGllbnQuZGVsZXRlKGtleSk7CiAgICB9IGNhdGNoIChJbGxlZ2FsU3RhdGVFeGNlcHRpb24gZSkgewogICAgICBsb2dnZXIuaW5mbyhlLmdldE1lc3NhZ2UoKSk7CiAgICAgIHRocm93IGU7CiAgICB9CiAgfQo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHRyeSB7CiAgICAgIFN0cmluZyBjYWNoZUtleSA9IGNyZWF0ZUFyY3VzS2V5KGtleSk7CiAgICAgIGlmIChsb2dnZXIuaXNEZWJ1Z0VuYWJsZWQoKSkgewogICAgICAgIGxvZ2dlci5kZWJ1ZygiZXZpY3RpbmcgYSBrZXk6IHt9IiwgY2FjaGVLZXkpOwogICAgICB9CgogICAgICBGdXR1cmU8Qm9vbGVhbj4gZnV0dXJlID0gYXJjdXNDbGllbnQuZGVsZXRlKGNhY2hlS2V5KTsKCiAgICAgIGJvb2xlYW4gc3VjY2VzcyA9IGZ1dHVyZS5nZXQodGltZW91dE1pbGxpU2Vjb25kcywKICAgICAgICAgICAgICBUaW1lVW5pdC5NSUxMSVNFQ09ORFMpOwoKCQkJaWYgKGxvZ2dlci5pc0RlYnVnRW5hYmxlZCgpICYmICFzdWNjZXNzKSB7CgkJCQlsb2dnZXIuZGVidWcoImZhaWxlZCB0byBldml2dCBhIGtleToge30iLCBrZXkudG9TdHJpbmcoKSk7CgkJCX0KCQl9IGNhdGNoIChFeGNlcHRpb24gZSkgewoJCQlsb2dnZXIuaW5mbyhlLmdldE1lc3NhZ2UoKSk7CgkJCWlmICh3YW50VG9HZXRFeGNlcHRpb24pIHsKCQkJCXRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKGUpOwoJCQl9CgkJfQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>user&quot;, &quot;article&quot;})</text>
-      </register>
-      <register name="6" type="4">
-        <text>{&quot;</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIFN0cmluZyBjYWNoZUtleSA9IGNyZWF0ZUFyY3VzS2V5KGtleSk7CiAgICAgIGlmIChsb2dnZXIuaXNEZWJ1Z0VuYWJsZWQoKSkgewogICAgICAgIGxvZ2dlci5kZWJ1ZygiZXZpY3RpbmcgYSBrZXk6IHt9IiwgY2FjaGVLZXkpOwogICAgICB9CgogICAgICBGdXR1cmU8Qm9vbGVhbj4gZnV0dXJlID0gYXJjdXNDbGllbnQuZGVsZXRlKGNhY2hlS2V5KTsKCiAgICAgIGJvb2xlYW4gc3VjY2VzcyA9IGZ1dHVyZS5nZXQodGltZW91dE1pbGxpU2Vjb25kcywKICAgICAgICAgICAgICBUaW1lVW5pdC5NSUxMSVNFQ09ORFMpOwoKCQkJaWYgKGxvZ2dlci5pc0RlYnVnRW5hYmxlZCgpICYmICFzdWNjZXNzKSB7CgkJCQlsb2dnZXIuZGVidWcoImZhaWxlZCB0byBldml2dCBhIGtleToge30iLCBrZXkudG9TdHJpbmcoKSk7CgkJCX0KCQl9IGNhdGNoIChFeGNlcHRpb24gZSkgewoJCQlsb2dnZXIuaW5mbyhlLmdldE1lc3NhZ2UoKSk7CgkJCWlmICh3YW50VG9HZXRFeGNlcHRpb24pIHsKCQkJCXRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKGUpOwoJCQl9CgkJfQo=</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>user&quot;, &quot;article&quot;})</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">Y2FjaGVOYW1lcyA=</text>
+        <text>{&quot;</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">PSA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
