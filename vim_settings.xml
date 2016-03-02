@@ -214,13 +214,13 @@
         <mark key="^" line="20" column="10" />
         <mark key="." line="20" column="10" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/arcus-spring/src/main/java/com/navercorp/arcus/spring/cache/ArcusCache.java" timestamp="1456888352314">
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/arcus-spring/src/main/java/com/navercorp/arcus/spring/cache/ArcusCache.java" timestamp="1456888790833">
         <mark key="v" line="135" column="56" />
         <mark key="'" line="373" column="66" />
-        <mark key="[" line="173" column="39" />
-        <mark key="]" line="263" column="49" />
-        <mark key="." line="263" column="49" />
-        <mark key="^" line="263" column="49" />
+        <mark key="[" line="174" column="4" />
+        <mark key="]" line="176" column="43" />
+        <mark key="." line="176" column="43" />
+        <mark key="^" line="176" column="43" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/naver/arcus-spring/src/test/java/com/navercorp/arcus/spring/cache/ArcusCacheIntegrationTest.java" timestamp="1452749514550">
         <mark key="[" line="35" column="21" />
@@ -334,11 +334,11 @@
       <file name="/fragment.java" timestamp="1456642774089">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/driver/DummyDBWrapper.java" timestamp="1456887534096">
-        <mark key="[" line="78" column="13" />
-        <mark key="]" line="99" column="25" />
-        <mark key="^" line="99" column="25" />
-        <mark key="." line="99" column="25" />
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/driver/DummyDBWrapper.java" timestamp="1456888774942">
+        <mark key="[" line="53" column="14" />
+        <mark key="]" line="53" column="44" />
+        <mark key="^" line="53" column="44" />
+        <mark key="." line="53" column="44" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/naver/arcus-spring/pom.xml" timestamp="1452506442683">
         <mark key="[" line="13" column="32" />
@@ -456,11 +456,11 @@
       <jump line="373" column="66" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/arcus-spring/src/main/java/com/navercorp/arcus/spring/cache/ArcusCache.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>user&quot;, &quot;article&quot;})</text>
       </register>
       <register name="-" type="4">
-        <text>().</text>
+        <text>user&quot;, &quot;article&quot;})</text>
       </register>
       <register name="/" type="4">
         <text>callnum</text>
@@ -468,32 +468,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiR290IHJlc3BvbnNlIGZyb20gQVJDVVMgY2FjaGUgbm9kZSA6ICIgKyByZXNwb25zZXMudG9TdHJpbmcoKSk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>user&quot;, &quot;article&quot;})</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGRiV3JhcHBlci5nZXRVc2VyTWFwKCkucHV0KCJ1c2VyMiIsICJuYW1lMiIpOwogICAgZGJXcmFwcGVyLmdldEFydGljbGVNYXAoKS5wdXQoInVzZXIyIiwgbmV3IFRyZWVNYXA8TG9uZywgU3RyaW5nPigpKTsKICAgIGRiV3JhcHBlci5nZXRBcnRpY2xlTWFwKCkuZ2V0KCJ1c2VyMiIpLnB1dCgyMzRMLCAiY29udGVudHMyIik7CiAgICBkYldyYXBwZXIuZ2V0QXJ0aWNsZU1hcCgpLmdldCgidXNlcjIiKS5wdXQoMzQ1TCwgImNvbnRlbnRzMyIpOwo=</text>
+      <register name="2" type="4">
+        <text>{&quot;</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGRiVwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="4" type="4">
-        <text>().</text>
+        <text encoding="base64">Y2FjaGVOYW1lcyA=</text>
       </register>
-      <register name="5" type="4">
-        <text>g</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGRiV3JhcHBlci5nZXRVc2VyTWFwKCkucHV0KCJ1c2VyMiIsICJuYW1lMiIpOwogICAgZGJXcmFwcGVyLmdldEFydGljbGVNYXAoKS5wdXQoInVzZXIyIiwgbmV3IFRyZWVNYXA8TG9uZywgU3RyaW5nPigpKTsKICAgIGRiV3JhcHBlci5nZXRBcnRpY2xlTWFwKCkuZ2V0KCJ1c2VyMiIpLnB1dCgyMzRMLCAiY29udGVudHMyIik7CiAgICBkYldyYXBwZXIuZ2V0QXJ0aWNsZU1hcCgpLmdldCgidXNlcjIiKS5wdXQoMzQ1TCwgImNvbnRlbnRzMyIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoImZhaWxlZCB0byBwdXQgYSBrZXk6IHt9LCB2YWx1ZToge30uIiwga2V5LCB2YWx1ZS50b1N0cmluZygpKTsK</text>
+        <text encoding="base64">ICAgIGRiVwo=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">c3VjY2VzcyA=</text>
+        <text>().</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGJvb2xlYW4gc3VjY2VzcyA9IGZhbHNlOwo=</text>
+      <register name="9" type="4">
+        <text>g</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
