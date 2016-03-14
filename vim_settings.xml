@@ -317,7 +317,6 @@
         <mark key="^" line="14" column="60" />
         <mark key="." line="14" column="60" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.2.4.RELEASE/spring-jdbc-4.2.4.RELEASE.jar!/org/springframework/jdbc/core/RowMapper.class" timestamp="1457858158915" />
       <file name="$USER_HOME$/PrivateDev/TobysSpring/src/test/java/learningtest/templete/Calculator.java" timestamp="1456642754033">
         <mark key="[" line="54" column="5" />
         <mark key="]" line="54" column="10" />
