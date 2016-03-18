@@ -262,7 +262,6 @@
         <mark key="." line="31" column="27" />
         <mark key="^" line="31" column="27" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/arcus-spring/src/main/java/com/navercorp/arcus/spring/callback/AsycGetMethod.java" timestamp="1457946705532" />
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/BTreeStore.java" timestamp="1457412571892">
         <mark key="[" line="26" column="73" />
         <mark key="]" line="26" column="18" />
@@ -275,7 +274,6 @@
         <mark key="^" line="22" column="36" />
         <mark key="." line="22" column="36" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/arcus-spring/src/test/java/com/navercorp/arcus/spring/cache/ArcusCacheIntegrationTest.java" timestamp="1457946522989" />
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/driver/ArcusKeyGenerator.java" timestamp="1456472762037">
         <mark key="[" line="11" column="74" />
         <mark key="]" line="12" column="31" />
@@ -290,7 +288,6 @@
         <mark key="." line="21" column="27" />
         <mark key="^" line="21" column="27" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/arcus-spring/src/main/java/com/navercorp/arcus/spring/callback/AsyncLopDeleteByIndexMethod.java" timestamp="1457946548067" />
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/resources/log4j.xml" timestamp="1454468410673">
         <mark key="[" line="8" column="4" />
         <mark key="]" line="8" column="9" />
@@ -303,7 +300,6 @@
         <mark key="^" line="13" column="26" />
         <mark key="." line="13" column="26" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/arcus-spring/src/test/java/com/navercorp/arcus/spring/ArcusTemplateTest.java" timestamp="1457946466216" />
       <file name="$USER_HOME$/PrivateDev/TobysSpring/src/main/java/springbook/user/dao/SimpleConnectionMaker.java" timestamp="1453017627182">
         <mark key="[" line="14" column="66" />
         <mark key="]" line="14" column="60" />
@@ -316,7 +312,6 @@
         <mark key="." line="54" column="10" />
         <mark key="^" line="54" column="10" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/3.1.0.RELEASE/spring-context-3.1.0.RELEASE-sources.jar!/org/springframework/cache/Cache.java" timestamp="1457945101888" />
       <file name="$USER_HOME$/Work/repo/jam2in/arcus-java-repl/src/main/java/net/spy/memcached/protocol/ascii/OperationImpl.java" timestamp="1451983029468">
         <mark key="[" line="127" column="57" />
         <mark key="]" line="127" column="56" />
