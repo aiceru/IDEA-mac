@@ -255,7 +255,7 @@
         <mark key="." line="35" column="54" />
         <mark key="^" line="35" column="54" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/collection/BaseIntegrationTest.java" timestamp="1459245337572">
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/collection/BaseIntegrationTest.java" timestamp="1461285271133">
         <mark key="'" line="73" column="17" />
         <mark key="[" line="71" column="54" />
         <mark key="]" line="71" column="53" />
@@ -484,7 +484,7 @@
         <text>p</text>
       </register>
       <register name="/" type="4">
-        <text>result</text>
+        <text>Setup</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbmV3IFJvd01hcHBlcjxVc2VyPigpIHsKICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICBwdWJsaWMgVXNlciBtYXBSb3coUmVzdWx0U2V0IHJlc3VsdFNldCwgaW50IGkpIHRocm93cyBTUUxFeGNlcHRpb24gewogICAgICAgICAgICAgICAgVXNlciB1c2VyID0gbmV3IFVzZXIoKTsKICAgICAgICAgICAgICAgIHVzZXIuc2V0SWQocmVzdWx0U2V0LmdldFN0cmluZygiaWQiKSk7CiAgICAgICAgICAgICAgICB1c2VyLnNldE5hbWUocmVzdWx0U2V0LmdldFN0cmluZygibmFtZSIpKTsKICAgICAgICAgICAgICAgIHVzZXIuc2V0UGFzc3dvcmQocmVzdWx0U2V0LmdldFN0cmluZygicGFzc3dvcmQiKSk7CiAgICAgICAgICAgICAgICByZXR1cm4gdXNlcjsKICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOwo=</text>
@@ -521,9 +521,9 @@
       </register>
     </registers>
     <search>
-      <last-search>result</last-search>
+      <last-search>Setup</last-search>
       <last-offset />
-      <last-pattern>result</last-pattern>
+      <last-pattern>Setup</last-pattern>
       <last-replace>java.nio.BufferOverflowException e</last-replace>
       <last-substitute>callnum</last-substitute>
       <last-dir>1</last-dir>
@@ -531,7 +531,6 @@
     </search>
     <history>
       <history-search>
-        <entry>piped</entry>
         <entry>Piped</entry>
         <entry>Exception</entry>
         <entry>e.print</entry>
@@ -551,6 +550,7 @@
         <entry>asyncGet</entry>
         <entry>norep</entry>
         <entry>result</entry>
+        <entry>Setup</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Exception e/java.nio.BufferOverflowException e/g</entry>
