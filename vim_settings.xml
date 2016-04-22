@@ -69,11 +69,6 @@
         <mark key="." line="30" column="91" />
         <mark key="^" line="30" column="91" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/SimpleAppMain.java" timestamp="1456967501610">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="109" column="0" />
-        <mark key="." line="109" column="0" />
-      </file>
       <file name="$USER_HOME$/Work/arcus/tests/override-and-call-test/src/SubClass.java" timestamp="1457073758944">
         <mark key="[" line="5" column="32" />
         <mark key="]" line="6" column="12" />
@@ -109,11 +104,6 @@
         <mark key="]" line="11" column="20" />
         <mark key="^" line="11" column="20" />
         <mark key="." line="11" column="20" />
-      </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/driver/ArcusClientWrapper.java" timestamp="1456730336351">
-        <mark key="[" line="532" column="5" />
-        <mark key="]" line="532" column="5" />
-        <mark key="." line="532" column="5" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/protocol/ascii/AsciiOperationFactory.java" timestamp="1460027222441">
         <mark key="'" line="263" column="38" />
@@ -184,11 +174,6 @@
         <mark key="]" line="73" column="1" />
         <mark key="^" line="73" column="1" />
         <mark key="." line="73" column="1" />
-      </file>
-      <file name="$USER_HOME$/PrivateDev/TobysSpring/src/test/resources/applicationContext.xml" timestamp="1457859784721">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/test/resources/log4j.xml" timestamp="1456389515518">
         <mark key="[" line="15" column="12" />
@@ -349,6 +334,7 @@
         <mark key="." line="54" column="10" />
         <mark key="^" line="54" column="10" />
       </file>
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/bulkoperation/BulkSetTest.java" timestamp="1461291872716" />
       <file name="$USER_HOME$/Work/repo/jam2in/arcus-java-repl/src/main/java/net/spy/memcached/protocol/ascii/OperationImpl.java" timestamp="1451983029468">
         <mark key="[" line="127" column="57" />
         <mark key="]" line="127" column="56" />
