@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Module 'arcus-java-client'" />
-    <option name="defaultScopeName" value="Module 'arcus-java-client'" />
+    <option name="customScope" value="Project Files" />
+    <option name="defaultScopeName" value="Project Files" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="Module 'arcus-java-client'" />
+    <option name="SEARCH_SCOPE" value="Project Files" />
   </component>
 </application>
