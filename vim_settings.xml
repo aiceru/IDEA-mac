@@ -354,12 +354,12 @@
         <mark key="." line="54" column="10" />
         <mark key="^" line="54" column="10" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/protocol/ascii/CollectionDeleteOperationImpl.java" timestamp="1461840444528">
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/protocol/ascii/CollectionDeleteOperationImpl.java" timestamp="1461840779696">
         <mark key="'" line="100" column="15" />
-        <mark key="[" line="95" column="41" />
-        <mark key="]" line="95" column="73" />
-        <mark key="^" line="95" column="73" />
-        <mark key="." line="95" column="73" />
+        <mark key="[" line="99" column="75" />
+        <mark key="]" line="99" column="7" />
+        <mark key="^" line="99" column="7" />
+        <mark key="." line="99" column="7" />
       </file>
       <file name="$USER_HOME$/Work/repo/jam2in/arcus-java-repl/src/main/java/net/spy/memcached/protocol/ascii/OperationImpl.java" timestamp="1451983029468">
         <mark key="[" line="127" column="57" />
