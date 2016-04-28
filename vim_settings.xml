@@ -324,6 +324,9 @@
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ops/CollectionOperationStatus.java" timestamp="1461830153146">
         <mark key="'" line="28" column="17" />
       </file>
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/internal/BulkGetFuture.java" timestamp="1461831547196">
+        <mark key="'" line="99" column="31" />
+      </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/Article.java" timestamp="1456467886249">
         <mark key="[" line="14" column="3" />
         <mark key="]" line="13" column="26" />
@@ -378,8 +381,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="188" column="43" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/pom.xml" />
-      <jump line="64" column="19" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/pom.xml" />
       <jump line="70" column="19" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/pom.xml" />
       <jump line="114" column="32" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/pom.xml" />
       <jump line="117" column="38" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/pom.xml" />
@@ -478,6 +479,8 @@
       <jump line="1073" column="20" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClientIF.java" />
       <jump line="189" column="33" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClientPool.java" />
       <jump line="1015" column="28" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/MemcachedClient.java" />
+      <jump line="99" column="31" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/internal/BulkGetFuture.java" />
+      <jump line="129" column="31" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/internal/BulkGetFuture.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
