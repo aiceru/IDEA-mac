@@ -317,12 +317,12 @@
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ops/CollectionOperationStatus.java" timestamp="1461830153146">
         <mark key="'" line="28" column="17" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/CollectionDelete.java" timestamp="1461836254518">
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/CollectionDelete.java" timestamp="1461914193658">
         <mark key="a" line="47" column="0" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="43" column="17" />
-        <mark key="." line="25" column="0" />
+        <mark key="[" line="44" column="22" />
+        <mark key="]" line="44" column="22" />
+        <mark key="^" line="44" column="22" />
+        <mark key="." line="44" column="22" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/internal/BulkGetFuture.java" timestamp="1461831547196">
         <mark key="'" line="99" column="31" />
@@ -489,11 +489,11 @@
       <jump line="1418" column="25" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="&quot;" type="4">
+        <text>ng stringify();</text>
       </register>
       <register name="-" type="4">
-        <text>return new byte[0];</text>
+        <text>ng stringify();</text>
       </register>
       <register name="/" type="4">
         <text>deleteTest</text>
@@ -501,32 +501,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbmV3IFJvd01hcHBlcjxVc2VyPigpIHsKICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICBwdWJsaWMgVXNlciBtYXBSb3coUmVzdWx0U2V0IHJlc3VsdFNldCwgaW50IGkpIHRocm93cyBTUUxFeGNlcHRpb24gewogICAgICAgICAgICAgICAgVXNlciB1c2VyID0gbmV3IFVzZXIoKTsKICAgICAgICAgICAgICAgIHVzZXIuc2V0SWQocmVzdWx0U2V0LmdldFN0cmluZygiaWQiKSk7CiAgICAgICAgICAgICAgICB1c2VyLnNldE5hbWUocmVzdWx0U2V0LmdldFN0cmluZygibmFtZSIpKTsKICAgICAgICAgICAgICAgIHVzZXIuc2V0UGFzc3dvcmQocmVzdWx0U2V0LmdldFN0cmluZygicGFzc3dvcmQiKSk7CiAgICAgICAgICAgICAgICByZXR1cm4gdXNlcjsKICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOwo=</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>ng stringify();</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">CQkK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>return new byte[0];</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CQllZW51cm4gbmV3IGJ5dGVbMF07Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CXByb3RlY3RlZCBieXRlW10gZGF0YSA9IG51bGw7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQl9Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJYmIucHV0KENSTEYpOwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJYmIucHV0KGRhdGEpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQl9IGVsc2UgaWYgKGRhdGEubGVuZ3RoID4gMCkgewo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJZGF0YSA9IGNvbGxlY3Rpb25EZWxldGUuZ2V0RGF0YSgpOwo=</text>
+        <text encoding="base64">CQl9IGVsc2UgaWYgKGRhdGEubGVuZ3RoID4gMCkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
