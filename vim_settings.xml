@@ -124,6 +124,9 @@
         <mark key="^" line="27" column="45" />
         <mark key="." line="27" column="45" />
       </file>
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/protocol/ascii/CollectionGetOperationImpl.java" timestamp="1462156224317">
+        <mark key="'" line="142" column="31" />
+      </file>
       <file name="$USER_HOME$/PrivateDev/TobysSpring/src/main/java/springbook/user/dao/DaoFactory.java" timestamp="1455430649776">
         <mark key="[" line="11" column="28" />
         <mark key="]" line="14" column="14" />
@@ -301,7 +304,7 @@
         <mark key="." line="12" column="31" />
         <mark key="^" line="12" column="31" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" timestamp="1461840400541">
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" timestamp="1462157231153">
         <mark key="'" line="1418" column="25" />
         <mark key="[" line="3886" column="0" />
         <mark key="]" line="3596" column="66" />
@@ -390,9 +393,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="18" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/driver/DummyDBWrapper.java" />
-      <jump line="26" column="12" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/test/java/com/jam2in/arcus/MapCacheTest.java" />
-      <jump line="12" column="0" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/resources/simpleAppContext.xml" />
       <jump line="16" column="0" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/SimpleApp.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/SimpleApp.java" />
       <jump line="238" column="2" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/SimpleApp.java" />
@@ -490,6 +490,9 @@
       <jump line="32" column="13" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/bulkoperation/BopInsertBulkMultipleTest.java" />
       <jump line="46" column="13" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/bulkoperation/BopInsertBulkMultipleTest.java" />
       <jump line="1418" column="25" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" />
+      <jump line="62" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/CollectionGet.java" />
+      <jump line="142" column="31" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/protocol/ascii/CollectionGetOperationImpl.java" />
+      <jump line="59" column="16" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/SetGet.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
