@@ -304,7 +304,7 @@
         <mark key="." line="12" column="31" />
         <mark key="^" line="12" column="31" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" timestamp="1462276923194">
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" timestamp="1462278096040">
         <mark key="'" line="766" column="39" />
         <mark key="[" line="3886" column="0" />
         <mark key="]" line="3596" column="66" />
@@ -323,12 +323,12 @@
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ops/CollectionOperationStatus.java" timestamp="1461830153146">
         <mark key="'" line="28" column="17" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/CollectionDelete.java" timestamp="1461914193658">
-        <mark key="a" line="47" column="0" />
-        <mark key="[" line="44" column="22" />
-        <mark key="]" line="44" column="22" />
-        <mark key="^" line="44" column="22" />
-        <mark key="." line="44" column="22" />
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/CollectionDelete.java" timestamp="1462277995047">
+        <mark key="a" line="45" column="0" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="42" column="22" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/internal/BulkGetFuture.java" timestamp="1461831547196">
         <mark key="'" line="99" column="31" />
@@ -343,11 +343,7 @@
         <mark key="'" line="1051" column="20" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/BTreeDelete.java" timestamp="1462161751840">
-        <mark key="'" line="123" column="28" />
-        <mark key="[" line="109" column="36" />
-        <mark key="]" line="110" column="10" />
-        <mark key="." line="110" column="10" />
-        <mark key="^" line="110" column="10" />
+        <mark key="'" line="114" column="28" />
       </file>
       <file name="$USER_HOME$/PrivateDev/TobysSpring/src/main/java/springbook/user/dao/SimpleConnectionMaker.java" timestamp="1453017627182">
         <mark key="[" line="14" column="66" />
@@ -362,11 +358,11 @@
         <mark key="^" line="54" column="10" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/protocol/ascii/CollectionDeleteOperationImpl.java" timestamp="1461840779696">
-        <mark key="'" line="100" column="15" />
-        <mark key="[" line="99" column="75" />
-        <mark key="]" line="99" column="7" />
-        <mark key="^" line="99" column="7" />
-        <mark key="." line="99" column="7" />
+        <mark key="'" line="103" column="15" />
+        <mark key="[" line="95" column="75" />
+        <mark key="]" line="95" column="7" />
+        <mark key="^" line="95" column="7" />
+        <mark key="." line="95" column="7" />
       </file>
       <file name="$USER_HOME$/Work/repo/jam2in/arcus-java-repl/src/main/java/net/spy/memcached/protocol/ascii/OperationImpl.java" timestamp="1451983029468">
         <mark key="[" line="127" column="57" />
@@ -496,8 +492,8 @@
       <jump line="766" column="39" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ng stringify();</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>ng stringify();</text>
@@ -508,32 +504,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbmV3IFJvd01hcHBlcjxVc2VyPigpIHsKICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICBwdWJsaWMgVXNlciBtYXBSb3coUmVzdWx0U2V0IHJlc3VsdFNldCwgaW50IGkpIHRocm93cyBTUUxFeGNlcHRpb24gewogICAgICAgICAgICAgICAgVXNlciB1c2VyID0gbmV3IFVzZXIoKTsKICAgICAgICAgICAgICAgIHVzZXIuc2V0SWQocmVzdWx0U2V0LmdldFN0cmluZygiaWQiKSk7CiAgICAgICAgICAgICAgICB1c2VyLnNldE5hbWUocmVzdWx0U2V0LmdldFN0cmluZygibmFtZSIpKTsKICAgICAgICAgICAgICAgIHVzZXIuc2V0UGFzc3dvcmQocmVzdWx0U2V0LmdldFN0cmluZygicGFzc3dvcmQiKSk7CiAgICAgICAgICAgICAgICByZXR1cm4gdXNlcjsKICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>ng stringify();</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CX0K</text>
       </register>
-      <register name="3" type="4">
-        <text>return new byte[0];</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQl0aGlzLmRhdGEgPSBkYXRhOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQllZW51cm4gbmV3IGJ5dGVbMF07Cg==</text>
+        <text encoding="base64">CXB1YmxpYyB2b2lkIHNldERhdGEoYnl0ZVtdIGRhdGEpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXByb3RlY3RlZCBieXRlW10gZGF0YSA9IG51bGw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJYmIucHV0KENSTEYpOwo=</text>
+        <text encoding="base64">CQlyZXR1cm4gZGF0YTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJYmIucHV0KGRhdGEpOwo=</text>
+        <text encoding="base64">CXB1YmxpYyBieXRlW10gZ2V0RGF0YSgpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl9IGVsc2UgaWYgKGRhdGEubGVuZ3RoID4gMCkgewo=</text>
+        <text encoding="base64">CXByb3RlY3RlZCBieXRlW10gZGF0YSA9IHsgfTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
