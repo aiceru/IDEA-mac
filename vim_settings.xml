@@ -286,11 +286,14 @@
         <mark key="^" line="26" column="18" />
         <mark key="." line="26" column="18" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/SetDelete.java" timestamp="1462278765221">
-        <mark key="[" line="18" column="17" />
-        <mark key="]" line="18" column="22" />
-        <mark key="." line="18" column="22" />
-        <mark key="^" line="18" column="22" />
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/protocol/ascii/CollectionExistOperationImpl.java" timestamp="1462331301922">
+        <mark key="[" line="91" column="29" />
+      </file>
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/SetDelete.java" timestamp="1462332275322">
+        <mark key="[" line="48" column="38" />
+        <mark key="]" line="48" column="25" />
+        <mark key="^" line="48" column="25" />
+        <mark key="." line="48" column="25" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/protocol/ascii/BaseGetOpImpl.java" timestamp="1453946980036">
         <mark key="[" line="22" column="37" />
@@ -298,11 +301,11 @@
         <mark key="^" line="22" column="36" />
         <mark key="." line="22" column="36" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/ListDelete.java" timestamp="1461838834228">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/ListDelete.java" timestamp="1462331876994">
+        <mark key="[" line="43" column="37" />
+        <mark key="]" line="44" column="15" />
         <mark key="^" line="44" column="15" />
+        <mark key="." line="44" column="15" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/driver/ArcusKeyGenerator.java" timestamp="1456472762037">
         <mark key="[" line="11" column="74" />
@@ -310,12 +313,12 @@
         <mark key="." line="12" column="31" />
         <mark key="^" line="12" column="31" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" timestamp="1462278875587">
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" timestamp="1462332387984">
         <mark key="'" line="1452" column="70" />
-        <mark key="[" line="1452" column="70" />
-        <mark key="]" line="1452" column="70" />
-        <mark key="^" line="1452" column="70" />
-        <mark key="." line="1452" column="70" />
+        <mark key="[" line="1464" column="20" />
+        <mark key="]" line="1464" column="14" />
+        <mark key="^" line="1464" column="14" />
+        <mark key="." line="1464" column="14" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/resources/log4j.xml" timestamp="1459245422129">
         <mark key="[" line="15" column="22" />
@@ -329,12 +332,12 @@
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ops/CollectionOperationStatus.java" timestamp="1461830153146">
         <mark key="'" line="28" column="17" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/CollectionDelete.java" timestamp="1462277995047">
-        <mark key="a" line="54" column="0" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="^" line="51" column="22" />
-        <mark key="." line="50" column="0" />
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/CollectionDelete.java" timestamp="1462331819344">
+        <mark key="a" line="46" column="0" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/protocol/ascii/CollectionStoreOperationImpl.java" timestamp="1462328441640" />
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/internal/BulkGetFuture.java" timestamp="1461831547196">
@@ -349,8 +352,12 @@
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClientIF.java" timestamp="1461830875898">
         <mark key="'" line="1051" column="20" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/BTreeDelete.java" timestamp="1462161751840">
-        <mark key="'" line="114" column="28" />
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/BTreeDelete.java" timestamp="1462331859171">
+        <mark key="'" line="119" column="28" />
+        <mark key="[" line="105" column="23" />
+        <mark key="]" line="105" column="15" />
+        <mark key="^" line="105" column="15" />
+        <mark key="." line="105" column="15" />
       </file>
       <file name="$USER_HOME$/PrivateDev/TobysSpring/src/main/java/springbook/user/dao/SimpleConnectionMaker.java" timestamp="1453017627182">
         <mark key="[" line="14" column="66" />
@@ -364,12 +371,9 @@
         <mark key="." line="54" column="10" />
         <mark key="^" line="54" column="10" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/protocol/ascii/CollectionDeleteOperationImpl.java" timestamp="1462278931108">
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/protocol/ascii/CollectionDeleteOperationImpl.java" timestamp="1462332485312">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="92" column="4" />
-        <mark key="]" line="92" column="5" />
-        <mark key="^" line="92" column="5" />
-        <mark key="." line="92" column="5" />
+        <mark key="[" line="97" column="37" />
       </file>
       <file name="$USER_HOME$/Work/repo/jam2in/arcus-java-repl/src/main/java/net/spy/memcached/protocol/ascii/OperationImpl.java" timestamp="1451983029468">
         <mark key="[" line="127" column="57" />
@@ -499,11 +503,11 @@
       <jump line="184" column="28" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/protocol/ascii/AsciiOperationFactory.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CgkJaWYgKCJzb3AgZGVsZXRlIi5lcXVhbHMoY21kKSkgewoJCQliYi5wdXQoZGF0YSk7CgkJCWJiLnB1dChDUkxGKTsKCQl9IGVsc2UgaWYgKGRhdGEubGVuZ3RoID4gMCkgewoJCQliYi5wdXQoZGF0YSk7CgkJCWJiLnB1dChDUkxGKTsKCQl9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>deleteTest</text>
@@ -511,32 +515,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbmV3IFJvd01hcHBlcjxVc2VyPigpIHsKICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICBwdWJsaWMgVXNlciBtYXBSb3coUmVzdWx0U2V0IHJlc3VsdFNldCwgaW50IGkpIHRocm93cyBTUUxFeGNlcHRpb24gewogICAgICAgICAgICAgICAgVXNlciB1c2VyID0gbmV3IFVzZXIoKTsKICAgICAgICAgICAgICAgIHVzZXIuc2V0SWQocmVzdWx0U2V0LmdldFN0cmluZygiaWQiKSk7CiAgICAgICAgICAgICAgICB1c2VyLnNldE5hbWUocmVzdWx0U2V0LmdldFN0cmluZygibmFtZSIpKTsKICAgICAgICAgICAgICAgIHVzZXIuc2V0UGFzc3dvcmQocmVzdWx0U2V0LmdldFN0cmluZygicGFzc3dvcmQiKSk7CiAgICAgICAgICAgICAgICByZXR1cm4gdXNlcjsKICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">CgkJaWYgKCJzb3AgZGVsZXRlIi5lcXVhbHMoY21kKSkgewoJCQliYi5wdXQoZGF0YSk7CgkJCWJiLnB1dChDUkxGKTsKCQl9IGVsc2UgaWYgKGRhdGEubGVuZ3RoID4gMCkgewoJCQliYi5wdXQoZGF0YSk7CgkJCWJiLnB1dChDUkxGKTsKCQl9Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>t</text>
+        <text>d</text>
       </register>
       <register name="3" type="4">
-        <text>c</text>
+        <text>ata</text>
       </register>
       <register name="4" type="4">
-        <text>e</text>
+        <text>getData</text>
       </register>
-      <register name="5" type="4">
-        <text>j</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQlkZWxldGUuc2V0RGF0YSh0Yy5lbmNvZGUodmFsdWUpLmdldERhdGEoKSk7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>b</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQlkZWxldGUuc2V0RGF0YShjb2xsZWN0aW9uVHJhbnNjb2Rlci5lbmNvZGUodmFsdWUpLmdldERhdGEoKSk7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>O</text>
+        <text>data</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">PA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">CXByb3RlY3RlZCBieXRlW10gZGF0YTsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PiA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
