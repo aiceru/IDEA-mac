@@ -562,7 +562,7 @@
         <text encoding="base64">U3RyaW5nIA==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -610,11 +610,11 @@
         <entry>q!</entry>
         <entry>2</entry>
         <entry>wq</entry>
-        <entry>q</entry>
         <entry>gg=G</entry>
         <entry>set cursorLine</entry>
         <entry>%s/String/Object/g</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
