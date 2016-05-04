@@ -289,14 +289,18 @@
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/protocol/ascii/CollectionExistOperationImpl.java" timestamp="1462331301922">
         <mark key="[" line="91" column="29" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/emptycollection/ProtocolSetDeleteTest.java" timestamp="1462337689914">
-        <mark key="[" line="28" column="54" />
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/emptycollection/ProtocolSetDeleteTest.java" timestamp="1462340376777">
+        <mark key="'" line="31" column="62" />
+        <mark key="[" line="46" column="51" />
+        <mark key="]" line="46" column="66" />
+        <mark key="^" line="46" column="66" />
+        <mark key="." line="46" column="66" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/SetDelete.java" timestamp="1462336689157">
-        <mark key="[" line="28" column="58" />
-        <mark key="]" line="28" column="54" />
-        <mark key="^" line="28" column="54" />
-        <mark key="." line="28" column="54" />
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/SetDelete.java" timestamp="1462340197400">
+        <mark key="[" line="26" column="12" />
+        <mark key="]" line="26" column="24" />
+        <mark key="^" line="26" column="24" />
+        <mark key="." line="26" column="24" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/protocol/ascii/BaseGetOpImpl.java" timestamp="1453946980036">
         <mark key="[" line="22" column="37" />
@@ -374,9 +378,12 @@
         <mark key="." line="54" column="10" />
         <mark key="^" line="54" column="10" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/protocol/ascii/CollectionDeleteOperationImpl.java" timestamp="1462332485312">
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/protocol/ascii/CollectionDeleteOperationImpl.java" timestamp="1462340871060">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="97" column="37" />
+        <mark key="[" line="96" column="12" />
+        <mark key="]" line="96" column="12" />
+        <mark key="^" line="96" column="12" />
+        <mark key="." line="96" column="12" />
       </file>
       <file name="$USER_HOME$/Work/repo/jam2in/arcus-java-repl/src/main/java/net/spy/memcached/protocol/ascii/OperationImpl.java" timestamp="1451983029468">
         <mark key="[" line="127" column="57" />
@@ -407,7 +414,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="0" filename="$USER_HOME$/PrivateDev/TobysSpring/src/main/java/springbook/user/dao/UserDao.java" />
       <jump line="33" column="19" filename="$USER_HOME$/PrivateDev/TobysSpring/src/main/java/springbook/user/dao/UserDao.java" />
       <jump line="4" column="0" filename="$USER_HOME$/PrivateDev/TobysSpring/src/main/java/springbook/user/dao/UserDao.java" />
       <jump line="1" column="0" filename="$USER_HOME$/PrivateDev/TobysSpring/src/main/java/springbook/user/dao/UserDao.java" />
@@ -507,64 +513,63 @@
       <jump line="0" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/protocol/ascii/CollectionDeleteOperationImpl.java" />
       <jump line="74" column="32" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/protocol/ascii/CollectionStoreOperationImpl.java" />
       <jump line="184" column="28" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/protocol/ascii/AsciiOperationFactory.java" />
+      <jump line="31" column="62" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/emptycollection/ProtocolSetDeleteTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">dGlvblRyYW5zY29kZXIg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlkZWwuc2V0RGF0YSgidmFsdWUiLmdldEJ5dGVzKCkpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGlvblRyYW5zY29kZXIg</text>
+        <text encoding="base64">U3RyaW5nIA==</text>
       </register>
       <register name="/" type="4">
-        <text>deleteTest</text>
+        <text>String</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbmV3IFJvd01hcHBlcjxVc2VyPigpIHsKICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICBwdWJsaWMgVXNlciBtYXBSb3coUmVzdWx0U2V0IHJlc3VsdFNldCwgaW50IGkpIHRocm93cyBTUUxFeGNlcHRpb24gewogICAgICAgICAgICAgICAgVXNlciB1c2VyID0gbmV3IFVzZXIoKTsKICAgICAgICAgICAgICAgIHVzZXIuc2V0SWQocmVzdWx0U2V0LmdldFN0cmluZygiaWQiKSk7CiAgICAgICAgICAgICAgICB1c2VyLnNldE5hbWUocmVzdWx0U2V0LmdldFN0cmluZygibmFtZSIpKTsKICAgICAgICAgICAgICAgIHVzZXIuc2V0UGFzc3dvcmQocmVzdWx0U2V0LmdldFN0cmluZygicGFzc3dvcmQiKSk7CiAgICAgICAgICAgICAgICByZXR1cm4gdXNlcjsKICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">dGlvblRyYW5zY29kZXIg</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQlkZWwuc2V0RGF0YSgidmFsdWUiLmdldEJ5dGVzKCkpOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQlkZWwuc2V0RGF0YSgidmFsdWUiLmdldEJ5dGVzKCkpOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQlkZWwuc2V0RGF0YSgidmFsdWUiLmdldEJ5dGVzKCkpOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text>g</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQlkZWwuc2V0RGF0YSgidmFsdWUiLmdldEJ5dGVzKCkpOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text>n</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQlkZWwuc2V0RGF0YSgidmFsdWUiLmdldEJ5dGVzKCkpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>i</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQlkZWwuc2V0RGF0YSgidmFsdWUiLmdldEJ5dGVzKCkpOwo=</text>
       </register>
       <register name="7" type="4">
-        <text>r</text>
+        <text encoding="base64">U3RyaW5nIA==</text>
       </register>
       <register name="8" type="4">
-        <text>t</text>
+        <text encoding="base64">dGlvblRyYW5zY29kZXIg</text>
       </register>
       <register name="9" type="4">
-        <text>S</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>deleteTest</last-search>
+      <last-search>s</last-search>
       <last-offset />
-      <last-pattern>deleteTest</last-pattern>
-      <last-replace>java.nio.BufferOverflowException e</last-replace>
-      <last-substitute>callnum</last-substitute>
+      <last-pattern>String</last-pattern>
+      <last-replace>Object</last-replace>
+      <last-substitute>String</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>e.print</entry>
-        <entry>e.printStack</entry>
         <entry>afterProperty</entry>
         <entry>after</entry>
         <entry>Exception e</entry>
@@ -583,6 +588,8 @@
         <entry>test</entry>
         <entry>delete</entry>
         <entry>deleteTest</entry>
+        <entry>s</entry>
+        <entry>String</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Exception e/java.nio.BufferOverflowException e/g</entry>
@@ -600,6 +607,7 @@
         <entry>q</entry>
         <entry>gg=G</entry>
         <entry>set cursorLine</entry>
+        <entry>%s/String/Object/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
