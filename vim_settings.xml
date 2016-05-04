@@ -289,11 +289,17 @@
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/protocol/ascii/CollectionExistOperationImpl.java" timestamp="1462331301922">
         <mark key="[" line="91" column="29" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/SetDelete.java" timestamp="1462332275322">
-        <mark key="[" line="48" column="38" />
-        <mark key="]" line="48" column="25" />
-        <mark key="^" line="48" column="25" />
-        <mark key="." line="48" column="25" />
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/emptycollection/ProtocolSetDeleteTest.java" timestamp="1462336676266">
+        <mark key="[" line="28" column="24" />
+        <mark key="]" line="28" column="24" />
+        <mark key="^" line="28" column="24" />
+        <mark key="." line="28" column="24" />
+      </file>
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/SetDelete.java" timestamp="1462336689157">
+        <mark key="[" line="28" column="58" />
+        <mark key="]" line="28" column="54" />
+        <mark key="^" line="28" column="54" />
+        <mark key="." line="28" column="54" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/protocol/ascii/BaseGetOpImpl.java" timestamp="1453946980036">
         <mark key="[" line="22" column="37" />
@@ -386,6 +392,9 @@
         <mark key="]" line="70" column="7" />
         <mark key="^" line="70" column="7" />
         <mark key="." line="70" column="7" />
+      </file>
+      <file name="/fragment.java" timestamp="1462336617551">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/naver/arcus-spring/pom.xml" timestamp="1452506442683">
         <mark key="[" line="13" column="32" />
@@ -503,11 +512,11 @@
       <jump line="184" column="28" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/protocol/ascii/AsciiOperationFactory.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CgkJaWYgKCJzb3AgZGVsZXRlIi5lcXVhbHMoY21kKSkgewoJCQliYi5wdXQoZGF0YSk7CgkJCWJiLnB1dChDUkxGKTsKCQl9IGVsc2UgaWYgKGRhdGEubGVuZ3RoID4gMCkgewoJCQliYi5wdXQoZGF0YSk7CgkJCWJiLnB1dChDUkxGKTsKCQl9Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>deleteTest</text>
@@ -515,32 +524,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbmV3IFJvd01hcHBlcjxVc2VyPigpIHsKICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICBwdWJsaWMgVXNlciBtYXBSb3coUmVzdWx0U2V0IHJlc3VsdFNldCwgaW50IGkpIHRocm93cyBTUUxFeGNlcHRpb24gewogICAgICAgICAgICAgICAgVXNlciB1c2VyID0gbmV3IFVzZXIoKTsKICAgICAgICAgICAgICAgIHVzZXIuc2V0SWQocmVzdWx0U2V0LmdldFN0cmluZygiaWQiKSk7CiAgICAgICAgICAgICAgICB1c2VyLnNldE5hbWUocmVzdWx0U2V0LmdldFN0cmluZygibmFtZSIpKTsKICAgICAgICAgICAgICAgIHVzZXIuc2V0UGFzc3dvcmQocmVzdWx0U2V0LmdldFN0cmluZygicGFzc3dvcmQiKSk7CiAgICAgICAgICAgICAgICByZXR1cm4gdXNlcjsKICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CgkJaWYgKCJzb3AgZGVsZXRlIi5lcXVhbHMoY21kKSkgewoJCQliYi5wdXQoZGF0YSk7CgkJCWJiLnB1dChDUkxGKTsKCQl9IGVsc2UgaWYgKGRhdGEubGVuZ3RoID4gMCkgewoJCQliYi5wdXQoZGF0YSk7CgkJCWJiLnB1dChDUkxGKTsKCQl9Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text>d</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="3" type="4">
-        <text>ata</text>
+        <text>g</text>
       </register>
       <register name="4" type="4">
-        <text>getData</text>
+        <text>n</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQlkZWxldGUuc2V0RGF0YSh0Yy5lbmNvZGUodmFsdWUpLmdldERhdGEoKSk7Cg==</text>
+      <register name="5" type="4">
+        <text>i</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQlkZWxldGUuc2V0RGF0YShjb2xsZWN0aW9uVHJhbnNjb2Rlci5lbmNvZGUodmFsdWUpLmdldERhdGEoKSk7Cg==</text>
+      <register name="6" type="4">
+        <text>r</text>
       </register>
       <register name="7" type="4">
-        <text>data</text>
+        <text>t</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CXByb3RlY3RlZCBieXRlW10gZGF0YTsK</text>
+      <register name="8" type="4">
+        <text>S</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">PA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
