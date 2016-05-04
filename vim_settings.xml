@@ -308,6 +308,12 @@
         <mark key="^" line="22" column="36" />
         <mark key="." line="22" column="36" />
       </file>
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/CollectionExist.java" timestamp="1462351257537">
+        <mark key="[" line="26" column="45" />
+        <mark key="]" line="26" column="33" />
+        <mark key="." line="26" column="33" />
+        <mark key="^" line="26" column="33" />
+      </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/ListDelete.java" timestamp="1462331876994">
         <mark key="[" line="43" column="37" />
         <mark key="]" line="44" column="15" />
@@ -517,7 +523,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlkZWwuc2V0RGF0YSgidmFsdWUiLmdldEJ5dGVzKCkpOwo=</text>
+        <text encoding="base64">CQl0aGlzLmRhdGEgPSBkYXRhOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">U3RyaW5nIA==</text>
@@ -529,10 +535,10 @@
         <text encoding="base64">ICAgICAgICAgICAgbmV3IFJvd01hcHBlcjxVc2VyPigpIHsKICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICBwdWJsaWMgVXNlciBtYXBSb3coUmVzdWx0U2V0IHJlc3VsdFNldCwgaW50IGkpIHRocm93cyBTUUxFeGNlcHRpb24gewogICAgICAgICAgICAgICAgVXNlciB1c2VyID0gbmV3IFVzZXIoKTsKICAgICAgICAgICAgICAgIHVzZXIuc2V0SWQocmVzdWx0U2V0LmdldFN0cmluZygiaWQiKSk7CiAgICAgICAgICAgICAgICB1c2VyLnNldE5hbWUocmVzdWx0U2V0LmdldFN0cmluZygibmFtZSIpKTsKICAgICAgICAgICAgICAgIHVzZXIuc2V0UGFzc3dvcmQocmVzdWx0U2V0LmdldFN0cmluZygicGFzc3dvcmQiKSk7CiAgICAgICAgICAgICAgICByZXR1cm4gdXNlcjsKICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlkZWwuc2V0RGF0YSgidmFsdWUiLmdldEJ5dGVzKCkpOwo=</text>
+        <text encoding="base64">CQl0aGlzLmRhdGEgPSBkYXRhOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlkZWwuc2V0RGF0YSgidmFsdWUiLmdldEJ5dGVzKCkpOwo=</text>
+        <text encoding="base64">CXByb3RlY3RlZCBieXRlW10gZGF0YTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">CQlkZWwuc2V0RGF0YSgidmFsdWUiLmdldEJ5dGVzKCkpOwo=</text>
@@ -546,14 +552,14 @@
       <register name="6" type="2">
         <text encoding="base64">CQlkZWwuc2V0RGF0YSgidmFsdWUiLmdldEJ5dGVzKCkpOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">U3RyaW5nIA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQlkZWwuc2V0RGF0YSgidmFsdWUiLmdldEJ5dGVzKCkpOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">dGlvblRyYW5zY29kZXIg</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQlkZWwuc2V0RGF0YSgidmFsdWUiLmdldEJ5dGVzKCkpOwo=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">U3RyaW5nIA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
