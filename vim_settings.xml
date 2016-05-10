@@ -317,12 +317,13 @@
         <mark key="]" line="123" column="0" />
         <mark key="." line="123" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/emptycollection/ProtocolSetDeleteTest.java" timestamp="1462879883023">
-        <mark key="'" line="31" column="62" />
-        <mark key="[" line="46" column="39" />
-        <mark key="]" line="46" column="36" />
-        <mark key="." line="46" column="36" />
-        <mark key="^" line="46" column="36" />
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/emptycollection/ProtocolSetDeleteTest.java" timestamp="1462882502606">
+        <mark key="a" line="15" column="2" />
+        <mark key="'" line="30" column="62" />
+        <mark key="[" line="2" column="34" />
+        <mark key="]" line="16" column="41" />
+        <mark key="^" line="16" column="41" />
+        <mark key="." line="16" column="41" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/SetDelete.java" timestamp="1462781611186">
         <mark key="'" line="48" column="16" />
@@ -440,6 +441,11 @@
       <file name="/fragment.java" timestamp="1462336617551">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/emptycollection/ProtocolSetExistTest.java" timestamp="1462882741451">
+        <mark key="]" line="35" column="88" />
+        <mark key="." line="35" column="88" />
+        <mark key="^" line="35" column="88" />
+      </file>
       <file name="$USER_HOME$/Work/arcus/repo/naver/arcus-spring/pom.xml" timestamp="1452506442683">
         <mark key="[" line="13" column="32" />
         <mark key="]" line="13" column="32" />
@@ -556,44 +562,44 @@
       <jump line="48" column="16" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/SetDelete.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlBc3NlcnQuYXNzZXJ0TnVsbChuZXcgTGlzdERlbGV0ZSgxMCwgZmFsc2UsIGZhbHNlKS5nZXRBZGRpdGlvbmFsQXJncygpKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>asyncSopExist</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IFJvd01hcHBlcjxVc2VyPigpIHsKICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICBwdWJsaWMgVXNlciBtYXBSb3coUmVzdWx0U2V0IHJlc3VsdFNldCwgaW50IGkpIHRocm93cyBTUUxFeGNlcHRpb24gewogICAgICAgICAgICAgICAgVXNlciB1c2VyID0gbmV3IFVzZXIoKTsKICAgICAgICAgICAgICAgIHVzZXIuc2V0SWQocmVzdWx0U2V0LmdldFN0cmluZygiaWQiKSk7CiAgICAgICAgICAgICAgICB1c2VyLnNldE5hbWUocmVzdWx0U2V0LmdldFN0cmluZygibmFtZSIpKTsKICAgICAgICAgICAgICAgIHVzZXIuc2V0UGFzc3dvcmQocmVzdWx0U2V0LmdldFN0cmluZygicGFzc3dvcmQiKSk7CiAgICAgICAgICAgICAgICByZXR1cm4gdXNlcjsKICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">CQlBc3NlcnQuYXNzZXJ0TnVsbChuZXcgTGlzdERlbGV0ZSgxMCwgZmFsc2UsIHRydWUpLmdldEFkZGl0aW9uYWxBcmdzKCkpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>&quot;</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQlBc3NlcnQuYXNzZXJ0TnVsbChuZXcgTGlzdERlbGV0ZSgxMCwgZmFsc2UsIGZhbHNlKS5nZXRBZGRpdGlvbmFsQXJncygpKTsK</text>
       </register>
-      <register name="2" type="4">
-        <text>e</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQlBc3NlcnQuYXNzZXJ0TnVsbChuZXcgTGlzdERlbGV0ZSgxMCwgZmFsc2UsIGZhbHNlKS5nZXRBZGRpdGlvbmFsQXJncygpKTsK</text>
       </register>
-      <register name="3" type="4">
-        <text>u</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQlBc3NlcnQuYXNzZXJ0TnVsbChuZXcgTGlzdERlbGV0ZSgxMCwgZmFsc2UsIGZhbHNlKS5nZXRBZGRpdGlvbmFsQXJncygpKTsK</text>
       </register>
-      <register name="4" type="4">
-        <text>l</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQlBc3NlcnQuYXNzZXJ0TnVsbChuZXcgTGlzdERlbGV0ZSgxMCwgZmFsc2UsIGZhbHNlKS5nZXRBZGRpdGlvbmFsQXJncygpKTsK</text>
       </register>
-      <register name="5" type="4">
-        <text>a</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQlBc3NlcnQuYXNzZXJ0TnVsbChuZXcgTGlzdERlbGV0ZSgxMCwgdHJ1ZSwgZmFsc2UpLmdldEFkZGl0aW9uYWxBcmdzKCkpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>v</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQlBc3NlcnQuYXNzZXJ0TnVsbChuZXcgTGlzdERlbGV0ZSgxMCwgdHJ1ZSkuZ2V0QWRkaXRpb25hbEFyZ3MoKSk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>&quot;</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQlBc3NlcnQuYXNzZXJ0TnVsbChuZXcgTGlzdERlbGV0ZSgxMCwgMjAsIGZhbHNlLCB0cnVlKS5nZXRBZGRpdGlvbmFsQXJncygpKTsK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">InZhbHVlIiwg</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlPYmplY3QgdmFsdWUgPSAidmFsdWUiOwo=</text>
+        <text encoding="base64">CQlBc3NlcnQuYXNzZXJ0TnVsbChuZXcgTGlzdERlbGV0ZSgxMCwgLCB0cnVlKS5nZXRBZGRpdGlvbmFsQXJncygpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
