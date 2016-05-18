@@ -9,9 +9,6 @@
         <mark key="^" line="1" column="19" />
         <mark key="." line="1" column="19" />
       </file>
-      <file name="$USER_HOME$/PrivateDev/GoBook/hello_project/src/hello/hello.go" timestamp="1462015159076">
-        <mark key="[" line="4" column="13" />
-      </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/pom.xml" timestamp="1461574224911">
         <mark key="'" line="139" column="16" />
       </file>
@@ -62,6 +59,7 @@
         <mark key="." line="31" column="17" />
         <mark key="^" line="31" column="17" />
       </file>
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/BTreeGetBulkImpl.java" timestamp="1463549540525" />
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-spring/src/test/java/com/navercorp/arcus/spring/cache/CacheInterface.java" timestamp="1456192451069">
         <mark key="[" line="6" column="38" />
         <mark key="]" line="6" column="37" />
@@ -178,7 +176,7 @@
         <mark key="^" line="91" column="8" />
         <mark key="." line="91" column="8" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/CollectionGet.java" timestamp="1455795771319">
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/CollectionGet.java" timestamp="1463549262581">
         <mark key="[" line="18" column="36" />
         <mark key="]" line="18" column="36" />
         <mark key="^" line="18" column="36" />
@@ -443,9 +441,6 @@
         <mark key="]" line="70" column="7" />
         <mark key="^" line="70" column="7" />
         <mark key="." line="70" column="7" />
-      </file>
-      <file name="/fragment.java" timestamp="1462336617551">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/emptycollection/ProtocolSetExistTest.java" timestamp="1462882741451">
         <mark key="]" line="35" column="88" />
