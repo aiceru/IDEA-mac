@@ -34,7 +34,13 @@
         <mark key="^" line="36" column="13" />
         <mark key="." line="36" column="13" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/BulkService.java" timestamp="1463727813504" />
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/BulkService.java" timestamp="1463972455823">
+        <mark key="'" line="212" column="19" />
+        <mark key="[" line="193" column="25" />
+        <mark key="]" line="193" column="24" />
+        <mark key="^" line="193" column="24" />
+        <mark key="." line="193" column="24" />
+      </file>
       <file name="$USER_HOME$/PrivateDev/TobysSpring/src/main/java/springbook/user/domain/UserMapper.java" timestamp="1457858638640">
         <mark key="[" line="12" column="70" />
         <mark key="]" line="14" column="8" />
@@ -447,7 +453,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="825" column="24" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/MemcachedClient.java" />
       <jump line="828" column="23" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/MemcachedClient.java" />
       <jump line="865" column="24" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/MemcachedClient.java" />
       <jump line="866" column="11" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/MemcachedClient.java" />
@@ -547,6 +552,7 @@
       <jump line="230" column="4" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/BulkService.java" />
       <jump line="120" column="13" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/MemcachedClient.java" />
       <jump line="67" column="16" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/BTreeGetByPosition.java" />
+      <jump line="212" column="19" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/BulkService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
