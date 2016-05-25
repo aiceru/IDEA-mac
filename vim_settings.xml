@@ -12,8 +12,12 @@
       <file name="$USER_HOME$/PrivateDev/GoBook/hello_project/src/hello/hello.go" timestamp="1462015159076">
         <mark key="[" line="4" column="13" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/pom.xml" timestamp="1461574224911">
-        <mark key="'" line="139" column="16" />
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/pom.xml" timestamp="1464169955068">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="88" column="82" />
+        <mark key="]" line="91" column="36" />
+        <mark key="^" line="91" column="36" />
+        <mark key="." line="91" column="36" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/.idea/.name" timestamp="1453095101706">
         <mark key="[" line="0" column="1" />
@@ -303,11 +307,11 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/SetExist.java" timestamp="1464166615514">
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/SetExist.java" timestamp="1464170972122">
         <mark key="[" line="28" column="37" />
-        <mark key="]" line="28" column="38" />
-        <mark key="^" line="28" column="38" />
-        <mark key="." line="28" column="38" />
+        <mark key="]" line="28" column="39" />
+        <mark key="^" line="28" column="39" />
+        <mark key="." line="28" column="39" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-spring/src/test/java/com/navercorp/arcus/spring/cache/CacheAnnotationTest.java" timestamp="1456195398039">
         <mark key="[" line="29" column="44" />
@@ -334,18 +338,25 @@
         <mark key="^" line="16" column="41" />
         <mark key="." line="16" column="41" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/SetDelete.java" timestamp="1464166602038">
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/SetDelete.java" timestamp="1464170982046">
         <mark key="'" line="48" column="16" />
         <mark key="[" line="28" column="55" />
-        <mark key="]" line="28" column="56" />
-        <mark key="^" line="28" column="56" />
-        <mark key="." line="28" column="56" />
+        <mark key="]" line="28" column="57" />
+        <mark key="^" line="28" column="57" />
+        <mark key="." line="28" column="57" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/protocol/ascii/BaseGetOpImpl.java" timestamp="1453946980036">
         <mark key="[" line="22" column="37" />
         <mark key="]" line="22" column="36" />
         <mark key="^" line="22" column="36" />
         <mark key="." line="22" column="36" />
+      </file>
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" timestamp="1464171307566">
+        <mark key="'" line="297" column="26" />
+        <mark key="[" line="149" column="64" />
+        <mark key="]" line="149" column="69" />
+        <mark key="^" line="149" column="69" />
+        <mark key="." line="149" column="69" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/CollectionExist.java" timestamp="1462355976746">
         <mark key="[" line="18" column="37" />
@@ -457,8 +468,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="181" column="47" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" />
-      <jump line="1194" column="12" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" />
       <jump line="1197" column="66" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" />
       <jump line="1209" column="12" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" />
       <jump line="1211" column="88" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" />
@@ -557,55 +566,57 @@
       <jump line="742" column="32" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/MemcachedClient.java" />
       <jump line="407" column="17" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" />
       <jump line="255" column="54" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/BulkService.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/pom.xml" />
+      <jump line="297" column="26" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>CLRF</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="-" type="4">
-        <text>CLRF</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>set</text>
+        <text>SetExist</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlBc3NlcnQuYXNzZXJ0TnVsbChuZXcgTGlzdERlbGV0ZSgxMCwgZmFsc2UsIHRydWUpLmdldEFkZGl0aW9uYWxBcmdzKCkpOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>CLRF</text>
+        <text encoding="base64">Pg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJc2V0QXJndW1lbnRzKGJiLCBhZGRpdGlvbmFsQXJncyk7Cg==</text>
+      <register name="2" type="4">
+        <text>T</text>
       </register>
       <register name="3" type="4">
-        <text>h</text>
+        <text encoding="base64">PA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQoJcHVibGljIHZvaWQgdGVzdEdldEFkZGl0aW9uYWxBcmdzKCkgewoJCUFzc2VydC5hc3NlcnROdWxsKG5ldyBCVHJlZUdldChia2V5LCB0cnVlKS5nZXRBZGR0aW9uYWxBcmdzKCkpOwoJCUFzc2VydC5hc3NlcnROdWxsKG5ldyBCVHJlZUdldChia2V5LCBmYWxzZSkuZ2V0QWRkdGlvbmFsQXJncygpKTsKCQlBc3NlcnQuYXNzZXJ0TnVsbChuZXcgQlRyZWVHZXQoMTAsIDIwLCAxLCAxLCB0cnVlKS5nZXRBZGR0aW9uYWxBcmdzKCkpOwoJCUFzc2VydC5hc3NlcnROdWxsKG5ldyBCVHJlZUdldCgxMCwgMjAsICkpCgl9Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">Pg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQlyZXR1cm4gbmV3IGJ5dGVbXXsnYScsJ2InLCdjJ307Cg==</text>
+      <register name="5" type="4">
+        <text>T</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gbmV3IGJ5dGVbMF07Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">PA==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">Pg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEBPdmVycmlkZQo=</text>
+      <register name="8" type="4">
+        <text>T</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">PA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>set</last-search>
+      <last-search>SetExist</last-search>
       <last-offset />
-      <last-pattern>set</last-pattern>
+      <last-pattern>SetExist</last-pattern>
       <last-replace>Object</last-replace>
       <last-substitute>String</last-substitute>
       <last-dir>1</last-dir>
@@ -613,8 +624,6 @@
     </search>
     <history>
       <history-search>
-        <entry>gg=G</entry>
-        <entry>=</entry>
         <entry>cause</entry>
         <entry>isCanceled</entry>
         <entry>isCancelled</entry>
@@ -633,6 +642,8 @@
         <entry>null</entry>
         <entry>asyncGet</entry>
         <entry>set</entry>
+        <entry>org.apache</entry>
+        <entry>SetExist</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Exception e/java.nio.BufferOverflowException e/g</entry>
