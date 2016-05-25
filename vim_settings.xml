@@ -140,8 +140,12 @@
         <mark key="^" line="27" column="45" />
         <mark key="." line="27" column="45" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/protocol/ascii/CollectionGetOperationImpl.java" timestamp="1463574060217">
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/protocol/ascii/CollectionGetOperationImpl.java" timestamp="1464165876028">
         <mark key="'" line="142" column="31" />
+        <mark key="[" line="233" column="13" />
+        <mark key="]" line="233" column="18" />
+        <mark key="." line="233" column="18" />
+        <mark key="^" line="233" column="18" />
       </file>
       <file name="$USER_HOME$/PrivateDev/TobysSpring/src/main/java/springbook/user/dao/DaoFactory.java" timestamp="1455430649776">
         <mark key="[" line="11" column="28" />
@@ -299,11 +303,11 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/SetExist.java" timestamp="1462356028852">
-        <mark key="[" line="29" column="23" />
-        <mark key="]" line="30" column="16" />
-        <mark key="^" line="30" column="16" />
-        <mark key="." line="30" column="16" />
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/SetExist.java" timestamp="1464166615514">
+        <mark key="[" line="28" column="37" />
+        <mark key="]" line="28" column="38" />
+        <mark key="^" line="28" column="38" />
+        <mark key="." line="28" column="38" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-spring/src/test/java/com/navercorp/arcus/spring/cache/CacheAnnotationTest.java" timestamp="1456195398039">
         <mark key="[" line="29" column="44" />
@@ -330,12 +334,12 @@
         <mark key="^" line="16" column="41" />
         <mark key="." line="16" column="41" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/SetDelete.java" timestamp="1463573303243">
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/SetDelete.java" timestamp="1464166602038">
         <mark key="'" line="48" column="16" />
-        <mark key="[" line="20" column="40" />
-        <mark key="]" line="20" column="42" />
-        <mark key="^" line="20" column="42" />
-        <mark key="." line="20" column="42" />
+        <mark key="[" line="28" column="55" />
+        <mark key="]" line="28" column="56" />
+        <mark key="^" line="28" column="56" />
+        <mark key="." line="28" column="56" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/protocol/ascii/BaseGetOpImpl.java" timestamp="1453946980036">
         <mark key="[" line="22" column="37" />
@@ -556,10 +560,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>h</text>
+        <text>CLRF</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>CLRF</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
@@ -568,31 +572,31 @@
         <text encoding="base64">CQlBc3NlcnQuYXNzZXJ0TnVsbChuZXcgTGlzdERlbGV0ZSgxMCwgZmFsc2UsIHRydWUpLmdldEFkZGl0aW9uYWxBcmdzKCkpOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>h</text>
+        <text>CLRF</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQoJcHVibGljIHZvaWQgdGVzdEdldEFkZGl0aW9uYWxBcmdzKCkgewoJCUFzc2VydC5hc3NlcnROdWxsKG5ldyBCVHJlZUdldChia2V5LCB0cnVlKS5nZXRBZGR0aW9uYWxBcmdzKCkpOwoJCUFzc2VydC5hc3NlcnROdWxsKG5ldyBCVHJlZUdldChia2V5LCBmYWxzZSkuZ2V0QWRkdGlvbmFsQXJncygpKTsKCQlBc3NlcnQuYXNzZXJ0TnVsbChuZXcgQlRyZWVHZXQoMTAsIDIwLCAxLCAxLCB0cnVlKS5nZXRBZGR0aW9uYWxBcmdzKCkpOwoJCUFzc2VydC5hc3NlcnROdWxsKG5ldyBCVHJlZUdldCgxMCwgMjAsICkpCgl9Cg==</text>
+        <text encoding="base64">CQkJc2V0QXJndW1lbnRzKGJiLCBhZGRpdGlvbmFsQXJncyk7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQlyZXR1cm4gbmV3IGJ5dGVbXXsnYScsJ2InLCdjJ307Cg==</text>
+      <register name="3" type="4">
+        <text>h</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gbmV3IGJ5dGVbMF07Cg==</text>
+        <text encoding="base64">CQoJcHVibGljIHZvaWQgdGVzdEdldEFkZGl0aW9uYWxBcmdzKCkgewoJCUFzc2VydC5hc3NlcnROdWxsKG5ldyBCVHJlZUdldChia2V5LCB0cnVlKS5nZXRBZGR0aW9uYWxBcmdzKCkpOwoJCUFzc2VydC5hc3NlcnROdWxsKG5ldyBCVHJlZUdldChia2V5LCBmYWxzZSkuZ2V0QWRkdGlvbmFsQXJncygpKTsKCQlBc3NlcnQuYXNzZXJ0TnVsbChuZXcgQlRyZWVHZXQoMTAsIDIwLCAxLCAxLCB0cnVlKS5nZXRBZGR0aW9uYWxBcmdzKCkpOwoJCUFzc2VydC5hc3NlcnROdWxsKG5ldyBCVHJlZUdldCgxMCwgMjAsICkpCgl9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">CQlyZXR1cm4gbmV3IGJ5dGVbXXsnYScsJ2InLCdjJ307Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gbmV3IGJ5dGVbMF07Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlkZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlyZXR1cm4gbmV3IGJ5dGVbMF07Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
