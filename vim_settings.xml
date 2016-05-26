@@ -12,12 +12,12 @@
       <file name="$USER_HOME$/PrivateDev/GoBook/hello_project/src/hello/hello.go" timestamp="1462015159076">
         <mark key="[" line="4" column="13" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/pom.xml" timestamp="1464169955068">
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/pom.xml" timestamp="1464231848937">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="88" column="82" />
-        <mark key="]" line="91" column="36" />
-        <mark key="^" line="91" column="36" />
-        <mark key="." line="91" column="36" />
+        <mark key="[" line="86" column="36" />
+        <mark key="]" line="86" column="36" />
+        <mark key="." line="86" column="36" />
+        <mark key="^" line="86" column="36" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/.idea/.name" timestamp="1453095101706">
         <mark key="[" line="0" column="1" />
@@ -307,7 +307,7 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/SetExist.java" timestamp="1464170972122">
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/SetExist.java" timestamp="1464229313664">
         <mark key="[" line="28" column="37" />
         <mark key="]" line="28" column="39" />
         <mark key="^" line="28" column="39" />
@@ -351,12 +351,12 @@
         <mark key="^" line="22" column="36" />
         <mark key="." line="22" column="36" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" timestamp="1464187312069">
-        <mark key="'" line="295" column="26" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="147" column="69" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" timestamp="1464230079195">
+        <mark key="'" line="294" column="26" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="146" column="69" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/CollectionExist.java" timestamp="1462355976746">
         <mark key="[" line="18" column="37" />
@@ -381,6 +381,9 @@
         <mark key="]" line="1498" column="15" />
         <mark key="^" line="1498" column="15" />
         <mark key="." line="1498" column="15" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1464230921788">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/resources/log4j.xml" timestamp="1459245422129">
         <mark key="[" line="15" column="22" />
@@ -446,7 +449,7 @@
         <mark key="^" line="70" column="7" />
         <mark key="." line="70" column="7" />
       </file>
-      <file name="/fragment.java" timestamp="1463574057411">
+      <file name="/fragment.java" timestamp="1464228441385">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/emptycollection/ProtocolSetExistTest.java" timestamp="1462882741451">
@@ -570,11 +573,11 @@
       <jump line="297" column="26" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuc2VjdXJpdHkuS2V5Owo=</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>SetExist</text>
@@ -582,32 +585,32 @@
       <register name="0" type="2">
         <text encoding="base64">CQlBc3NlcnQuYXNzZXJ0TnVsbChuZXcgTGlzdERlbGV0ZSgxMCwgZmFsc2UsIHRydWUpLmdldEFkZGl0aW9uYWxBcmdzKCkpOwo=</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>s</text>
+      </register>
+      <register name="2" type="4">
+        <text>s</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJCQk8L2NvbXBpbGVyQXJncz4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJCQkJPGFyZz4tV2Vycm9yPC9hcmc+Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCQkJPGFyZz4tWGxpbnQ6YWxsPC9hcmc+Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCQk8Y29tcGlsZXJBcmdzPgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJCQk8IS0tIDxjb21waWxlckFyZ3VtZW50Pi1YbGludDp1bmNoZWNrZWQ8L2NvbXBpbGVyQXJndW1lbnQ+IC0tPgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJCQk8c2hvd0RlcHJlY2F0aW9ucz50cnVlPC9zaG93RGVwcmVjYXRpb25zPgo=</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">aW1wb3J0IGphdmEuc2VjdXJpdHkuS2V5Owo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHN1bi5yZWZsZWN0LmFubm90YXRpb24uRXhjZXB0aW9uUHJveHk7Cg==</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">Pg==</text>
-      </register>
-      <register name="4" type="4">
-        <text>T</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">PA==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">Pg==</text>
-      </register>
-      <register name="7" type="4">
-        <text>T</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">PA==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">Pg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
