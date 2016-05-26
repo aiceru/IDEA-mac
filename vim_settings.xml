@@ -360,7 +360,12 @@
         <mark key="." line="18" column="37" />
         <mark key="^" line="23" column="36" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/btreesmget/SMGetErrorTest.java" timestamp="1464244155496" />
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/btreesmget/SMGetErrorTest.java" timestamp="1464246209871">
+        <mark key="[" line="439" column="0" />
+        <mark key="]" line="439" column="0" />
+        <mark key="^" line="457" column="33" />
+        <mark key="." line="439" column="0" />
+      </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/ListDelete.java" timestamp="1462331876994">
         <mark key="[" line="43" column="37" />
         <mark key="]" line="44" column="15" />
@@ -569,7 +574,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>SetExist</text>
@@ -581,28 +586,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QElnbm9yZQo=</text>
+        <text encoding="base64">CQkJCQlwcml2YXRlIHN0YXRpYyBmaW5hbCBsb25nIHNlcmlhbFZlcnNpb25VSUQgPSAtODQ3NjI3OTE4NjQyMDMxNDA0N0w7Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>)</text>
+        <text>{</text>
       </register>
-      <register name="4" type="4">
-        <text>g</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQl9Owo=</text>
       </register>
-      <register name="5" type="4">
-        <text>n</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJfQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>o</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCWFkZChLRVlfTElTVC5nZXQoMSkpOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>l</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJCWFkZChLRVlfTElTVC5nZXQoMCkpOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text>(</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJewo=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>(</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
