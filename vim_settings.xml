@@ -224,6 +224,12 @@
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/internal/CheckedOperationTimeoutException.java" timestamp="1464240785081">
         <mark key="[" line="27" column="3" />
       </file>
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/collection/set/SopServerMessageTest.java" timestamp="1464249042984">
+        <mark key="[" line="157" column="46" />
+        <mark key="]" line="157" column="46" />
+        <mark key="^" line="157" column="46" />
+        <mark key="." line="157" column="46" />
+      </file>
       <file name="$USER_HOME$/PrivateDev/TobysSpring/src/main/java/springbook/user/dao/UserDaoTest.java" timestamp="1455432087794">
         <mark key="[" line="15" column="70" />
         <mark key="]" line="14" column="50" />
@@ -300,7 +306,7 @@
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/MemcachedConnection.java" timestamp="1463107931719">
         <mark key="'" line="277" column="23" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/collection/btree/BopFindPositionWithGetTest.java" timestamp="1464240841698">
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/collection/btree/BopFindPositionWithGetTest.java" timestamp="1464248483099">
         <mark key="[" line="243" column="29" />
         <mark key="]" line="243" column="29" />
         <mark key="." line="243" column="29" />
@@ -360,10 +366,11 @@
         <mark key="." line="18" column="37" />
         <mark key="^" line="23" column="36" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/btreesmget/SMGetErrorTest.java" timestamp="1464246209871">
-        <mark key="[" line="439" column="0" />
-        <mark key="]" line="439" column="0" />
-        <mark key="." line="439" column="0" />
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/btreesmget/SMGetErrorTest.java" timestamp="1464248838217">
+        <mark key="[" line="533" column="9" />
+        <mark key="]" line="534" column="40" />
+        <mark key="." line="534" column="40" />
+        <mark key="^" line="534" column="40" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/ListDelete.java" timestamp="1462331876994">
         <mark key="[" line="43" column="37" />
@@ -397,6 +404,9 @@
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ops/CollectionOperationStatus.java" timestamp="1461830153146">
         <mark key="'" line="28" column="17" />
+      </file>
+      <file name="/a.regexp" timestamp="1464248691410">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/internal/BulkGetFuture.java" timestamp="1461831547196">
         <mark key="'" line="99" column="31" />
@@ -569,11 +579,11 @@
       <jump line="28" column="37" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/SetExist.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQk8IS0tIDxjb21waWxlckFyZ3VtZW50Pi1YbGludDp1bmNoZWNrZWQ8L2NvbXBpbGVyQXJndW1lbnQ+IC0tPgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">bmV3IEFycmF5TGlzdDxTdHJpbmc+KCkgewoJCQkJCQkJewoJCQkJCQkJCWFkZChLRVlfTElTVC5nZXQoMCkpOwoJCQkJCQkJCWFkZChLRVlfTElTVC5nZXQoMSkpOwoJCQkJCQkJCWFkZChLRVlfTElTVC5nZXQoMSkpOwoJCQkJCQkJfQoJCQkJCQl9</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>SetExist</text>
@@ -581,32 +591,32 @@
       <register name="0" type="2">
         <text encoding="base64">CQlBc3NlcnQuYXNzZXJ0TnVsbChuZXcgTGlzdERlbGV0ZSgxMCwgZmFsc2UsIHRydWUpLmdldEFkZGl0aW9uYWxBcmdzKCkpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJCQk8IS0tIDxjb21waWxlckFyZ3VtZW50Pi1YbGludDp1bmNoZWNrZWQ8L2NvbXBpbGVyQXJndW1lbnQ+IC0tPgo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">bmV3IEFycmF5TGlzdDxTdHJpbmc+KCkgewoJCQkJCQkJewoJCQkJCQkJCWFkZChLRVlfTElTVC5nZXQoMCkpOwoJCQkJCQkJCWFkZChLRVlfTElTVC5nZXQoMSkpOwoJCQkJCQkJCWFkZChLRVlfTElTVC5nZXQoMSkpOwoJCQkJCQkJfQoJCQkJCQl9</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJCQk8c2hvd0RlcHJlY2F0aW9ucz50cnVlPC9zaG93RGVwcmVjYXRpb25zPgo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">bmV3IEFycmF5TGlzdDxTdHJpbmc+KCkgewoJCQkJCQkJewoJCQkJCQkJCWFkZChLRVlfTElTVC5nZXQoMCkpOwoJCQkJCQkJCWFkZChLRVlfTElTVC5nZXQoMSkpOwoJCQkJCQkJfQoJCQkJCQl9</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">bmV3IEFycmF5TGlzdDxTdHJpbmc+KCkgewoJCQkJCQkJewoJCQkJCQkJCWFkZChLRVlfTElTVC5nZXQoMCkpOwoJCQkJCQkJCWFkZChLRVlfTElTVC5nZXQoMSkpOwoJCQkJCQkJfQoJCQkJCQl9</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQlwcml2YXRlIHN0YXRpYyBmaW5hbCBsb25nIHNlcmlhbFZlcnNpb25VSUQgPSAtODQ3NjI3OTE4NjQyMDMxNDA0N0w7Cg==</text>
+        <text encoding="base64">CQlqampqampqampqampqago=</text>
       </register>
       <register name="5" type="4">
-        <text>{</text>
+        <text encoding="base64">bmV3IEFycmF5TGlzdDxTdHJpbmc+KCkgewoJCQkJCQkJewoJCQkJCQkJCWFkZChLRVlfTElTVC5nZXQoMCkpOwoJCQkJCQkJCWFkZChLRVlfTElTVC5nZXQoMSkpOwoJCQkJCQkJfQoJCQkJCQl9</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQl9Owo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">bmV3IEFycmF5TGlzdDxTdHJpbmc+KCkgewoJCQkJCXsKCQkJCQkJYWRkKEtFWV9MSVNULmdldCgwKSk7CgkJCQkJCWFkZChLRVlfTElTVC5nZXQoMSkpOwoJCQkJCX0KCQkJCX0=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">bmV3IEFycmF5TGlzdDxTdHJpbmc+KCkgewoJCQkJCXsKCQkJCQkJYWRkKEtFWV9MSVNULmdldCgwKSk7CgkJCQkJCWFkZChLRVlfTElTVC5nZXQoMSkpOwoJCQkJCX0KCQkJCX0=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCWFkZChLRVlfTElTVC5nZXQoMSkpOwo=</text>
+        <text encoding="base64">CQkJCS5hc3luY0JvcFNvcnRNZXJnZUdldChuZXcgQXJyYXlMaXN0PFN0cmluZz4oKSB7CgkJCQkJewoJCQkJCQlhZGQoS0VZX0xJU1QuZ2V0KDApKTsKCQkJCQkJYWRkKEtFWV9MSVNULmdldCgxKSk7CgkJCQkJfQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJCWFkZChLRVlfTElTVC5nZXQoMCkpOwo=</text>
+      <register name="9" type="4">
+        <text>)</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
