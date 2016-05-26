@@ -351,12 +351,12 @@
         <mark key="^" line="22" column="36" />
         <mark key="." line="22" column="36" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" timestamp="1464171307566">
-        <mark key="'" line="297" column="26" />
-        <mark key="[" line="149" column="64" />
-        <mark key="]" line="149" column="69" />
-        <mark key="^" line="149" column="69" />
-        <mark key="." line="149" column="69" />
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" timestamp="1464187312069">
+        <mark key="'" line="295" column="26" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="147" column="69" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/CollectionExist.java" timestamp="1462355976746">
         <mark key="[" line="18" column="37" />
@@ -570,8 +570,8 @@
       <jump line="297" column="26" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEuc2VjdXJpdHkuS2V5Owo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Pg==</text>
@@ -582,32 +582,32 @@
       <register name="0" type="2">
         <text encoding="base64">CQlBc3NlcnQuYXNzZXJ0TnVsbChuZXcgTGlzdERlbGV0ZSgxMCwgZmFsc2UsIHRydWUpLmdldEFkZGl0aW9uYWxBcmdzKCkpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEuc2VjdXJpdHkuS2V5Owo=</text>
       </register>
-      <register name="2" type="4">
-        <text>T</text>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IHN1bi5yZWZsZWN0LmFubm90YXRpb24uRXhjZXB0aW9uUHJveHk7Cg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">PA==</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>T</text>
       </register>
       <register name="5" type="4">
-        <text>T</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">PA==</text>
-      </register>
-      <register name="7" type="4">
         <text encoding="base64">Pg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="7" type="4">
         <text>T</text>
       </register>
-      <register name="9" type="4">
+      <register name="8" type="4">
         <text encoding="base64">PA==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">Pg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -663,6 +663,7 @@
         <entry>%s/String/Object/g</entry>
         <entry>q</entry>
         <entry>e CollectionDelete.java</entry>
+        <entry>17</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
