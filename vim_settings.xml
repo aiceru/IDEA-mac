@@ -111,7 +111,6 @@
         <mark key="." line="14" column="14" />
         <mark key="^" line="14" column="14" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/btreesmget/ByteArrayBKeySMGetErrorTest.java" timestamp="1464241191371" />
       <file name="$USER_HOME$/Work/arcus/tests/defaultLoggerTest/src/HelloArcusTest.java" timestamp="1452837909156">
         <mark key="[" line="16" column="30" />
         <mark key="]" line="20" column="7" />
@@ -190,6 +189,9 @@
         <mark key="]" line="39" column="42" />
         <mark key="^" line="39" column="42" />
         <mark key="." line="39" column="42" />
+      </file>
+      <file name="$USER_HOME$/Work/arcus/tests/arcus-getting-started/src/HelloArcusTest.java" timestamp="1464325947958">
+        <mark key="[" line="2" column="3" />
       </file>
       <file name="$USER_HOME$/Work/arcus/Tests/defaultLoggerTest/src/HelloArcus.java" timestamp="1452756755604">
         <mark key="[" line="21" column="8" />
@@ -407,6 +409,12 @@
       </file>
       <file name="/a.regexp" timestamp="1464248691410">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/arcus/tests/arcus-getting-started/src/com/jam2in/arcus/HelloArcusTest.java" timestamp="1464326063949">
+        <mark key="[" line="3" column="25" />
+        <mark key="]" line="9" column="7" />
+        <mark key="^" line="9" column="7" />
+        <mark key="." line="9" column="7" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/Article.java" timestamp="1456467886249">
         <mark key="[" line="14" column="3" />
