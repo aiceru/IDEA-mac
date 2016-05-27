@@ -129,6 +129,12 @@
         <mark key="^" line="38" column="30" />
         <mark key="." line="38" column="30" />
       </file>
+      <file name="$USER_HOME$/arcus-getting-started/arcus-java-getting-started/src/test/java/HelloArcusTest.java" timestamp="1464328210721">
+        <mark key="[" line="2" column="3" />
+        <mark key="]" line="5" column="1" />
+        <mark key="^" line="5" column="1" />
+        <mark key="." line="5" column="1" />
+      </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ops/CollectionGetOperation.java" timestamp="1457073020368">
         <mark key="[" line="27" column="46" />
         <mark key="]" line="27" column="45" />
@@ -273,6 +279,12 @@
         <mark key="^" line="32" column="13" />
         <mark key="." line="32" column="13" />
       </file>
+      <file name="$USER_HOME$/arcus-getting-started/arcus-java-getting-started/src/main/resources/log4j.xml" timestamp="1464328399646">
+        <mark key="[" line="62" column="22" />
+        <mark key="]" line="62" column="21" />
+        <mark key="^" line="62" column="21" />
+        <mark key="." line="62" column="21" />
+      </file>
       <file name="$USER_HOME$/Work/arcus/tests/override-and-call-test/src/SuperClass.java" timestamp="1457073753006">
         <mark key="[" line="5" column="33" />
         <mark key="]" line="5" column="32" />
@@ -291,10 +303,22 @@
         <mark key="^" line="13" column="24" />
         <mark key="." line="13" column="24" />
       </file>
+      <file name="$USER_HOME$/arcus-getting-started/arcus-java-getting-started/src/test/java/com/jam2in/example/HelloArcusTest.java" timestamp="1464328631812">
+        <mark key="[" line="10" column="55" />
+        <mark key="]" line="10" column="59" />
+        <mark key="^" line="10" column="59" />
+        <mark key="." line="10" column="59" />
+      </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ops/CollectionExistOperation.java" timestamp="1462356248836">
         <mark key="[" line="27" column="17" />
         <mark key="]" line="27" column="17" />
         <mark key="." line="27" column="17" />
+      </file>
+      <file name="$USER_HOME$/arcus-getting-started/arcus-java-getting-started/src/main/java/com/jam2in/example/HelloArcus.java" timestamp="1464328895625">
+        <mark key="[" line="54" column="5" />
+        <mark key="]" line="56" column="17" />
+        <mark key="^" line="56" column="17" />
+        <mark key="." line="56" column="17" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/collection/btree/BopFindPositionWithGetTest.java" timestamp="1464248483099">
         <mark key="[" line="243" column="29" />
@@ -406,6 +430,18 @@
         <mark key="]" line="15" column="26" />
         <mark key="." line="15" column="26" />
         <mark key="^" line="15" column="26" />
+      </file>
+      <file name="$USER_HOME$/arcus-getting-started/arcus-java-getting-started/pom.xml" timestamp="1464328181081">
+        <mark key="[" line="27" column="26" />
+        <mark key="]" line="27" column="25" />
+        <mark key="^" line="27" column="25" />
+        <mark key="." line="27" column="25" />
+      </file>
+      <file name="$USER_HOME$/arcus-getting-started/arcus-java-getting-started/src/main/java/HelloArcus.java" timestamp="1464328431218">
+        <mark key="[" line="2" column="3" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="/a.regexp" timestamp="1464248691410">
         <mark key="[" line="0" column="0" />
@@ -575,11 +611,11 @@
       <jump line="28" column="37" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/SetExist.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">bmV3IEFycmF5TGlzdDxTdHJpbmc+KCkgewoJCQkJCQl7CgkJCQkJCQlhZGQoa2V5MSk7CgkJCQkJCQlhZGQoa2V5Mik7CgkJCQkJCX0KCQkJCQl9</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0gY2F0Y2ggKEV4ZWN1dGlvbkV4Y2VwdGlvbiBlKSB7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text encoding="base64">SW50ZXJydXB0ZWRFeGNlcHRpb24g</text>
       </register>
       <register name="/" type="4">
         <text>SetExist</text>
@@ -587,32 +623,32 @@
       <register name="0" type="2">
         <text encoding="base64">CQlBc3NlcnQuYXNzZXJ0TnVsbChuZXcgTGlzdERlbGV0ZSgxMCwgZmFsc2UsIHRydWUpLmdldEFkZGl0aW9uYWxBcmdzKCkpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">bmV3IEFycmF5TGlzdDxTdHJpbmc+KCkgewoJCQkJCQl7CgkJCQkJCQlhZGQoa2V5MSk7CgkJCQkJCQlhZGQoa2V5Mik7CgkJCQkJCX0KCQkJCQl9</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIH0gY2F0Y2ggKEV4ZWN1dGlvbkV4Y2VwdGlvbiBlKSB7Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">bmV3IEFycmF5TGlzdDxTdHJpbmc+KCkgewoJCQkJCQl7CgkJCQkJCQlhZGQoa2V5MSk7CgkJCQkJCQlhZGQoa2V5Mik7CgkJCQkJCX0KCQkJCQl9</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="3" type="4">
-        <text>a</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIH0gY2F0Y2ggKFRpbWVvdXRFeGNlcHRpb24gZSkgewo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">CQ==</text>
+        <text encoding="base64">SW50ZXJydXB0ZWRFeGNlcHRpb24g</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>s</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">bmV3IEFycmF5TGlzdDxTdHJpbmc+KCkgewoJCQkJCQkJewoJCQkJCQkJCWFkZChLRVlfTElTVC5nZXQoMCkpOwoJCQkJCQkJCWFkZChLRVlfTElTVC5nZXQoMSkpOwoJCQkJCQkJCWFkZChLRVlfTElTVC5nZXQoMSkpOwoJCQkJCQkJfQoJCQkJCQl9</text>
+        <text>e</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">bmV3IEFycmF5TGlzdDxTdHJpbmc+KCkgewoJCQkJCQkJewoJCQkJCQkJCWFkZChLRVlfTElTVC5nZXQoMCkpOwoJCQkJCQkJCWFkZChLRVlfTElTVC5nZXQoMSkpOwoJCQkJCQkJfQoJCQkJCQl9</text>
+        <text>i</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
