@@ -19,6 +19,9 @@
         <mark key="." line="91" column="0" />
         <mark key="^" line="89" column="38" />
       </file>
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/DefaultConnectionFactory.java" timestamp="1464601686520">
+        <mark key="'" line="53" column="13" />
+      </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/.idea/.name" timestamp="1453095101706">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="11" />
@@ -389,7 +392,8 @@
         <mark key="^" line="97" column="12" />
         <mark key="." line="97" column="12" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" timestamp="1463105673705">
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" timestamp="1464601950811">
+        <mark key="'" line="3867" column="56" />
         <mark key="[" line="1498" column="16" />
         <mark key="]" line="1498" column="15" />
         <mark key="^" line="1498" column="15" />
@@ -502,15 +506,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="372" column="17" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/protocol/TCPMemcachedNodeImpl.java" />
-      <jump line="51" column="17" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/protocol/TCPMemcachedNodeImpl.java" />
-      <jump line="48" column="24" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/collection/BaseIntegrationTest.java" />
-      <jump line="33" column="26" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/flushbyprefix/FlushByPrefixTest.java" />
-      <jump line="73" column="17" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/collection/BaseIntegrationTest.java" />
-      <jump line="116" column="5" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/collection/BaseIntegrationTest.java" />
-      <jump line="1749" column="39" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" />
-      <jump line="302" column="15" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/MemcachedClient.java" />
-      <jump line="314" column="15" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/MemcachedClient.java" />
       <jump line="474" column="24" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/MemcachedClient.java" />
       <jump line="916" column="18" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/MemcachedClient.java" />
       <jump line="884" column="23" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/MemcachedClient.java" />
@@ -602,6 +597,15 @@
       <jump line="1236" column="55" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClientIF.java" />
       <jump line="1253" column="75" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClientIF.java" />
       <jump line="1272" column="79" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClientIF.java" />
+      <jump line="53" column="13" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/DefaultConnectionFactory.java" />
+      <jump line="3871" column="11" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" />
+      <jump line="3876" column="60" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" />
+      <jump line="3833" column="42" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" />
+      <jump line="3836" column="56" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" />
+      <jump line="3840" column="11" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" />
+      <jump line="3846" column="42" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" />
+      <jump line="3849" column="60" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" />
+      <jump line="3867" column="56" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -611,7 +615,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>Piped</text>
+        <text>asyncBopInsertBulk</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlBc3NlcnQuYXNzZXJ0TnVsbChuZXcgTGlzdERlbGV0ZSgxMCwgZmFsc2UsIHRydWUpLmdldEFkZGl0aW9uYWxBcmdzKCkpOwo=</text>
@@ -648,9 +652,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Piped</last-search>
+      <last-search>asyncBopInsertBulk</last-search>
       <last-offset />
-      <last-pattern>Piped</last-pattern>
+      <last-pattern>asyncBopInsertBulk</last-pattern>
       <last-replace>Object</last-replace>
       <last-substitute>String</last-substitute>
       <last-dir>1</last-dir>
@@ -658,8 +662,6 @@
     </search>
     <history>
       <history-search>
-        <entry>isCancelled</entry>
-        <entry encoding="base64">XDxnZXRcPg==</entry>
         <entry>callnum</entry>
         <entry>norep</entry>
         <entry>result</entry>
@@ -678,6 +680,8 @@
         <entry>SetExist</entry>
         <entry>piped</entry>
         <entry>Piped</entry>
+        <entry>thread</entry>
+        <entry>asyncBopInsertBulk</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Exception e/java.nio.BufferOverflowException e/g</entry>
