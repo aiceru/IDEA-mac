@@ -10,11 +10,8 @@
                 <option name="grepExpressionItems">
                   <list>
                     <GrepExpressionItem>
-                      <option name="continueMatching" value="true" />
                       <option name="grepExpression" value=".*BulkPerformance.*" />
-                      <option name="highlightOnlyMatchingText" value="true" />
                       <option name="id" value="5e29d749-07c7-44c7-bf95-3d076a576169" />
-                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
@@ -201,6 +198,7 @@
               </GrepExpressionGroup>
             </list>
           </option>
+          <option name="hideAnsiCommands" value="true" />
           <option name="id" value="1453094800526" />
         </Profile>
       </list>
