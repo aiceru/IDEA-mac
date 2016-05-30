@@ -10,6 +10,32 @@
                 <option name="grepExpressionItems">
                   <list>
                     <GrepExpressionItem>
+                      <option name="continueMatching" value="true" />
+                      <option name="grepExpression" value=".*BulkPerformance.*" />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="id" value="5e29d749-07c7-44c7-bf95-3d076a576169" />
+                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-2040275" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="6b8e490c-3a69-4228-87e9-8deb34b1efe8" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                  </list>
+                </option>
+                <option name="name" value="buikperf" />
+              </GrepExpressionGroup>
+              <GrepExpressionGroup>
+                <option name="enabled" value="true" />
+                <option name="grepExpressionItems">
+                  <list>
+                    <GrepExpressionItem>
                       <option name="grepExpression" value=".*ArcusCache.*" />
                       <option name="id" value="0bab6976-e1ae-4b3a-bc2f-2f272d4b03ea" />
                       <option name="style">
@@ -126,6 +152,7 @@
                 <option name="name" value="default" />
               </GrepExpressionGroup>
               <GrepExpressionGroup>
+                <option name="enabled" value="true" />
                 <option name="grepExpressionItems">
                   <list>
                     <GrepExpressionItem>

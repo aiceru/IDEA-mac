@@ -401,11 +401,11 @@
       <file name="/Dummy.txt" timestamp="1464230921788">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/java/net/spy/memcached/BulkPerformance.java" timestamp="1464583458350">
-        <mark key="[" line="15" column="34" />
-        <mark key="]" line="15" column="33" />
-        <mark key="." line="15" column="33" />
-        <mark key="^" line="15" column="33" />
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/java/net/spy/memcached/BulkPerformance.java" timestamp="1464585172435">
+        <mark key="[" line="65" column="46" />
+        <mark key="]" line="65" column="46" />
+        <mark key="^" line="65" column="49" />
+        <mark key="." line="65" column="46" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/collection/btree/BopServerMessageTest.java" timestamp="1464249780921">
         <mark key="[" line="46" column="73" />
@@ -502,7 +502,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1209" column="12" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" />
       <jump line="1211" column="88" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" />
       <jump line="1226" column="66" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" />
       <jump line="1218" column="4" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" />
@@ -602,13 +601,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/pom.xml" />
       <jump line="297" column="26" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" />
       <jump line="28" column="37" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/SetExist.java" />
+      <jump line="63" column="19" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/java/net/spy/memcached/BulkPerformance.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFJhbmRvbSByYW5kb20gPSBuZXcgUmFuZG9tKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXNzZXJ0IA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>SetExist</text>
@@ -616,32 +616,32 @@
       <register name="0" type="2">
         <text encoding="base64">CQlBc3NlcnQuYXNzZXJ0TnVsbChuZXcgTGlzdERlbGV0ZSgxMCwgZmFsc2UsIHRydWUpLmdldEFkZGl0aW9uYWxBcmdzKCkpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIFJhbmRvbSByYW5kb20gPSBuZXcgUmFuZG9tKCk7Cg==</text>
+      <register name="1" type="4">
+        <text>,</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5CZWZvcmU7Cg==</text>
+      <register name="2" type="4">
+        <text>fatal</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
+      <register name="3" type="4">
+        <text>ebug</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGFyY3VzQ2xpZW50ID0gQXJjdXNDbGllbnQuY3JlYXRlQXJjdXNDbGllbnQoIjEyNy4wLjAuMSIsICJ0ZXN0IiwK</text>
+      <register name="4" type="4">
+        <text>d</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBwdWJsaWMgdm9pZCBzZXR1cCgpIHsK</text>
+      <register name="5" type="4">
+        <text>e</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBAQmVmb3JlCg==</text>
+      <register name="6" type="4">
+        <text>z</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+      <register name="7" type="4">
+        <text>i</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBpbnQgbG9vcExpbWl0Cg==</text>
+      <register name="8" type="4">
+        <text>S</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LjsK</text>
+      <register name="9" type="4">
+        <text>y</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -695,9 +695,9 @@
         <entry>gg=G</entry>
         <entry>set cursorLine</entry>
         <entry>%s/String/Object/g</entry>
-        <entry>q</entry>
         <entry>e CollectionDelete.java</entry>
         <entry>17</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
