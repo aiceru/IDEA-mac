@@ -314,11 +314,11 @@
         <mark key="]" line="27" column="17" />
         <mark key="." line="27" column="17" />
       </file>
-      <file name="$USER_HOME$/arcus-getting-started/arcus-java-getting-started/src/main/java/com/jam2in/example/HelloArcus.java" timestamp="1464328895625">
-        <mark key="[" line="54" column="5" />
-        <mark key="]" line="56" column="17" />
-        <mark key="^" line="56" column="17" />
-        <mark key="." line="56" column="17" />
+      <file name="$USER_HOME$/arcus-getting-started/arcus-java-getting-started/src/main/java/com/jam2in/example/HelloArcus.java" timestamp="1464571414434">
+        <mark key="[" line="29" column="26" />
+        <mark key="]" line="29" column="26" />
+        <mark key="^" line="25" column="74" />
+        <mark key="." line="29" column="26" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/collection/btree/BopFindPositionWithGetTest.java" timestamp="1464248483099">
         <mark key="[" line="243" column="29" />
@@ -611,11 +611,11 @@
       <jump line="28" column="37" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/SetExist.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0gY2F0Y2ggKEV4ZWN1dGlvbkV4Y2VwdGlvbiBlKSB7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">SW50ZXJydXB0ZWRFeGNlcHRpb24g</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>SetExist</text>
@@ -623,32 +623,32 @@
       <register name="0" type="2">
         <text encoding="base64">CQlBc3NlcnQuYXNzZXJ0TnVsbChuZXcgTGlzdERlbGV0ZSgxMCwgZmFsc2UsIHRydWUpLmdldEFkZGl0aW9uYWxBcmdzKCkpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIH0gY2F0Y2ggKEV4ZWN1dGlvbkV4Y2VwdGlvbiBlKSB7Cg==</text>
+      <register name="1" type="4">
+        <text>null</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="2" type="4">
+        <text encoding="base64">PSA=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0gY2F0Y2ggKFRpbWVvdXRFeGNlcHRpb24gZSkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgIHRoaXMuc2VydmljZUNvZGUgPSBzZXJ2aWNlQ29kZTsK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">SW50ZXJydXB0ZWRFeGNlcHRpb24g</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHRoaXMuYXJjdXNBZG1pbiA9IGFyY3VzQWRtaW47Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>s</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyBzZXJ2aWNlQ29kZTsK</text>
       </register>
-      <register name="8" type="4">
-        <text>e</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyBhcmN1c0FkbWluOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>i</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIH0gY2F0Y2ggKEV4ZWN1dGlvbkV4Y2VwdGlvbiBlKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
