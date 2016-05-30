@@ -479,6 +479,11 @@
         <mark key="." line="54" column="10" />
         <mark key="^" line="54" column="10" />
       </file>
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/bulkoperation/BulkSetTest.java" timestamp="1464582194307">
+        <mark key="[" line="202" column="25" />
+        <mark key="]" line="202" column="26" />
+        <mark key="." line="202" column="26" />
+      </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/java/net/spy/memcached/ProtocolBaseCase.java" timestamp="1463728454487">
         <mark key="[" line="62" column="100" />
       </file>
