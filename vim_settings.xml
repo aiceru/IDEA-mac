@@ -38,12 +38,12 @@
         <mark key="^" line="36" column="13" />
         <mark key="." line="36" column="13" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/BulkService.java" timestamp="1464575050586">
-        <mark key="'" line="249" column="54" />
-        <mark key="[" line="120" column="22" />
-        <mark key="]" line="120" column="36" />
-        <mark key="." line="120" column="36" />
-        <mark key="^" line="120" column="36" />
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/BulkService.java" timestamp="1464576864895">
+        <mark key="'" line="229" column="54" />
+        <mark key="[" line="28" column="29" />
+        <mark key="]" line="28" column="27" />
+        <mark key="^" line="28" column="27" />
+        <mark key="." line="28" column="27" />
       </file>
       <file name="$USER_HOME$/PrivateDev/TobysSpring/src/main/java/springbook/user/domain/UserMapper.java" timestamp="1457858638640">
         <mark key="[" line="12" column="70" />
@@ -617,11 +617,11 @@
       <jump line="28" column="37" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/SetExist.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>keys</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50Lio7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>keys</text>
+        <text encoding="base64">YXNzZXJ0IA==</text>
       </register>
       <register name="/" type="4">
         <text>SetExist</text>
@@ -629,32 +629,32 @@
       <register name="0" type="2">
         <text encoding="base64">CQlBc3NlcnQuYXNzZXJ0TnVsbChuZXcgTGlzdERlbGV0ZSgxMCwgZmFsc2UsIHRydWUpLmdldEFkZGl0aW9uYWxBcmdzKCkpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>keys</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50Lio7Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">TGlzdCA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50Lio7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC4qOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text>,</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>transcoder</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQl9Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJcmV0dXJuIChrZXlzICE9IG51bGwgJiYga2V5cy5zaXplKCkgPiAwKTsK</text>
       </register>
-      <register name="7" type="4">
-        <text>,</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQlwdWJsaWMgYm9vbGVhbiBpc0RhdGFFeGlzdHMoKSB7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>transcoder</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQlAT3ZlcnJpZGUK</text>
       </register>
-      <register name="9" type="4">
-        <text>,</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
