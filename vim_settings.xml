@@ -256,7 +256,7 @@
         <mark key="^" line="20" column="10" />
         <mark key="." line="20" column="10" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/MemcachedClient.java" timestamp="1464573389006">
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/MemcachedClient.java" timestamp="1464663597799">
         <mark key="'" line="742" column="32" />
         <mark key="[" line="828" column="13" />
         <mark key="]" line="828" column="15" />
@@ -399,7 +399,7 @@
         <mark key="^" line="1498" column="15" />
         <mark key="." line="1498" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1464230921788">
+      <file name="/Dummy.txt" timestamp="1464663763828">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/java/net/spy/memcached/BulkPerformance.java" timestamp="1464585172435">
@@ -469,10 +469,10 @@
         <mark key="." line="54" column="10" />
         <mark key="^" line="54" column="10" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/bulkoperation/BulkSetTest.java" timestamp="1464582194307">
-        <mark key="[" line="202" column="25" />
-        <mark key="]" line="202" column="26" />
-        <mark key="." line="202" column="26" />
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/bulkoperation/BulkSetTest.java" timestamp="1464663582235">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/java/net/spy/memcached/ProtocolBaseCase.java" timestamp="1463728454487">
         <mark key="[" line="62" column="100" />
@@ -608,11 +608,11 @@
       <jump line="3867" column="56" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCQltYy5hc3luY0dldChrKS4K</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>Future</text>
       </register>
       <register name="/" type="4">
         <text>asyncBopInsertBulk</text>
@@ -620,32 +620,32 @@
       <register name="0" type="2">
         <text encoding="base64">CQlBc3NlcnQuYXNzZXJ0TnVsbChuZXcgTGlzdERlbGV0ZSgxMCwgZmFsc2UsIHRydWUpLmdldEFkZGl0aW9uYWxBcmdzKCkpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>,</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJCQltYy5hc3luY0dldChrKS4K</text>
       </register>
       <register name="2" type="4">
-        <text>fatal</text>
+        <text>Future</text>
       </register>
       <register name="3" type="4">
-        <text>ebug</text>
+        <text>Future</text>
       </register>
       <register name="4" type="4">
-        <text>d</text>
+        <text>,</text>
       </register>
       <register name="5" type="4">
-        <text>e</text>
+        <text>fatal</text>
       </register>
       <register name="6" type="4">
-        <text>z</text>
+        <text>ebug</text>
       </register>
       <register name="7" type="4">
-        <text>i</text>
+        <text>d</text>
       </register>
       <register name="8" type="4">
-        <text>S</text>
+        <text>e</text>
       </register>
       <register name="9" type="4">
-        <text>y</text>
+        <text>z</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
