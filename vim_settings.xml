@@ -276,11 +276,11 @@
         <mark key="^" line="32" column="13" />
         <mark key="." line="32" column="13" />
       </file>
-      <file name="$USER_HOME$/arcus-getting-started/arcus-java-getting-started/src/main/resources/log4j.xml" timestamp="1464328399646">
-        <mark key="[" line="62" column="22" />
-        <mark key="]" line="62" column="21" />
-        <mark key="^" line="62" column="21" />
-        <mark key="." line="62" column="21" />
+      <file name="$USER_HOME$/arcus-getting-started/arcus-java-getting-started/src/main/resources/log4j.xml" timestamp="1464680559448">
+        <mark key="[" line="124" column="22" />
+        <mark key="]" line="124" column="21" />
+        <mark key="^" line="124" column="21" />
+        <mark key="." line="124" column="21" />
       </file>
       <file name="$USER_HOME$/Work/arcus/tests/override-and-call-test/src/SuperClass.java" timestamp="1457073753006">
         <mark key="[" line="5" column="33" />
@@ -420,11 +420,11 @@
         <mark key="." line="15" column="26" />
         <mark key="^" line="15" column="26" />
       </file>
-      <file name="$USER_HOME$/arcus-getting-started/arcus-java-getting-started/pom.xml" timestamp="1464328181081">
-        <mark key="[" line="27" column="26" />
-        <mark key="]" line="27" column="25" />
-        <mark key="^" line="27" column="25" />
-        <mark key="." line="27" column="25" />
+      <file name="$USER_HOME$/arcus-getting-started/arcus-java-getting-started/pom.xml" timestamp="1464680494802">
+        <mark key="[" line="28" column="23" />
+        <mark key="]" line="28" column="25" />
+        <mark key="." line="28" column="25" />
+        <mark key="^" line="28" column="25" />
       </file>
       <file name="$USER_HOME$/arcus-getting-started/arcus-java-getting-started/src/main/java/HelloArcus.java" timestamp="1464328431218">
         <mark key="[" line="2" column="3" />
@@ -604,7 +604,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5UZXN0Owo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLm5hdmVyY29ycC5hcmN1czwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+YXJjdXMtamF2YS1jbGllbnQ8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjEuOC4wPC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="-" type="4">
         <text>Object</text>
@@ -616,28 +616,28 @@
         <text encoding="base64">CQlBc3NlcnQuYXNzZXJ0TnVsbChuZXcgTGlzdERlbGV0ZSgxMCwgZmFsc2UsIHRydWUpLmdldEFkZGl0aW9uYWxBcmdzKCkpOwo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLm5hdmVyY29ycC5hcmN1czwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+YXJjdXMtamF2YS1jbGllbnQ8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjEuOC4wPC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5UZXN0Owo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>Object</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CQkJU3RyaW5nIHN0ciA9IG51bGw7Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQkJc3RyLmxlbmd0aCgpOwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQkJcmV0dXJuOwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQlBc3NlcnQuZmFpbCgpOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJLy8gdGVzdCBzdWNjZXNzCg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">CUBUZXN0KGV4cGVjdGVkID0gSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uLmNsYXNzKQo=</text>
+        <text encoding="base64">CQkJLy8gdGVzdCBzdWNjZXNzCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">CUBUZXN0KGV4cGVjdGVkID0gSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uLmNsYXNzKQo=</text>
