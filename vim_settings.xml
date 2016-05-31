@@ -469,10 +469,11 @@
         <mark key="." line="54" column="10" />
         <mark key="^" line="54" column="10" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/bulkoperation/BulkSetTest.java" timestamp="1464663582235">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/bulkoperation/BulkSetTest.java" timestamp="1464672524424">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="52" column="19" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/java/net/spy/memcached/ProtocolBaseCase.java" timestamp="1463728454487">
         <mark key="[" line="62" column="100" />
@@ -609,10 +610,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQltYy5hc3luY0dldChrKS4K</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5UZXN0Owo=</text>
       </register>
       <register name="-" type="4">
-        <text>Future</text>
+        <text>Object</text>
       </register>
       <register name="/" type="4">
         <text>asyncBopInsertBulk</text>
@@ -621,31 +622,31 @@
         <text encoding="base64">CQlBc3NlcnQuYXNzZXJ0TnVsbChuZXcgTGlzdERlbGV0ZSgxMCwgZmFsc2UsIHRydWUpLmdldEFkZGl0aW9uYWxBcmdzKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQltYy5hc3luY0dldChrKS4K</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5UZXN0Owo=</text>
       </register>
       <register name="2" type="4">
-        <text>Future</text>
+        <text>Object</text>
       </register>
-      <register name="3" type="4">
-        <text>Future</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJU3RyaW5nIHN0ciA9IG51bGw7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>,</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJc3RyLmxlbmd0aCgpOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text>fatal</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJcmV0dXJuOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>ebug</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQlBc3NlcnQuZmFpbCgpOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>d</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJLy8gdGVzdCBzdWNjZXNzCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>e</text>
+      <register name="8" type="2">
+        <text encoding="base64">CUBUZXN0KGV4cGVjdGVkID0gSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uLmNsYXNzKQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>z</text>
+      <register name="9" type="2">
+        <text encoding="base64">CUBUZXN0KGV4cGVjdGVkID0gSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uLmNsYXNzKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
