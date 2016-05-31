@@ -125,11 +125,10 @@
         <mark key="^" line="38" column="30" />
         <mark key="." line="38" column="30" />
       </file>
-      <file name="$USER_HOME$/arcus-getting-started/arcus-java-getting-started/src/test/java/HelloArcusTest.java" timestamp="1464328210721">
-        <mark key="[" line="2" column="3" />
-        <mark key="]" line="5" column="1" />
-        <mark key="^" line="5" column="1" />
-        <mark key="." line="5" column="1" />
+      <file name="$USER_HOME$/arcus-getting-started/arcus-java-getting-started/src/test/java/HelloArcusTest.java" timestamp="1464681350672">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ops/CollectionGetOperation.java" timestamp="1457073020368">
         <mark key="[" line="27" column="46" />
@@ -213,6 +212,9 @@
         <mark key="]" line="12" column="62" />
         <mark key="^" line="12" column="62" />
         <mark key="." line="12" column="62" />
+      </file>
+      <file name="$USER_HOME$/arcus-getting-started/arcus-java-getting-started/src/main/java/com/jam2in/arcus/HelloArcus.java" timestamp="1464681744947">
+        <mark key="[" line="19" column="35" />
       </file>
       <file name="$USER_HOME$/Work/arcus/Tests/defaultLoggerTest/src/HelloArcusTest.java" timestamp="1452755200330">
         <mark key="[" line="14" column="8" />
@@ -426,11 +428,11 @@
         <mark key="." line="28" column="25" />
         <mark key="^" line="28" column="25" />
       </file>
-      <file name="$USER_HOME$/arcus-getting-started/arcus-java-getting-started/src/main/java/HelloArcus.java" timestamp="1464328431218">
+      <file name="$USER_HOME$/arcus-getting-started/arcus-java-getting-started/src/main/java/HelloArcus.java" timestamp="1464680595071">
         <mark key="[" line="2" column="3" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="/a.regexp" timestamp="1464248691410">
         <mark key="[" line="0" column="0" />
@@ -604,10 +606,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLm5hdmVyY29ycC5hcmN1czwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+YXJjdXMtamF2YS1jbGllbnQ8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjEuOC4wPC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IENvbm5lY3Rpb25GYWN0b3J5QnVpbGRlcigpKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>Object</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>asyncBopInsertBulk</text>
@@ -616,31 +618,31 @@
         <text encoding="base64">CQlBc3NlcnQuYXNzZXJ0TnVsbChuZXcgTGlzdERlbGV0ZSgxMCwgZmFsc2UsIHRydWUpLmdldEFkZGl0aW9uYWxBcmdzKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLm5hdmVyY29ycC5hcmN1czwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+YXJjdXMtamF2YS1jbGllbnQ8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjEuOC4wPC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IENvbm5lY3Rpb25GYWN0b3J5QnVpbGRlcigpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5UZXN0Owo=</text>
+        <text encoding="base64">ICAgIHRoaXMuYXJjdXNDbGllbnQgPSBBcmN1c0NsaWVudC5jcmVhdGVBcmN1c0NsaWVudCh0aGlzLmFyY3VzQWRtaW4sIHRoaXMuc2VydmljZUNvZGUsCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>Object</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGZ1dHVyZSA9IGFyY3VzQ2xpZW50LmFzeW5jR2V0KCJ0ZXN0OmhlbGxvIik7CgogICAgdHJ5IHsKICAgICAgcmVzdWx0ID0gKFN0cmluZykgZnV0dXJlLmdldCgxMDAwTCwgVGltZVVuaXQuTUlMTElTRUNPTkRTKTsKICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgIGlmKGZ1dHVyZSAhPSBudWxsKSB7CiAgICAgICAgZnV0dXJlLmNhbmNlbCh0cnVlKTsKICAgICAgfQogICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJU3RyaW5nIHN0ciA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgIGZ1dHVyZSA9IGFyY3VzQ2xpZW50LnNldCgidGVzdDpoZWxsbyIsIDYwLCAiSGVsbG8sIEFyY3VzIik7CgogICAgdHJ5IHsKICAgICAgc2V0U3VjY2VzcyA9IGZ1dHVyZS5nZXQoMTAwMEwsIFRpbWVVbml0Lk1JTExJU0VDT05EUyk7CiAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICBpZihmdXR1cmUgIT0gbnVsbCkgewogICAgICAgIGZ1dHVyZS5jYW5jZWwodHJ1ZSk7CiAgICAgIH0KICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgIH0K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJc3RyLmxlbmd0aCgpOwo=</text>
+      <register name="5" type="4">
+        <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IENvbm5lY3Rpb25GYWN0b3J5QnVpbGRlcigpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlBc3NlcnQuZmFpbCgpOwo=</text>
+        <text encoding="base64">ICAgIHRoaXMuYXJjdXNDbGllbnQgPSBBcmN1c0NsaWVudC5jcmVhdGVBcmN1c0NsaWVudCh0aGlzLmFyY3VzQWRtaW4sIHRoaXMuc2VydmljZUNvZGUsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJLy8gdGVzdCBzdWNjZXNzCg==</text>
+        <text encoding="base64">ICAgIGZ1dHVyZSA9IHRoaXMuYXJjdXNDbGllbnQuYXN5bmNHZXQoInRlc3Q6aGVsbG8iKTsKCiAgICB0cnkgewogICAgICByZXN1bHQgPSAoU3RyaW5nKSBmdXR1cmUuZ2V0KDEwMDBMLCBUaW1lVW5pdC5NSUxMSVNFQ09ORFMpOwogICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgaWYoZnV0dXJlICE9IG51bGwpIHsKICAgICAgICBmdXR1cmUuY2FuY2VsKHRydWUpOwogICAgICB9CiAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CUBUZXN0KGV4cGVjdGVkID0gSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uLmNsYXNzKQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
