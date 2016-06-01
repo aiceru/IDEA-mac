@@ -2,8 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="File '/Users/iceru/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/collection/btree/BopServerMessageTest.java'" />
     <option name="defaultScopeName" value="File '/Users/iceru/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/collection/btree/BopServerMessageTest.java'" />
+    <option name="localRegularExpressions" value="true" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="File '/Users/iceru/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/collection/btree/BopServerMessageTest.java'" />
   </component>
 </application>

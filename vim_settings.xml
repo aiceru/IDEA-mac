@@ -342,11 +342,11 @@
         <mark key="^" line="26" column="18" />
         <mark key="." line="26" column="18" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/collection/list/LopServerMessageTest.java" timestamp="1464249445724">
-        <mark key="[" line="172" column="47" />
-        <mark key="]" line="172" column="46" />
-        <mark key="^" line="172" column="46" />
-        <mark key="." line="172" column="46" />
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/collection/list/LopServerMessageTest.java" timestamp="1464749319139">
+        <mark key="[" line="89" column="41" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/SetDelete.java" timestamp="1464170982046">
         <mark key="'" line="48" column="16" />
@@ -414,11 +414,11 @@
         <mark key="^" line="65" column="49" />
         <mark key="." line="65" column="46" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/collection/btree/BopServerMessageTest.java" timestamp="1464249780921">
-        <mark key="[" line="46" column="73" />
-        <mark key="]" line="223" column="1" />
-        <mark key="^" line="223" column="1" />
-        <mark key="." line="223" column="1" />
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/collection/btree/BopServerMessageTest.java" timestamp="1464749012795">
+        <mark key="[" line="47" column="59" />
+        <mark key="]" line="182" column="11" />
+        <mark key="^" line="182" column="11" />
+        <mark key="." line="182" column="11" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/resources/log4j.xml" timestamp="1459245422129">
         <mark key="[" line="15" column="22" />
@@ -649,7 +649,7 @@
         <text encoding="base64">ICAgIGZ1dHVyZSA9IHRoaXMuYXJjdXNDbGllbnQuYXN5bmNHZXQoInRlc3Q6aGVsbG8iKTsKCiAgICB0cnkgewogICAgICByZXN1bHQgPSAoU3RyaW5nKSBmdXR1cmUuZ2V0KDEwMDBMLCBUaW1lVW5pdC5NSUxMSVNFQ09ORFMpOwogICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgaWYoZnV0dXJlICE9IG51bGwpIHsKICAgICAgICBmdXR1cmUuY2FuY2VsKHRydWUpOwogICAgICB9CiAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -696,7 +696,6 @@
         <entry>exit</entry>
         <entry>q!</entry>
         <entry>2</entry>
-        <entry>wq</entry>
         <entry>gg=G</entry>
         <entry>set cursorLine</entry>
         <entry>%s/String/Object/g</entry>
@@ -704,6 +703,7 @@
         <entry>17</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
