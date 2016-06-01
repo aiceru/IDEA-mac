@@ -262,12 +262,12 @@
         <mark key="^" line="20" column="10" />
         <mark key="." line="20" column="10" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/MemcachedClient.java" timestamp="1464663597799">
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/MemcachedClient.java" timestamp="1464750634544">
         <mark key="'" line="742" column="32" />
-        <mark key="[" line="828" column="13" />
-        <mark key="]" line="828" column="15" />
-        <mark key="^" line="828" column="15" />
-        <mark key="." line="828" column="15" />
+        <mark key="[" line="1075" column="8" />
+        <mark key="]" line="1075" column="9" />
+        <mark key="^" line="1075" column="9" />
+        <mark key="." line="1075" column="9" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/naver/arcus-spring/src/test/java/com/navercorp/arcus/spring/cache/ArcusCacheIntegrationTest.java" timestamp="1452749514550">
         <mark key="[" line="35" column="21" />
@@ -649,7 +649,7 @@
         <text encoding="base64">ICAgIGZ1dHVyZSA9IHRoaXMuYXJjdXNDbGllbnQuYXN5bmNHZXQoInRlc3Q6aGVsbG8iKTsKCiAgICB0cnkgewogICAgICByZXN1bHQgPSAoU3RyaW5nKSBmdXR1cmUuZ2V0KDEwMDBMLCBUaW1lVW5pdC5NSUxMSVNFQ09ORFMpOwogICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgaWYoZnV0dXJlICE9IG51bGwpIHsKICAgICAgICBmdXR1cmUuY2FuY2VsKHRydWUpOwogICAgICB9CiAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -702,8 +702,8 @@
         <entry>e CollectionDelete.java</entry>
         <entry>17</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
