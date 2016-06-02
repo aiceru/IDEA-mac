@@ -92,11 +92,11 @@
         <mark key="^" line="6" column="12" />
         <mark key="." line="6" column="12" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/emptycollection/VariousTypeTest.java" timestamp="1464843580904">
-        <mark key="[" line="312" column="62" />
-        <mark key="]" line="312" column="61" />
-        <mark key="." line="312" column="61" />
-        <mark key="^" line="312" column="61" />
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/emptycollection/VariousTypeTest.java" timestamp="1464843852579">
+        <mark key="[" line="311" column="0" />
+        <mark key="]" line="312" column="36" />
+        <mark key="." line="312" column="36" />
+        <mark key="^" line="312" column="36" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/OperationFactory.java" timestamp="1462356235158">
         <mark key="[" line="308" column="24" />
@@ -133,6 +133,12 @@
         <mark key="]" line="11" column="20" />
         <mark key="^" line="11" column="20" />
         <mark key="." line="11" column="20" />
+      </file>
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/plugin/LocalCacheManager.java" timestamp="1464844533592">
+        <mark key="[" line="77" column="43" />
+        <mark key="]" line="78" column="18" />
+        <mark key="^" line="78" column="18" />
+        <mark key="." line="78" column="18" />
       </file>
       <file name="$USER_HOME$/PrivateDev/TobysSpring/src/test/java/learningtest/templete/CalcTest.java" timestamp="1456642858831">
         <mark key="[" line="38" column="30" />
@@ -634,11 +640,11 @@
       <jump line="246" column="42" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/java/net/spy/memcached/OperationFactoryTestBase.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJQFN1cHByZXNzV2FybmluZ3MoInVuY2hlY2tlZCIpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
         <text>synthetic</text>
@@ -646,32 +652,32 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJCQlAU3VwcHJlc3NXYXJuaW5ncygic3ludGhldGljLWFjY2VzcyIpIC8vIGdldExvZ2dlcigpCg==</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">cmV0dXJuIA==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">CQkJQFN1cHByZXNzV2FybmluZ3MoInVuY2hlY2tlZCIpCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">CUBTdXBwcmVzc1dhcm5pbmdzKCJ1bmNoZWNrZWQiKQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>@SuppressWarnings(&quot;unchecked&quot;)</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">QFN1cHByZXNzV2FybmluZ3MoInVuY2hlY2tlZCIpIENsYXNzPD8gZXh0ZW5kcyBMb2dnZXI+</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJQFN1cHByZXNzV2FybmluZ3MoInVuY2hlY2tlZCIpCg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">Pg==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>r</text>
+        <text>@SuppressWarnings(&quot;unchecked&quot;)</text>
       </register>
       <register name="7" type="4">
-        <text>e</text>
+        <text encoding="base64">QFN1cHByZXNzV2FybmluZ3MoInVuY2hlY2tlZCIpIENsYXNzPD8gZXh0ZW5kcyBMb2dnZXI+</text>
       </register>
       <register name="8" type="4">
-        <text>g</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="9" type="4">
-        <text>g</text>
+        <text>r</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
