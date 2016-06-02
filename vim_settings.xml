@@ -101,6 +101,12 @@
         <mark key="." line="14" column="30" />
         <mark key="^" line="14" column="30" />
       </file>
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/java/net/spy/memcached/OperationFactoryTestBase.java" timestamp="1464837731652">
+        <mark key="[" line="243" column="42" />
+        <mark key="]" line="243" column="42" />
+        <mark key="." line="243" column="42" />
+        <mark key="^" line="243" column="42" />
+      </file>
       <file name="$USER_HOME$/PrivateDev/TobysSpring/src/main/java/springbook/user/dao/CountingDaoFactory.java" timestamp="1455427108480">
         <mark key="[" line="11" column="28" />
         <mark key="]" line="14" column="14" />
@@ -512,7 +518,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3609" column="28" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" />
       <jump line="1909" column="52" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" />
       <jump line="1899" column="33" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" />
       <jump line="1854" column="46" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" />
@@ -612,13 +617,14 @@
       <jump line="52" column="15" filename="$USER_HOME$/arcus-getting-started/arcus-java-getting-started/src/main/java/com/jam2in/arcus/HelloArcus.java" />
       <jump line="1075" column="27" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/MemcachedClient.java" />
       <jump line="1301" column="29" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/MemcachedClient.java" />
+      <jump line="246" column="42" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/java/net/spy/memcached/OperationFactoryTestBase.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cHJvdGVjdGVkIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQl0IHR5cGVvZgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHJvdGVjdGVkIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>synthetic</text>
@@ -626,32 +632,32 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJCQlAU3VwcHJlc3NXYXJuaW5ncygic3ludGhldGljLWFjY2VzcyIpIC8vIGdldExvZ2dlcigpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">cHJvdGVjdGVkIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQl0IHR5cGVvZgo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJICBAU3VwcHJlc3NXYXJuaW5ncygic3ludGhldGljLWFjY2VzcyIpCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJCQlAU3VwcHJlc3NXYXJuaW5ncygic3ludGhldGljLWFjY2VzcyIpIC8vIGdldExvZ2dlcigpCg==</text>
+      <register name="3" type="4">
+        <text>)</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJCQkJbG9nZ2VyLmluZm8oInRlc3QiKTsK</text>
+      <register name="4" type="4">
+        <text>(</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJCS8vQFN1cHByZXNzV2FybmluZ3MoInN5bnRoZXRpYy1hY2Nlc3MiKQo=</text>
+      <register name="5" type="4">
+        <text>T</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="6" type="4">
+        <text encoding="base64">T3BlcmF0aW9uIA==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IENvbm5lY3Rpb25GYWN0b3J5QnVpbGRlcigpKTsK</text>
+        <text encoding="base64">CQlhc3NlcnQgdCBpbnN0YW5jZW9mICA6IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMuYXJjdXNDbGllbnQgPSBBcmN1c0NsaWVudC5jcmVhdGVBcmN1c0NsaWVudCh0aGlzLmFyY3VzQWRtaW4sIHRoaXMuc2VydmljZUNvZGUsCg==</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZ1dHVyZSA9IGFyY3VzQ2xpZW50LmFzeW5jR2V0KCJ0ZXN0OmhlbGxvIik7CgogICAgdHJ5IHsKICAgICAgcmVzdWx0ID0gKFN0cmluZykgZnV0dXJlLmdldCgxMDAwTCwgVGltZVVuaXQuTUlMTElTRUNPTkRTKTsKICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgIGlmKGZ1dHVyZSAhPSBudWxsKSB7CiAgICAgICAgZnV0dXJlLmNhbmNlbCh0cnVlKTsKICAgICAgfQogICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
