@@ -41,9 +41,6 @@
         <mark key="^" line="36" column="13" />
         <mark key="." line="36" column="13" />
       </file>
-      <file name="/a.dummy" timestamp="1464845659831">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClientException.java" timestamp="1464842369922">
         <mark key="[" line="30" column="78" />
       </file>
