@@ -367,8 +367,9 @@
         <mark key="^" line="26" column="18" />
         <mark key="." line="26" column="18" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/CacheManager.java" timestamp="1464933278411">
-        <mark key="'" line="274" column="63" />
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/CacheManager.java" timestamp="1464933881581">
+        <mark key="'" line="250" column="63" />
+        <mark key="." line="250" column="948" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/collection/list/LopServerMessageTest.java" timestamp="1464749319139">
         <mark key="[" line="89" column="41" />
