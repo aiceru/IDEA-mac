@@ -75,10 +75,11 @@
         <mark key="." line="14" column="14" />
         <mark key="^" line="14" column="14" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-spring/src/test/java/com/jam2in/arcus/spring/CopyOnReadTest.java" timestamp="1466755301435">
-        <mark key="]" line="42" column="54" />
-        <mark key="." line="42" column="54" />
-        <mark key="^" line="42" column="54" />
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-spring/src/test/java/com/jam2in/arcus/spring/CopyOnReadTest.java" timestamp="1466760908638">
+        <mark key="[" line="17" column="29" />
+        <mark key="]" line="19" column="11" />
+        <mark key="." line="19" column="11" />
+        <mark key="^" line="19" column="11" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/plugin/LocalCacheManager.java" timestamp="1466752325366">
         <mark key="j" line="67" column="69" />
@@ -87,7 +88,7 @@
         <mark key="^" line="60" column="12" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/target/arcus-java-client-1.9.3.jar!/net/spy/memcached/CacheManager.class" timestamp="1466756746105" />
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/target/arcus-java-client-1.9.3.jar!/net/spy/memcached/CacheManager.class" timestamp="1466760461121" />
       <file name="$USER_HOME$/PrivateDev/TobysSpring/src/test/java/learningtest/templete/CalcTest.java" timestamp="1456642858831">
         <mark key="[" line="38" column="30" />
         <mark key="]" line="38" column="30" />
@@ -522,11 +523,11 @@
       <file name="/a.regexp" timestamp="1464248691410">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-spring/src/test/resources/copy.on.read.test.xml" timestamp="1466756713501">
-        <mark key="[" line="18" column="19" />
-        <mark key="]" line="18" column="21" />
-        <mark key="." line="18" column="21" />
-        <mark key="^" line="18" column="21" />
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-spring/src/test/resources/copy.on.read.test.xml" timestamp="1466761003868">
+        <mark key="[" line="32" column="52" />
+        <mark key="]" line="32" column="34" />
+        <mark key="." line="32" column="34" />
+        <mark key="^" line="32" column="34" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/Article.java" timestamp="1456467886249">
         <mark key="[" line="14" column="3" />
@@ -684,10 +685,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>zookeeperAddress</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>zookeeperAddress</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>prevChildren</text>
@@ -696,31 +697,31 @@
         <text encoding="base64">ICAgIHNlcnZpY2UxLnNldFByb2R1Y3QobmV3IFByb2R1Y3QoImlkMSIsICJuYW1lMSIsIDEsICJkZXRhaWwxIikpOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>zookeeperAddress</text>
+        <text>&quot;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">IHA6c2VydmljZS1pZD0iJHtzZXJ2aWNlSWR9IiAvPg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">PGJlYW4gaWQ9ImFyY3VzQ2xpZW50V2l0aEZyb250Q2FjaGUiIGNsYXNzPSJjb20ubmhuY29ycC5hcmN1cy5zcHJpbmcuQXJjdXNDbGllbnRGYWN0b3J5QmVhbiIKICAgIHA6dXJsPSIke2FyY3VzLnpvb2tlZXBlckFkZHJlc3N9IgogICAgcDpzZXJ2aWNlQ29kZT0iJHthcmN1cy5zZXJ2aWNlQ29kZX0iCiAgICBwOmZyb250Q2FjaGVFeHBpcmVUaW1lPSIzMDAiCiAgICBwOm1heEZyb250Q2FjaGVFbGVtZW50cz0iNTAwIiAvPgo=</text>
+      <register name="3" type="4">
+        <text>o</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>C</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>e</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">PGJlYW4gaWQ9ImFyY3VzQ2FjaGVNYW5hZ2VyIiBjbGFzcz0ib3JnLnNwcmluZ2ZyYW1ld29yay5jYWNoZS5zdXBwb3J0LlNpbXBsZUNhY2hlTWFuYWdlciI+CiAgPHByb3BlcnR5IG5hbWU9ImNhY2hlcyI+CiAgICA8bGlzdD4KICAgICAgPGJlYW4gcDpuYW1lPSJwcm9kdWN0LWRldGFpbCIgcDpwcmVmaXg9InByb2R1Y3QtcHJlZml4IgogICAgICAgICAgICBwOmV4cGlyZVNlY29uZHM9IjMwMDAiIHBhcmVudD0iZGVmYXVsdEFyY3VzQ2FjaGVXaXRoRnJvbnRDYWNoZSIgcDpzZXJ2aWNlLWlkPSIke3NlcnZpY2VJZH0iIC8+CiAgICA8L2xpc3Q+CiAgPC9wcm9wZXJ0eT4KPC9iZWFuPgo=</text>
+      <register name="6" type="4">
+        <text>c</text>
       </register>
       <register name="7" type="4">
-        <text>util</text>
+        <text>i</text>
       </register>
       <register name="8" type="4">
-        <text>l</text>
+        <text>v</text>
       </register>
       <register name="9" type="4">
-        <text>i</text>
+        <text>r</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
