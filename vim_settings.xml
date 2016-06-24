@@ -75,11 +75,12 @@
         <mark key="." line="14" column="14" />
         <mark key="^" line="14" column="14" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/plugin/LocalCacheManager.java" timestamp="1466750347983">
-        <mark key="[" line="62" column="41" />
-        <mark key="]" line="58" column="13" />
-        <mark key="." line="58" column="13" />
-        <mark key="^" line="58" column="13" />
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/plugin/LocalCacheManager.java" timestamp="1466752325366">
+        <mark key="j" line="67" column="69" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="^" line="60" column="12" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/PrivateDev/TobysSpring/src/test/java/learningtest/templete/CalcTest.java" timestamp="1456642858831">
         <mark key="[" line="38" column="30" />
@@ -202,6 +203,12 @@
         <mark key="]" line="22" column="36" />
         <mark key="^" line="22" column="36" />
         <mark key="." line="22" column="36" />
+      </file>
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-spring/pom.xml" timestamp="1466752509396">
+        <mark key="[" line="57" column="8" />
+        <mark key="]" line="57" column="11" />
+        <mark key="^" line="57" column="11" />
+        <mark key="." line="57" column="11" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/btreesmget/SMGetErrorTest.java" timestamp="1464248838217">
         <mark key="[" line="533" column="9" />
@@ -649,10 +656,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJdGhpcy5jYWNoZSA9IG5ldyBDYWNoZSgpCg==</text>
+        <text encoding="base64">CQkJCQlmYWxzZSwgIiIsIGZhbHNlLCBleHB0aW1lLCBleHB0aW1lLCBmYWxzZSwgNjAsIG51bGwpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>prevChildren</text>
@@ -661,31 +668,31 @@
         <text encoding="base64">CQkJCQlAU3VwcHJlc3NXYXJuaW5ncygic3ludGhldGljLWFjY2VzcyIpIC8vIGdldExvZ2dlcigpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJdGhpcy5jYWNoZSA9IG5ldyBDYWNoZSgpCg==</text>
+        <text encoding="base64">CQkJCQlmYWxzZSwgIiIsIGZhbHNlLCBleHB0aW1lLCBleHB0aW1lLCBmYWxzZSwgNjAsIG51bGwpOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text>;</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJdGhpcy5jYWNoZSA9IG5ldyBDYWNoZShuYW1lLCBtYXgsIE1lbW9yeVN0b3JlRXZpY3Rpb25Qb2xpY3kuTFJVLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJCS5zdHJhdGVneShQZXJzaXN0ZW5jZUNvbmZpZ3VyYXRpb24uU3RyYXRlZ3kuTk9ORSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJUGVyc2lzdGVuY2VDb25maWd1cmF0aW9uIHBDb25maWcgPSBuZXcgUGVyc2lzdGVuY2VDb25maWd1cmF0aW9uKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlAU3VwcHJlc3NXYXJuaW5ncygidW5jaGVja2VkIikgVCByZXQ7Cg==</text>
+        <text encoding="base64">CQkJY29uZmlnLnBlcnNpc3RlbmNlKHBDb25maWcpOwo=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>)</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJQFN1cHByZXNzV2FybmluZ3MoInVuY2hlY2tlZCIpCg==</text>
+      <register name="7" type="4">
+        <text>.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CUBTdXBwcmVzc1dhcm5pbmdzKCJ1bmNoZWNrZWQiKQo=</text>
+        <text encoding="base64">CQkJY2FjaGUuY28K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJQFN1cHByZXNzV2FybmluZ3MoInVuY2hlY2tlZCIpCg==</text>
+      <register name="9" type="4">
+        <text>/</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -696,7 +703,7 @@
       <last-offset />
       <last-pattern>prevChildren</last-pattern>
       <last-replace>Object</last-replace>
-      <last-substitute>String</last-substitute>
+      <last-substitute>prevChildren</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
