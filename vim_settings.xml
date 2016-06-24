@@ -75,11 +75,11 @@
         <mark key="." line="14" column="14" />
         <mark key="^" line="14" column="14" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/plugin/LocalCacheManager.java" timestamp="1464845550300">
-        <mark key="[" line="81" column="5" />
-        <mark key="]" line="83" column="15" />
-        <mark key="^" line="83" column="15" />
-        <mark key="." line="83" column="15" />
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/plugin/LocalCacheManager.java" timestamp="1466750347983">
+        <mark key="[" line="62" column="41" />
+        <mark key="]" line="58" column="13" />
+        <mark key="." line="58" column="13" />
+        <mark key="^" line="58" column="13" />
       </file>
       <file name="$USER_HOME$/PrivateDev/TobysSpring/src/test/java/learningtest/templete/CalcTest.java" timestamp="1456642858831">
         <mark key="[" line="38" column="30" />
@@ -648,8 +648,8 @@
       <jump line="3033" column="36" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJdGhpcy5jYWNoZSA9IG5ldyBDYWNoZSgpCg==</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -660,32 +660,32 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJCQlAU3VwcHJlc3NXYXJuaW5ncygic3ludGhldGljLWFjY2VzcyIpIC8vIGdldExvZ2dlcigpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>;</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJdGhpcy5jYWNoZSA9IG5ldyBDYWNoZSgpCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>;</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">CQlAU3VwcHJlc3NXYXJuaW5ncygidW5jaGVja2VkIikgVCByZXQ7Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">cmV0dXJuIA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJQFN1cHByZXNzV2FybmluZ3MoInVuY2hlY2tlZCIpCg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">CUBTdXBwcmVzc1dhcm5pbmdzKCJ1bmNoZWNrZWQiKQo=</text>
+        <text encoding="base64">CQkJQFN1cHByZXNzV2FybmluZ3MoInVuY2hlY2tlZCIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJQFN1cHByZXNzV2FybmluZ3MoInVuY2hlY2tlZCIpCg==</text>
+        <text encoding="base64">CUBTdXBwcmVzc1dhcm5pbmdzKCJ1bmNoZWNrZWQiKQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJQFN1cHByZXNzV2FybmluZ3MoInVuY2hlY2tlZCIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
