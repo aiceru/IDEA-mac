@@ -421,6 +421,12 @@
         <mark key="." line="14" column="50" />
         <mark key="^" line="14" column="50" />
       </file>
+      <file name="$USER_HOME$/Work/arcus/repo/naver/arcus-spring/src/test/java/com/jam2in/arcus/spring/Service1.java" timestamp="1466761991596">
+        <mark key="[" line="22" column="38" />
+        <mark key="]" line="23" column="12" />
+        <mark key="." line="23" column="12" />
+        <mark key="^" line="23" column="12" />
+      </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/SimpleApp.java" timestamp="1456474950292">
         <mark key="[" line="237" column="58" />
         <mark key="]" line="237" column="58" />
@@ -685,10 +691,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>prevChildren</text>
@@ -697,31 +703,31 @@
         <text encoding="base64">ICAgIHNlcnZpY2UxLnNldFByb2R1Y3QobmV3IFByb2R1Y3QoImlkMSIsICJuYW1lMSIsIDEsICJkZXRhaWwxIikpOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>&quot;</text>
+        <text>o</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IHA6c2VydmljZS1pZD0iJHtzZXJ2aWNlSWR9IiAvPg==</text>
+        <text>o</text>
       </register>
       <register name="3" type="4">
         <text>o</text>
       </register>
       <register name="4" type="4">
-        <text>C</text>
+        <text>o</text>
       </register>
       <register name="5" type="4">
-        <text>e</text>
+        <text>&quot;</text>
       </register>
       <register name="6" type="4">
-        <text>c</text>
+        <text encoding="base64">IHA6c2VydmljZS1pZD0iJHtzZXJ2aWNlSWR9IiAvPg==</text>
       </register>
       <register name="7" type="4">
-        <text>i</text>
+        <text>o</text>
       </register>
       <register name="8" type="4">
-        <text>v</text>
+        <text>C</text>
       </register>
       <register name="9" type="4">
-        <text>r</text>
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
