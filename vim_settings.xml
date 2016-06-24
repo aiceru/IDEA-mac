@@ -81,12 +81,12 @@
         <mark key="." line="19" column="11" />
         <mark key="^" line="19" column="11" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/plugin/LocalCacheManager.java" timestamp="1466752325366">
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/plugin/LocalCacheManager.java" timestamp="1466763899240">
         <mark key="j" line="67" column="69" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="^" line="60" column="12" />
-        <mark key="." line="69" column="0" />
+        <mark key="[" line="61" column="30" />
+        <mark key="]" line="61" column="30" />
+        <mark key="^" line="61" column="30" />
+        <mark key="." line="61" column="30" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/target/arcus-java-client-1.9.3.jar!/net/spy/memcached/CacheManager.class" timestamp="1466760461121" />
       <file name="$USER_HOME$/PrivateDev/TobysSpring/src/test/java/learningtest/templete/CalcTest.java" timestamp="1456642858831">
@@ -153,6 +153,7 @@
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/collection/CollectionFutureTest.java" timestamp="1464249811314">
         <mark key="[" line="38" column="44" />
       </file>
+      <file name="$USER_HOME$/Work/arcus/repo/naver/arcus-spring/src/test/resources/copy.on.read.test.xml" timestamp="1466763599652" />
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-spring/src/test/java/com/navercorp/arcus/spring/cache/CacheInterfaceImpl.java" timestamp="1456193907838">
         <mark key="[" line="23" column="30" />
         <mark key="]" line="24" column="44" />
@@ -247,6 +248,13 @@
         <mark key="]" line="97" column="12" />
         <mark key="^" line="97" column="12" />
         <mark key="." line="97" column="12" />
+      </file>
+      <file name="$USER_HOME$/Work/arcus/repo/naver/arcus-spring/src/test/java/com/jam2in/arcus/spring/CopyOnReadTest.java" timestamp="1466764001083">
+        <mark key="'" line="30" column="52" />
+        <mark key="[" line="30" column="60" />
+        <mark key="]" line="30" column="60" />
+        <mark key="." line="30" column="60" />
+        <mark key="^" line="36" column="52" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-spring/src/test/resources/ApplicationContextLoadTest-context.xml" timestamp="1466756471933">
         <mark key="[" line="0" column="0" />
@@ -421,11 +429,9 @@
         <mark key="." line="14" column="50" />
         <mark key="^" line="14" column="50" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/naver/arcus-spring/src/test/java/com/jam2in/arcus/spring/Service1.java" timestamp="1466761991596">
-        <mark key="[" line="22" column="38" />
-        <mark key="]" line="23" column="12" />
-        <mark key="." line="23" column="12" />
-        <mark key="^" line="23" column="12" />
+      <file name="$USER_HOME$/Work/arcus/repo/naver/arcus-spring/src/test/java/com/jam2in/arcus/spring/Service1.java" timestamp="1466763156079">
+        <mark key="'" line="16" column="23" />
+        <mark key="[" line="23" column="3" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/SimpleApp.java" timestamp="1456474950292">
         <mark key="[" line="237" column="58" />
@@ -571,7 +577,7 @@
         <mark key="^" line="127" column="56" />
         <mark key="." line="127" column="56" />
       </file>
-      <file name="/fragment.java" timestamp="1464228441385">
+      <file name="/fragment.java" timestamp="1466762672264">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/naver/arcus-spring/pom.xml" timestamp="1452506442683">
@@ -586,11 +592,11 @@
         <mark key="^" line="21" column="7" />
         <mark key="." line="21" column="7" />
       </file>
+      <file name="$USER_HOME$/Work/arcus/repo/naver/arcus-spring/src/test/java/com/jam2in/arcus/spring/Product.java" timestamp="1466763766109">
+        <mark key="[" line="7" column="21" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="186" column="19" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" />
-      <jump line="3918" column="17" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" />
-      <jump line="3971" column="31" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" />
       <jump line="263" column="38" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/protocol/ascii/AsciiOperationFactory.java" />
       <jump line="75" column="13" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/collection/BaseIntegrationTest.java" />
       <jump line="139" column="16" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/pom.xml" />
@@ -688,46 +694,49 @@
       <jump line="274" column="63" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/CacheManager.java" />
       <jump line="3033" column="36" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" />
       <jump line="15" column="52" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-spring/src/test/resources/copy.on.read.test.xml" />
+      <jump line="16" column="23" filename="$USER_HOME$/Work/arcus/repo/naver/arcus-spring/src/test/java/com/jam2in/arcus/spring/Service1.java" />
+      <jump line="31" column="25" filename="$USER_HOME$/Work/arcus/repo/naver/arcus-spring/src/test/java/com/jam2in/arcus/spring/CopyOnReadTest.java" />
+      <jump line="30" column="52" filename="$USER_HOME$/Work/arcus/repo/naver/arcus-spring/src/test/java/com/jam2in/arcus/spring/CopyOnReadTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>o</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>prevChildren</text>
+        <text>set</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNlcnZpY2UxLnNldFByb2R1Y3QobmV3IFByb2R1Y3QoImlkMSIsICJuYW1lMSIsIDEsICJkZXRhaWwxIikpOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>o</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text>o</text>
+        <text>,</text>
       </register>
       <register name="3" type="4">
-        <text>o</text>
+        <text>3000</text>
       </register>
       <register name="4" type="4">
-        <text>o</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>&quot;</text>
+        <text>,</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IHA6c2VydmljZS1pZD0iJHtzZXJ2aWNlSWR9IiAvPg==</text>
+        <text>3000</text>
       </register>
       <register name="7" type="4">
-        <text>o</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>C</text>
+        <text>,</text>
       </register>
       <register name="9" type="4">
-        <text>e</text>
+        <text>3000</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -736,17 +745,14 @@
     <search>
       <last-search>prevChildren</last-search>
       <last-offset />
-      <last-pattern>prevChildren</last-pattern>
-      <last-replace>Object</last-replace>
-      <last-substitute>prevChildren</last-substitute>
+      <last-pattern>set</last-pattern>
+      <last-replace>put</last-replace>
+      <last-substitute>set</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>result</entry>
-        <entry>Setup</entry>
-        <entry>test</entry>
         <entry>delete</entry>
         <entry>deleteTest</entry>
         <entry>s</entry>
@@ -755,7 +761,6 @@
         <entry>key</entry>
         <entry>null</entry>
         <entry>asyncGet</entry>
-        <entry>set</entry>
         <entry>org.apache</entry>
         <entry>SetExist</entry>
         <entry>piped</entry>
@@ -764,11 +769,12 @@
         <entry>asyncBopInsertBulk</entry>
         <entry>synthetic</entry>
         <entry>prevChildren</entry>
+        <entry>service1.setProduct(</entry>
+        <entry>arcusClientWithFrontCache</entry>
+        <entry>cache.getArcusClient()</entry>
+        <entry>set</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/Exception e/java.nio.BufferOverflowException e/g</entry>
-        <entry>s</entry>
-        <entry>W</entry>
         <entry>gg</entry>
         <entry>=G</entry>
         <entry>1031g</entry>
@@ -784,6 +790,10 @@
         <entry>17</entry>
         <entry>q</entry>
         <entry>wq</entry>
+        <entry>17,23s/service1.setProduct(/productMap.put(&quot;id1&quot;</entry>
+        <entry>32,36s/arcusClientWithFrontCache/cache.getArcusClient()</entry>
+        <entry>32,37s/cache.getArcusClient()/arcusCacheManager.getCache(&quot;product-detail&quot;)</entry>
+        <entry>31,36s/set/put</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
