@@ -244,10 +244,10 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring/src/main/java/com/navercorp/arcus/spring/ArcusClientFactoryBean.java" timestamp="1466847999593">
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="102" column="56" />
-        <mark key="." line="101" column="0" />
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring/src/main/java/com/navercorp/arcus/spring/ArcusClientFactoryBean.java" timestamp="1466852056598">
+        <mark key="[" line="100" column="4" />
+        <mark key="]" line="101" column="56" />
+        <mark key="." line="100" column="0" />
       </file>
       <file name="$USER_HOME$/Work/arcus/tests/arcus-getting-started/src/com/jam2in/arcus/HelloArcusTest.java" timestamp="1464326063949">
         <mark key="[" line="3" column="25" />
