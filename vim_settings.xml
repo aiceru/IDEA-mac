@@ -151,6 +151,7 @@
         <mark key="^" line="124" column="21" />
         <mark key="." line="124" column="21" />
       </file>
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring/src/main/java/com/navercorp/arcus/spring/cache/StringKeyGenerator.java" timestamp="1467017001250" />
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/arcus-spring/src/main/java/com/navercorp/arcus/spring/cache/ArcusKey.java" timestamp="1457945438945">
         <mark key="[" line="7" column="23" />
         <mark key="]" line="13" column="24" />
@@ -257,7 +258,8 @@
         <mark key="^" line="14" column="60" />
         <mark key="." line="14" column="60" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring/src/main/java/com/navercorp/arcus/spring/cache/ArcusCache.java" timestamp="1466994553166" />
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring/src/test/java/com/jam2in/arcus/spring/Service_COR.java" timestamp="1467017030291" />
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring/src/main/java/com/navercorp/arcus/spring/cache/ArcusCache.java" timestamp="1467018590670" />
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/main/java/com/jam2in/arcus/driver/DummyDBWrapper.java" timestamp="1457945842314">
         <mark key="[" line="70" column="6" />
         <mark key="]" line="70" column="7" />
@@ -402,6 +404,7 @@
         <mark key="^" line="124" column="42" />
         <mark key="." line="124" column="42" />
       </file>
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring/src/test/resources/copy.on.read.test.xml" timestamp="1467018282074" />
       <file name="$USER_HOME$/PrivateDev/TobysSpring/src/main/java/springbook/user/dao/UserDaoTest.java" timestamp="1455432087794">
         <mark key="[" line="15" column="70" />
         <mark key="]" line="14" column="50" />
