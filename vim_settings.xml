@@ -293,6 +293,9 @@
         <mark key="^" line="30" column="9" />
         <mark key="." line="30" column="9" />
       </file>
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring/src/test/java/com/jam2in/arcus/spring/CopyOnReadTest.java" timestamp="1466995305499">
+        <mark key="[" line="59" column="3" />
+      </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring-simple-application/simple-application/src/test/resources/arcus.properties" timestamp="1456385099369">
         <mark key="[" line="3" column="6" />
         <mark key="]" line="3" column="28" />
