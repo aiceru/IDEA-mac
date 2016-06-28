@@ -470,11 +470,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/tests/ArcusSMGetTest/src/TestCacheDAO.java" timestamp="1467090466279">
-        <mark key="[" line="27" column="64" />
-        <mark key="]" line="27" column="65" />
-        <mark key="^" line="27" column="70" />
-        <mark key="." line="27" column="65" />
+      <file name="$USER_HOME$/Work/arcus/tests/ArcusSMGetTest/src/TestCacheDAO.java" timestamp="1467091504175">
+        <mark key="[" line="22" column="50" />
+        <mark key="]" line="22" column="50" />
+        <mark key="^" line="22" column="50" />
+        <mark key="." line="22" column="50" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/CollectionExist.java" timestamp="1462355976746">
         <mark key="[" line="18" column="37" />
@@ -686,7 +686,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>set</text>
+        <text>Reconne</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFRlc3RDYWNoZURBTyB0ZXN0Q2FjaGVEQU87CiAgICBSYW5kb20gcmFuZCA9IG5ldyBSYW5kb20oU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkpOwo=</text>
@@ -723,9 +723,9 @@
       </register>
     </registers>
     <search>
-      <last-search>prevChildren</last-search>
+      <last-search>Reconne</last-search>
       <last-offset />
-      <last-pattern>set</last-pattern>
+      <last-pattern>Reconne</last-pattern>
       <last-replace>put</last-replace>
       <last-substitute>set</last-substitute>
       <last-dir>1</last-dir>
@@ -733,7 +733,6 @@
     </search>
     <history>
       <history-search>
-        <entry>delete</entry>
         <entry>deleteTest</entry>
         <entry>s</entry>
         <entry>String</entry>
@@ -753,6 +752,7 @@
         <entry>arcusClientWithFrontCache</entry>
         <entry>cache.getArcusClient()</entry>
         <entry>set</entry>
+        <entry>Reconne</entry>
       </history-search>
       <history-cmd>
         <entry>gg</entry>
