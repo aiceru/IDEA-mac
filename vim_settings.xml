@@ -263,6 +263,11 @@
       <file name="$USER_HOME$/PrivateDev/GoBook/hello_project/src/hello/hello.go" timestamp="1462015159076">
         <mark key="[" line="4" column="13" />
       </file>
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/DefaultConnectionFactory.java" timestamp="1467363632977">
+        <mark key="[" line="478" column="0" />
+        <mark key="]" line="478" column="0" />
+        <mark key="." line="478" column="0" />
+      </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/.idea/.name" timestamp="1453095101706">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="11" />
@@ -662,7 +667,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBGZWF0dXJlIDogQWRkZWQgQ29weU9uUmVhZCAvIENvcHlPbldyaXRlIHByb3BlcnRpZXMgdG8gQXJjdXMgZnJvbnQgY2FjaGUK</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
@@ -674,31 +679,31 @@
         <text encoding="base64">ICAgIFRlc3RDYWNoZURBTyB0ZXN0Q2FjaGVEQU87CiAgICBSYW5kb20gcmFuZCA9IG5ldyBSYW5kb20oU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBGZWF0dXJlIDogQWRkZWQgQ29weU9uUmVhZCAvIENvcHlPbldyaXRlIHByb3BlcnRpZXMgdG8gQXJjdXMgZnJvbnQgY2FjaGUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDwhLS0gY29sbGVjdGlvbiBwaXBlZCBleGlzdCAtLT4KICAgIDxsb2dnZXIgbmFtZT0ibmV0LnNweS5tZW1jYWNoZWQucHJvdG9jb2wuYXNjaWkuQ29sbGVjdGlvblBpcGVkRXhpc3RPcGVyYXRpb25JbXBsIiBhZGRpdGl2aXR5PSJmYWxzZSI+CiAgICAgICAgPGxldmVsIHZhbHVlPSJERUJVRyIgLz4KICAgICAgICA8YXBwZW5kZXItcmVmIHJlZj0iY29uc29sZSIgLz4KICAgIDwvbG9nZ2VyPgoKICAgIDwhLS0gc2V0IGF0dHJpYnV0ZXMgLS0+CiAgICA8bG9nZ2VyIG5hbWU9Im5ldC5zcHkubWVtY2FjaGVkLnByb3RvY29sLmFzY2lpLlNldEF0dHJPcGVyYXRpb25JbXBsIiBhZGRpdGl2aXR5PSJmYWxzZSI+CiAgICAgICAgPGxldmVsIHZhbHVlPSJERUJVRyIgLz4KICAgICAgICA8YXBwZW5kZXItcmVmIHJlZj0iY29uc29sZSIgLz4KICAgIDwvbG9nZ2VyPgoKICAgIDwhLS0gY29sbGVjdGlvbiBpbnNlcnQgLS0+CiAgICA8bG9nZ2VyIG5hbWU9Im5ldC5zcHkubWVtY2FjaGVkLnByb3RvY29sLmFzY2lpLkNvbGxlY3Rpb25TdG9yZU9wZXJhdGlvbkltcGwiIGFkZGl0aXZpdHk9ImZhbHNlIj4KICAgICAgICA8bGV2ZWwgdmFsdWU9IkRFQlVHIiAvPgogICAgICAgIDxhcHBlbmRlci1yZWYgcmVmPSJjb25zb2xlIiAvPgogICAgPC9sb2dnZXI+CgogICAgPCEtLSBiK3RyZWUgZ2V0ICh1c2luZyBieXRlIGFycmF5cyBia2V5KSAtLT4KICAgIDxsb2dnZXIgbmFtZT0ibmV0LnNweS5tZW1jYWNoZWQucHJvdG9jb2wuYXNjaWkuRXh0ZW5kZWRCVHJlZUdldE9wZXJhdGlvbkltcGwiIGFkZGl0aXZpdHk9ImZhbHNlIj4KICAgICAgICA8bGV2ZWwgdmFsdWU9IkRFQlVHIiAvPgogICAgICAgIDxhcHBlbmRlci1yZWYgcmVmPSJjb25zb2xlIiAvPgogICAgPC9sb2dnZXI+CgogICAgPCEtLSBjb2xsZWN0aW9uIGdldCAtLT4KICAgIDxsb2dnZXIgbmFtZT0ibmV0LnNweS5tZW1jYWNoZWQucHJvdG9jb2wuYXNjaWkuQ29sbGVjdGlvbkdldE9wZXJhdGlvbkltcGwiIGFkZGl0aXZpdHk9ImZhbHNlIj4KICAgICAgICA8bGV2ZWwgdmFsdWU9IkRFQlVHIiAvPgogICAgICAgIDxhcHBlbmRlci1yZWYgcmVmPSJjb25zb2xlIiAvPgogICAgPC9sb2dnZXI+CgogICAgPCEtLSBjb2xsZWN0aW9uIHVwc2VydCAtLT4KICAgIDxsb2dnZXIgbmFtZT0ibmV0LnNweS5tZW1jYWNoZWQucHJvdG9jb2wuYXNjaWkuQ29sbGVjdGlvblVwc2VydE9wZXJhdGlvbkltcGwiIGFkZGl0aXZpdHk9ImZhbHNlIj4KICAgICAgICA8bGV2ZWwgdmFsdWU9IkRFQlVHIiAvPgogICAgICAgIDxhcHBlbmRlci1yZWYgcmVmPSJjb25zb2xlIiAvPgogICAgPC9sb2dnZXI+CgogICAgPCEtLSBjb2xsZWN0aW9uIHVwZGF0ZSAtLT4KICAgIDxsb2dnZXIgbmFtZT0ibmV0LnNweS5tZW1jYWNoZWQucHJvdG9jb2wuYXNjaWkuQ29sbGVjdGlvblVwZGF0ZU9wZXJhdGlvbkltcGwiIGFkZGl0aXZpdHk9ImZhbHNlIj4KICAgICAgICA8bGV2ZWwgdmFsdWU9IkRFQlVHIiAvPgogICAgICAgIDxhcHBlbmRlci1yZWYgcmVmPSJjb25zb2xlIiAvPgogICAgPC9sb2dnZXI+CgogICAgPCEtLSBjb2xsZWN0aW9uIGNvdW50IC0tPgogICAgPGxvZ2dlciBuYW1lPSJuZXQuc3B5Lm1lbWNhY2hlZC5wcm90b2NvbC5hc2NpaS5Db2xsZWN0aW9uQ291bnRPcGVyYXRpb25JbXBsIiBhZGRpdGl2aXR5PSJmYWxzZSI+CiAgICAgICAgPGxldmVsIHZhbHVlPSJERUJVRyIgLz4KICAgICAgICA8YXBwZW5kZXItcmVmIHJlZj0iY29uc29sZSIgLz4KICAgIDwvbG9nZ2VyPgo=</text>
+        <text encoding="base64">CX0K</text>
       </register>
-      <register name="4" type="4">
-        <text>1</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQlyZXR1cm4gREVGQVVMVF9GUk9OVF9DQUNIRV9OQU1FOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CmNsYXNzIEFyY3VzU01HZXRUZXN0IHsK</text>
+        <text encoding="base64">CXB1YmxpYyBTdHJpbmcgZ2V0RnJvbnRDYWNoZU5hbWUoKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">CUBPdmVycmlkZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LmluamVjdC5JbmplY3Q7Cg==</text>
+        <text encoding="base64">CSAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSAqIEBzZWUgbmV0LnNweS5tZW1jYWNoZWQuQ29ubmVjdGlvbkZhY3RvcnkjZ2V0RnJvbnRDYWNoZU5hbWUoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudGVzdC5jb250ZXh0Lmp1bml0NC5TcHJpbmdKVW5pdDRDbGFzc1J1bm5lcjsK</text>
+        <text encoding="base64">CSAqIChub24tSmF2YWRvYykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
