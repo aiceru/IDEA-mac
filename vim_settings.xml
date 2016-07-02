@@ -156,6 +156,11 @@
         <mark key="^" line="10" column="59" />
         <mark key="." line="10" column="59" />
       </file>
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ConnectionFactory.java" timestamp="1467464638574">
+        <mark key="[" line="226" column="0" />
+        <mark key="]" line="226" column="0" />
+        <mark key="." line="226" column="0" />
+      </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/SetExist.java" timestamp="1464240640097">
         <mark key="[" line="28" column="37" />
         <mark key="]" line="28" column="39" />
@@ -344,6 +349,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/java/net/spy/memcached/ClientBaseCase.java" timestamp="1467464602160">
+        <mark key="[" line="237" column="0" />
+        <mark key="]" line="237" column="0" />
+        <mark key="." line="237" column="0" />
+      </file>
       <file name="$USER_HOME$/PrivateDev/TobysSpring/src/test/java/learningtest/templete/LineCallback.java" timestamp="1456642223669">
         <mark key="[" line="9" column="40" />
         <mark key="]" line="9" column="37" />
@@ -381,6 +391,11 @@
         <mark key="a" line="23" column="13" />
         <mark key="[" line="22" column="0" />
         <mark key="]" line="23" column="57" />
+      </file>
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ConnectionFactoryBuilder.java" timestamp="1467464731199">
+        <mark key="[" line="622" column="0" />
+        <mark key="]" line="622" column="0" />
+        <mark key="." line="622" column="0" />
       </file>
       <file name="$USER_HOME$/Work/arcus/Tests/defaultLoggerTest/src/HelloArcusTest.java" timestamp="1452755200330">
         <mark key="[" line="14" column="8" />
@@ -685,25 +700,25 @@
         <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlyZXR1cm4gREVGQVVMVF9GUk9OVF9DQUNIRV9OQU1FOwo=</text>
+        <text encoding="base64">CQkJCXJldHVybiBmcm9udENhY2hlTmFtZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXB1YmxpYyBTdHJpbmcgZ2V0RnJvbnRDYWNoZU5hbWUoKSB7Cg==</text>
+        <text encoding="base64">CQkJcHVibGljIFN0cmluZyBnZXRGcm9udENhY2hlTmFtZSgpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CUBPdmVycmlkZQo=</text>
+        <text encoding="base64">CQkJQE92ZXJyaWRlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CSAqLwo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CSAqIEBzZWUgbmV0LnNweS5tZW1jYWNoZWQuQ29ubmVjdGlvbkZhY3RvcnkjZ2V0RnJvbnRDYWNoZU5hbWUoKQo=</text>
+        <text encoding="base64">PDw8PDw8PCA5YWZkZTRhNTNiZTg4ZGM5NzUxZTEzOWJjYjEyMmQ3YjVlYTgwY2Q3Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CSAqIChub24tSmF2YWRvYykK</text>
+        <text encoding="base64">Pj4+Pj4+PiBGZWF0dXJlIDogQWRkZWQgQ29weU9uUmVhZCAvIENvcHlPbldyaXRlIHByb3BlcnRpZXMgdG8gQXJjdXMgZnJvbnQgY2FjaGUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
