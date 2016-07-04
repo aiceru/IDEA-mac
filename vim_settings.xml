@@ -60,6 +60,13 @@
         <mark key="." line="243" column="42" />
         <mark key="^" line="243" column="42" />
       </file>
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/CollectionUpdate.java" timestamp="1467621231656">
+        <mark key="a" line="42" column="6" />
+        <mark key="[" line="28" column="4" />
+        <mark key="]" line="28" column="5" />
+        <mark key="^" line="28" column="5" />
+        <mark key="." line="28" column="5" />
+      </file>
       <file name="$USER_HOME$/PrivateDev/TobysSpring/src/main/java/springbook/user/dao/CountingDaoFactory.java" timestamp="1455427108480">
         <mark key="[" line="11" column="28" />
         <mark key="]" line="14" column="14" />
@@ -667,43 +674,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBGZWF0dXJlIDogQWRkZWQgQ29weU9uUmVhZCAvIENvcHlPbldyaXRlIHByb3BlcnRpZXMgdG8gQXJjdXMgZnJvbnQgY2FjaGUK</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>reverse</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFRlc3RDYWNoZURBTyB0ZXN0Q2FjaGVEQU87CiAgICBSYW5kb20gcmFuZCA9IG5ldyBSYW5kb20oU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkpOwo=</text>
+        <text encoding="base64">CQkJaWYgKGVmbGFnVXBkYXRlLmdldEVsZW1lbnRGbGFnKCkubGVuZ3RoID4gRWxlbWVudEZsYWdGaWx0ZXIuTUFYX0VGTEFHX0xFTkdUSCkgewoJCQkJdGhyb3cgbmV3IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbigibGVuZ3RoIG9mIGVsZW1lbnQgZmxhZyBjYW5ub3QgZXhjZWVkICIKCQkJCQkJKyBFbGVtZW50RmxhZ0ZpbHRlci5NQVhfRUZMQUdfTEVOR1RIICsgIi4iKTsKCQkJfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBGZWF0dXJlIDogQWRkZWQgQ29weU9uUmVhZCAvIENvcHlPbldyaXRlIHByb3BlcnRpZXMgdG8gQXJjdXMgZnJvbnQgY2FjaGUK</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJCXJldHVybiBmcm9udENhY2hlTmFtZTsK</text>
+      <register name="4" type="4">
+        <text>e</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJcHVibGljIFN0cmluZyBnZXRGcm9udENhY2hlTmFtZSgpIHsK</text>
+      <register name="5" type="4">
+        <text>s</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJQE92ZXJyaWRlCg==</text>
+      <register name="6" type="4">
+        <text>l</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJCg==</text>
+      <register name="7" type="4">
+        <text>e</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCA5YWZkZTRhNTNiZTg4ZGM5NzUxZTEzOWJjYjEyMmQ3YjVlYTgwY2Q3Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBGZWF0dXJlIDogQWRkZWQgQ29weU9uUmVhZCAvIENvcHlPbldyaXRlIHByb3BlcnRpZXMgdG8gQXJjdXMgZnJvbnQgY2FjaGUK</text>
+      <register name="9" type="4">
+        <text>}</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
