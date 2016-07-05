@@ -3,19 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/CollectionOverflowAction.java" timestamp="1467641886170">
-        <mark key="'" line="68" column="22" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="81" column="33" />
-        <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/CollectionCreate.java" timestamp="1467642841598">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="33" column="40" />
-        <mark key="." line="34" column="0" />
-      </file>
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/CollectionOverflowAction.java" timestamp="1467641886170" />
       <file name="$USER_HOME$/arcus-getting-started/arcus-java-getting-started/src/test/java/HelloArcusTest.java" timestamp="1464695279220">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -41,6 +29,7 @@
         <mark key="]" line="101" column="56" />
         <mark key="." line="100" column="0" />
       </file>
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/ElementFlagUpdate.java" timestamp="1467685360806" />
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring/src/test/java/com/jam2in/arcus/spring/CopyOnReadTest.java" timestamp="1466995322680">
         <mark key="[" line="84" column="0" />
         <mark key="]" line="84" column="0" />
@@ -56,7 +45,6 @@
         <mark key="]" line="595" column="0" />
         <mark key="." line="595" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/collection/list/LopOverflowActionTest.java" timestamp="1467641778997" />
     </filemarks>
     <jumps>
       <jump line="145" column="32" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/protocol/BaseOperationImpl.java" />
