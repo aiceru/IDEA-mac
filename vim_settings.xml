@@ -15,9 +15,9 @@
         <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/MemcachedClient.java" timestamp="1464842280662">
-        <mark key="[" line="1075" column="0" />
-        <mark key="]" line="1075" column="0" />
-        <mark key="." line="1075" column="0" />
+        <mark key="[" line="1098" column="0" />
+        <mark key="]" line="1098" column="0" />
+        <mark key="." line="1098" column="0" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ConnectionFactory.java" timestamp="1467464638574">
         <mark key="[" line="201" column="0" />
@@ -156,7 +156,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>reverse</text>
+        <text>setCopy</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJdGhyb3cgbmV3IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbihvdmVyZmxvd0FjdGlvbiArICIgaXMgYXZhaWxhYmxlIG92ZXJmbG93IGFjdGlvbiBpbiBvbmx5IGxvcC4iKTsK</text>
@@ -193,9 +193,9 @@
       </register>
     </registers>
     <search>
-      <last-search>reverse</last-search>
+      <last-search>setCopy</last-search>
       <last-offset />
-      <last-pattern>reverse</last-pattern>
+      <last-pattern>setCopy</last-pattern>
       <last-replace>put</last-replace>
       <last-substitute>set</last-substitute>
       <last-dir>1</last-dir>
@@ -203,7 +203,6 @@
     </search>
     <history>
       <history-search>
-        <entry>s</entry>
         <entry>String</entry>
         <entry>asyncSopExist</entry>
         <entry>key</entry>
@@ -223,6 +222,7 @@
         <entry>set</entry>
         <entry>Reconne</entry>
         <entry>reverse</entry>
+        <entry>setCopy</entry>
       </history-search>
       <history-cmd>
         <entry>gg</entry>
