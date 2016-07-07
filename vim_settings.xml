@@ -20,11 +20,6 @@
         <mark key="]" line="1098" column="0" />
         <mark key="." line="1098" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ConnectionFactory.java" timestamp="1467464638574">
-        <mark key="[" line="201" column="0" />
-        <mark key="]" line="201" column="0" />
-        <mark key="." line="201" column="0" />
-      </file>
       <file name="$USER_HOME$/Work/arcus/tests/ArcusSMGetTest/lib/arcus-client-1.6.2-sources.jar!/net/spy/memcached/ArcusClient.java" timestamp="1467093664331">
         <mark key="'" line="1601" column="37" />
       </file>
@@ -45,11 +40,6 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ConnectionFactoryBuilder.java" timestamp="1467702951091">
-        <mark key="[" line="595" column="0" />
-        <mark key="]" line="595" column="0" />
-        <mark key="." line="595" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/3.1.0.RELEASE/spring-context-3.1.0.RELEASE-sources.jar!/org/springframework/cache/interceptor/DefaultKeyGenerator.java" timestamp="1467796345829">
         <mark key="'" line="47" column="32" />
