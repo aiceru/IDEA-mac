@@ -32,11 +32,11 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring/src/test/java/com/jam2in/arcus/spring/CopyOnReadTest.java" timestamp="1468224504905">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="17" column="1" />
-        <mark key="^" line="17" column="1" />
-        <mark key="." line="17" column="1" />
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring/src/test/java/com/jam2in/arcus/spring/CopyOnReadTest.java" timestamp="1468226345640">
+        <mark key="'" line="0" column="4" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/collection/btree/BopMutateTest.java" timestamp="1467971181771">
         <mark key="[" line="69" column="46" />
@@ -106,7 +106,6 @@
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/java/net/spy/memcached/ProtocolBaseCase.java" timestamp="1468219064810" />
     </filemarks>
     <jumps>
-      <jump line="25" column="17" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ops/CollectionOperationStatus.java" />
       <jump line="85" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/CollectionResponse.java" />
       <jump line="430" column="16" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/MemcachedConnection.java" />
       <jump line="42" column="13" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/nio/channels/ClosedChannelException.java" />
@@ -206,10 +205,11 @@
       <jump line="47" column="32" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/3.1.0.RELEASE/spring-context-3.1.0.RELEASE-sources.jar!/org/springframework/cache/interceptor/DefaultKeyGenerator.java" />
       <jump line="38" column="41" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/pom.xml" />
       <jump line="24" column="2" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring/src/main/java/com/navercorp/arcus/spring/cache/ArcusStringKey.java" />
+      <jump line="0" column="4" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring/src/test/java/com/jam2in/arcus/spring/CopyOnReadTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">CiAgQFRlc3QKICBwdWJsaWMgdm9pZCBhcmN1c1Rlc3QoKSB0aHJvd3MgRXhjZXB0aW9uIHsKCiAgICBBcmN1c0NhY2hlIGNhY2hlID0gbmV3IEFyY3VzQ2FjaGUoKTsKICAgIEFyY3VzQ2xpZW50RmFjdG9yeUJlYW4gYWZiID0gbmV3IEFyY3VzQ2xpZW50RmFjdG9yeUJlYW4oKTsKICAgIGFmYi5zZXRQb29sU2l6ZSg0KTsKICAgIGFmYi5zZXRTZXJ2aWNlQ29kZShzZXJ2aWNlQ29kZSk7CiAgICBhZmIuc2V0VXJsKGFyY3VzQWFkZHJlc3MpOwoKICAgIGNhY2hlLnNldEFyY3VzQ2xpZW50KGFmYi5nZXRPYmplY3QoKSk7CiAgICBjYWNoZS5zZXROYW1lKCJmdW5kU2VsZWN0RG9uYXRlTGlzdCIpOwogICAgY2FjaGUuc2V0U2VydmljZUlkKHNlcnZpY2VJZCk7CiAgICBEYXRhTWFwIGRhdGEgPSBuZXcgRGF0YU1hcCgpOwoKICAgIGRhdGEucHV0KCJUZXN0MSIsICIxIik7CiAgICBkYXRhLnB1dCgiVGVzdDIiLCAiMiIpOwogICAgZGF0YS5wdXQoIlRlc3QzIiwgIjMiKTsKICAgIGRhdGEucHV0KCJUZXN0NCIsICI0Iik7CgogICAgU3lzdGVtLm91dC5wcmludChkYXRhKTsKCiAgICBjYWNoZS5wdXQoZGF0YSwgIjEiKTsKICB9Ki8KCg==</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -221,34 +221,34 @@
         <text encoding="base64">CQkJdGhyb3cgbmV3IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbihvdmVyZmxvd0FjdGlvbiArICIgaXMgYXZhaWxhYmxlIG92ZXJmbG93IGFjdGlvbiBpbiBvbmx5IGxvcC4iKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">CiAgQFRlc3QKICBwdWJsaWMgdm9pZCBhcmN1c1Rlc3QoKSB0aHJvd3MgRXhjZXB0aW9uIHsKCiAgICBBcmN1c0NhY2hlIGNhY2hlID0gbmV3IEFyY3VzQ2FjaGUoKTsKICAgIEFyY3VzQ2xpZW50RmFjdG9yeUJlYW4gYWZiID0gbmV3IEFyY3VzQ2xpZW50RmFjdG9yeUJlYW4oKTsKICAgIGFmYi5zZXRQb29sU2l6ZSg0KTsKICAgIGFmYi5zZXRTZXJ2aWNlQ29kZShzZXJ2aWNlQ29kZSk7CiAgICBhZmIuc2V0VXJsKGFyY3VzQWFkZHJlc3MpOwoKICAgIGNhY2hlLnNldEFyY3VzQ2xpZW50KGFmYi5nZXRPYmplY3QoKSk7CiAgICBjYWNoZS5zZXROYW1lKCJmdW5kU2VsZWN0RG9uYXRlTGlzdCIpOwogICAgY2FjaGUuc2V0U2VydmljZUlkKHNlcnZpY2VJZCk7CiAgICBEYXRhTWFwIGRhdGEgPSBuZXcgRGF0YU1hcCgpOwoKICAgIGRhdGEucHV0KCJUZXN0MSIsICIxIik7CiAgICBkYXRhLnB1dCgiVGVzdDIiLCAiMiIpOwogICAgZGF0YS5wdXQoIlRlc3QzIiwgIjMiKTsKICAgIGRhdGEucHV0KCJUZXN0NCIsICI0Iik7CgogICAgU3lzdGVtLm91dC5wcmludChkYXRhKTsKCiAgICBjYWNoZS5wdXQoZGF0YSwgIjEiKTsKICB9Ki8KCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBpY2VydSBvbiAyMDE2LiA2LiAyNC4uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Kgo=</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBpY2VydSBvbiAyMDE2LiA2LiAyNC4uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Kgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNlcnZpY2VfQ09SLmdldFByb2R1Y3QoKQo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwdWJsaWMgdm9pZCBrZXlHZW5lcmF0b3JUZXN0KCkgewo=</text>
+        <text encoding="base64">ICAgIHNlcnZpY2VfQ09SLmdldFByb2R1Y3QoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBAVGVzdAo=</text>
+        <text encoding="base64">ICBwdWJsaWMgdm9pZCBrZXlHZW5lcmF0b3JUZXN0KCkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJCTxnb2FsPmFkZC10ZXN0LXNvdXJjZTwvZ29hbD4K</text>
+        <text encoding="base64">ICBAVGVzdAo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz53</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -302,8 +302,8 @@
         <entry>wq</entry>
         <entry>301</entry>
         <entry>209</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
