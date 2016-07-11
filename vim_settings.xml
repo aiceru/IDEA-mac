@@ -4,10 +4,10 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring/src/main/java/com/navercorp/arcus/spring/cache/StringKeyGenerator.java" timestamp="1468204652196">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-        <mark key="^" line="50" column="62" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="37" column="62" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/collection/BaseIntegrationTest.java" timestamp="1468216668212" />
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/pom.xml" timestamp="1468217270313">
@@ -32,11 +32,11 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring/src/test/java/com/jam2in/arcus/spring/CopyOnReadTest.java" timestamp="1468205400962">
-        <mark key="[" line="61" column="3" />
-        <mark key="]" line="65" column="26" />
-        <mark key="." line="65" column="26" />
-        <mark key="^" line="65" column="26" />
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring/src/test/java/com/jam2in/arcus/spring/CopyOnReadTest.java" timestamp="1468224504905">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="17" column="1" />
+        <mark key="^" line="17" column="1" />
+        <mark key="." line="17" column="1" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/collection/btree/BopMutateTest.java" timestamp="1467971181771">
         <mark key="[" line="69" column="46" />
@@ -104,12 +104,6 @@
         <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/java/net/spy/memcached/ProtocolBaseCase.java" timestamp="1468219064810" />
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring/src/main/java/com/navercorp/arcus/spring/cache/ArcusCache.java" timestamp="1468205295479">
-        <mark key="[" line="227" column="55" />
-        <mark key="]" line="227" column="72" />
-        <mark key="." line="227" column="72" />
-        <mark key="^" line="227" column="72" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="25" column="17" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ops/CollectionOperationStatus.java" />
@@ -215,10 +209,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkJCTxnb2FsPmFkZC10ZXN0LXNvdXJjZTwvZ29hbD4K</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U3RyaW5nIA==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>Xlint</text>
@@ -227,34 +221,34 @@
         <text encoding="base64">CQkJdGhyb3cgbmV3IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbihvdmVyZmxvd0FjdGlvbiArICIgaXMgYXZhaWxhYmxlIG92ZXJmbG93IGFjdGlvbiBpbiBvbmx5IGxvcC4iKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJCTxnb2FsPmFkZC10ZXN0LXNvdXJjZTwvZ29hbD4K</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBAQ2FjaGVhYmxlKHZhbHVlID0gImNhY2hlX0NPUiIpCg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBpY2VydSBvbiAyMDE2LiA2LiAyNC4uCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Kgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBAQ2FjaGVhYmxlKHZhbHVlID0gImNhY2hlX0NPUiIsICkK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJaW50IAo=</text>
+        <text encoding="base64">ICAgIHNlcnZpY2VfQ09SLmdldFByb2R1Y3QoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlrZXlTdHJpbmcgPSBrZXkudG9TdHJpbmcoKTsK</text>
+        <text encoding="base64">ICBwdWJsaWMgdm9pZCBrZXlHZW5lcmF0b3JUZXN0KCkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CSAqIAo=</text>
+        <text encoding="base64">ICBAVGVzdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CQkJCQkJCTxnb2FsPmFkZC10ZXN0LXNvdXJjZTwvZ29hbD4K</text>
       </register>
       <register name=":" type="4">
-        <text>209</text>
+        <text encoding="base64">JzwsJz53</text>
       </register>
     </registers>
     <search>
@@ -290,7 +284,6 @@
         <entry>Xlint</entry>
       </history-search>
       <history-cmd>
-        <entry>1654</entry>
         <entry>1776</entry>
         <entry>exit</entry>
         <entry>q!</entry>
@@ -307,9 +300,10 @@
         <entry>31,36s/set/put</entry>
         <entry>236</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>301</entry>
         <entry>209</entry>
+        <entry>w</entry>
+        <entry encoding="base64">JzwsJz53</entry>
       </history-cmd>
       <history-expr />
       <history-input />
