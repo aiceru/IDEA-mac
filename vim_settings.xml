@@ -19,6 +19,7 @@
         <mark key="." line="51" column="0" />
         <mark key="^" line="50" column="62" />
       </file>
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/collection/BaseIntegrationTest.java" timestamp="1468216668212" />
       <file name="/Dummy.txt" timestamp="1468215278530">
         <mark key="[" line="0" column="0" />
       </file>
@@ -46,6 +47,9 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/ArcusClientFrontCacheTest.java" timestamp="1468216794905">
+        <mark key="v" line="26" column="12" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ops/OperationException.java" timestamp="1467971221042">
         <mark key="[" line="10" column="2" />
@@ -102,7 +106,7 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/java/net/spy/memcached/ProtocolBaseCase.java" timestamp="1468214665350" />
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/java/net/spy/memcached/ProtocolBaseCase.java" timestamp="1468216697516" />
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring/src/main/java/com/navercorp/arcus/spring/cache/ArcusCache.java" timestamp="1468205295479">
         <mark key="[" line="227" column="55" />
         <mark key="]" line="227" column="72" />
