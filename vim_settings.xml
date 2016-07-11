@@ -13,11 +13,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring/src/main/java/com/navercorp/arcus/spring/cache/StringKeyGenerator.java" timestamp="1468201847969">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="47" column="4" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring/src/main/java/com/navercorp/arcus/spring/cache/StringKeyGenerator.java" timestamp="1468204652196">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="50" column="62" />
       </file>
       <file name="/Dummy.txt" timestamp="1467970267512">
         <mark key="[" line="0" column="0" />
@@ -53,10 +53,11 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring/src/test/java/com/jam2in/arcus/spring/CopyOnReadTest.java" timestamp="1468200377385">
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring/src/test/java/com/jam2in/arcus/spring/CopyOnReadTest.java" timestamp="1468205400962">
+        <mark key="[" line="61" column="3" />
+        <mark key="]" line="65" column="26" />
+        <mark key="." line="65" column="26" />
+        <mark key="^" line="65" column="26" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring/src/main/java/com/navercorp/arcus/spring/ArcusClientFactoryBean.java" timestamp="1467701702711">
         <mark key="[" line="24" column="0" />
@@ -83,18 +84,29 @@
         <mark key="^" line="30" column="3" />
         <mark key="." line="30" column="3" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring/src/main/java/com/navercorp/arcus/spring/cache/ArcusStringKey.java" timestamp="1468202571293">
-        <mark key="'" line="32" column="2" />
-        <mark key="[" line="12" column="3" />
-        <mark key="]" line="13" column="1" />
-        <mark key="." line="13" column="1" />
-        <mark key="^" line="13" column="1" />
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring/src/main/java/com/navercorp/arcus/spring/cache/ArcusStringKey.java" timestamp="1468204302675">
+        <mark key="'" line="29" column="2" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="19" column="20" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/btreesmget/ByteArrayBKeySMGetErrorTest.java" timestamp="1467970915650">
         <mark key="[" line="235" column="58" />
         <mark key="]" line="235" column="69" />
         <mark key="^" line="235" column="69" />
         <mark key="." line="235" column="69" />
+      </file>
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring/src/test/java/com/jam2in/arcus/spring/Service_COR.java" timestamp="1468205632118">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring/src/main/java/com/navercorp/arcus/spring/cache/ArcusCache.java" timestamp="1468205295479">
+        <mark key="[" line="227" column="55" />
+        <mark key="]" line="227" column="72" />
+        <mark key="." line="227" column="72" />
+        <mark key="^" line="227" column="72" />
       </file>
     </filemarks>
     <jumps>
@@ -201,10 +213,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text encoding="base64">U3RyaW5nIA==</text>
       </register>
       <register name="/" type="4">
         <text>Xlint</text>
@@ -213,31 +225,31 @@
         <text encoding="base64">CQkJdGhyb3cgbmV3IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbihvdmVyZmxvd0FjdGlvbiArICIgaXMgYXZhaWxhYmxlIG92ZXJmbG93IGFjdGlvbiBpbiBvbmx5IGxvcC4iKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICBAQ2FjaGVhYmxlKHZhbHVlID0gImNhY2hlX0NPUiIpCg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwdWJsaWMgY2xhc3MgQXJjdXNTdHJpbmdLZXkgewo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgY2xhc3MgQXJjdXNTdHJpbmdLZXkgewogICAgICAgIHByaXZhdGUgU3RyaW5nIHN0cmluZ0tleSA9IG51bGw7CiAgICAgICAgcHJpdmF0ZSBpbnQgaGFzaCA9IDA7CgogICAgICAgIHB1YmxpYyBTdHJpbmcgZ2V0U3RyaW5nS2V5KCkgewogICAgICAgICAgICByZXR1cm4gc3RyaW5nS2V5OwogICAgICAgIH0KCiAgICAgICAgcHVibGljIHZvaWQgc2V0U3RyaW5nS2V5KFN0cmluZyBzdHJpbmdLZXkpIHsKICAgICAgICAgICAgdGhpcy5zdHJpbmdLZXkgPSBzdHJpbmdLZXk7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgaW50IGdldEhhc2goKSB7CiAgICAgICAgICAgIHJldHVybiBoYXNoOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIHZvaWQgc2V0SGFzaChpbnQgaGFzaCkgewogICAgICAgICAgICB0aGlzLmhhc2ggPSBoYXNoOwogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICBAQ2FjaGVhYmxlKHZhbHVlID0gImNhY2hlX0NPUiIsICkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQk8c2hvd0RlcHJlY2F0aW9uPnRydWU8L3Nob3dEZXByZWNhdGlvbj4K</text>
+        <text encoding="base64">CQkJaW50IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQk8L2NvbXBpbGVyQXJncz4K</text>
+        <text encoding="base64">CQlrZXlTdHJpbmcgPSBrZXkudG9TdHJpbmcoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJPGFyZz4tWGxpbnQ6dW5jaGVja2VkPC9hcmc+Cg==</text>
+        <text encoding="base64">CSAqIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQk8Y29tcGlsZXJBcmdzPgo=</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQk8c2hvd1dhcm5pbmdzPnRydWU8L3Nob3dXYXJuaW5ncz4K</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
