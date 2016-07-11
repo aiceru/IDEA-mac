@@ -81,9 +81,6 @@
         <mark key="]" line="13" column="35" />
         <mark key="." line="13" column="35" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/tests/ArcusSMGetTest/lib/arcus-client-1.6.2-sources.jar!/net/spy/memcached/ArcusClient.java" timestamp="1467093664331">
-        <mark key="'" line="1601" column="37" />
-      </file>
       <file name="$USER_HOME$/Work/arcus/tests/ArcusSMGetTest/src/TestCacheDAOTestIt.java" timestamp="1467084292374">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -94,15 +91,13 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/3.1.0.RELEASE/spring-context-3.1.0.RELEASE-sources.jar!/org/springframework/cache/interceptor/DefaultKeyGenerator.java" timestamp="1467796345829">
-        <mark key="'" line="47" column="32" />
-      </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/internal/CheckedOperationTimeoutException.java" timestamp="1467971392299">
         <mark key="[" line="30" column="2" />
         <mark key="]" line="30" column="3" />
         <mark key="^" line="30" column="3" />
         <mark key="." line="30" column="3" />
       </file>
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/bulkoperation/BulkSetTest.java" timestamp="1468221416281" />
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring/src/test/java/com/jam2in/arcus/spring/Service_COR.java" timestamp="1468205632118">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -259,7 +254,7 @@
         <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>301</text>
       </register>
     </registers>
     <search>
@@ -295,7 +290,6 @@
         <entry>Xlint</entry>
       </history-search>
       <history-cmd>
-        <entry>=G</entry>
         <entry>1031g</entry>
         <entry>1654</entry>
         <entry>1776</entry>
@@ -315,6 +309,7 @@
         <entry>236</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>301</entry>
       </history-cmd>
       <history-expr />
       <history-input />
