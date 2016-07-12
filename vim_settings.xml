@@ -268,7 +268,7 @@
         <text encoding="base64">ICBwdWJsaWMgdm9pZCBrZXlHZW5lcmF0b3JUZXN0KCkgewo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>362</text>
       </register>
     </registers>
     <search>
@@ -304,7 +304,6 @@
         <entry>Xlint</entry>
       </history-search>
       <history-cmd>
-        <entry>1776</entry>
         <entry>exit</entry>
         <entry>q!</entry>
         <entry>2</entry>
@@ -324,6 +323,7 @@
         <entry>209</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
+        <entry>362</entry>
       </history-cmd>
       <history-expr />
       <history-input />
