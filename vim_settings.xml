@@ -69,6 +69,12 @@
         <mark key="^" line="235" column="69" />
         <mark key="." line="235" column="69" />
       </file>
+      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/bulkoperation/BopInsertBulkTest.java" timestamp="1468304562616">
+        <mark key="[" line="342" column="23" />
+        <mark key="]" line="342" column="22" />
+        <mark key="^" line="342" column="22" />
+        <mark key="." line="342" column="22" />
+      </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/ArcusClientConnectTest.java" timestamp="1468218533774" />
       <file name="$USER_HOME$/arcus-getting-started/arcus-java-getting-started/src/test/java/HelloArcusTest.java" timestamp="1464695279220">
         <mark key="[" line="18" column="0" />
@@ -268,7 +274,7 @@
         <text encoding="base64">ICBwdWJsaWMgdm9pZCBrZXlHZW5lcmF0b3JUZXN0KCkgewo=</text>
       </register>
       <register name=":" type="4">
-        <text>362</text>
+        <text>129</text>
       </register>
     </registers>
     <search>
@@ -304,7 +310,6 @@
         <entry>Xlint</entry>
       </history-search>
       <history-cmd>
-        <entry>exit</entry>
         <entry>q!</entry>
         <entry>2</entry>
         <entry>gg=G</entry>
@@ -324,6 +329,7 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
         <entry>362</entry>
+        <entry>129</entry>
       </history-cmd>
       <history-expr />
       <history-input />
