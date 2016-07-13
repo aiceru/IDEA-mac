@@ -39,6 +39,7 @@
         <mark key="." line="29" column="53" />
         <mark key="^" line="29" column="53" />
       </file>
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/manual/net/spy/memcached/emptycollection/PipedBulkInsertListWithAttrTest.java" timestamp="1468393195662" />
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/collection/btree/BopMutateTest.java" timestamp="1467971181771">
         <mark key="[" line="69" column="46" />
         <mark key="]" line="69" column="45" />
@@ -276,7 +277,7 @@
         <text encoding="base64">ICBwdWJsaWMgdm9pZCBrZXlHZW5lcmF0b3JUZXN0KCkgewo=</text>
       </register>
       <register name=":" type="4">
-        <text>129</text>
+        <text>84</text>
       </register>
     </registers>
     <search>
@@ -312,7 +313,6 @@
         <entry>Xlint</entry>
       </history-search>
       <history-cmd>
-        <entry>q!</entry>
         <entry>2</entry>
         <entry>gg=G</entry>
         <entry>set cursorLine</entry>
@@ -332,6 +332,7 @@
         <entry>w</entry>
         <entry>362</entry>
         <entry>129</entry>
+        <entry>84</entry>
       </history-cmd>
       <history-expr />
       <history-input />
