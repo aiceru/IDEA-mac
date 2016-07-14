@@ -22,6 +22,7 @@
       <file name="/a.dummy" timestamp="1468477361979">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/java/net/spy/memcached/ClientBaseCase.java" timestamp="1468482799697" />
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/manual/net/spy/memcached/bulkoperation/BopInsertBulkTest.java" timestamp="1468477896301">
         <mark key="'" line="32" column="13" />
         <mark key="[" line="360" column="21" />
@@ -52,8 +53,8 @@
         <mark key="^" line="69" column="45" />
         <mark key="." line="69" column="45" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/pom.xml" timestamp="1468470954044">
-        <mark key="'" line="179" column="34" />
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/pom.xml" timestamp="1468482820751">
+        <mark key="'" line="236" column="6" />
         <mark key="[" line="194" column="0" />
         <mark key="]" line="194" column="0" />
         <mark key="." line="194" column="0" />
@@ -154,11 +155,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="15" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/protocol/ascii/CollectionDeleteOperationImpl.java" />
-      <jump line="79" column="17" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/MemcachedClientIF.java" />
-      <jump line="28" column="17" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ops/CollectionOperationStatus.java" />
-      <jump line="24" column="12" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/CollectionResponse.java" />
-      <jump line="74" column="13" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/internal/CollectionFuture.java" />
       <jump line="1073" column="20" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClientIF.java" />
       <jump line="189" column="33" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClientPool.java" />
       <jump line="1015" column="28" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/MemcachedClient.java" />
@@ -254,6 +250,11 @@
       <jump line="179" column="34" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/pom.xml" />
       <jump line="217" column="5" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/util/concurrent/CountDownLatch.java" />
       <jump line="47" column="13" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/main/java/net/spy/memcached/CacheManager.java" />
+      <jump line="20" column="8" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/pom.xml" />
+      <jump line="102" column="4" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/pom.xml" />
+      <jump line="191" column="38" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/pom.xml" />
+      <jump line="227" column="5" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/pom.xml" />
+      <jump line="236" column="6" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -263,7 +264,7 @@
         <text>I</text>
       </register>
       <register name="/" type="4">
-        <text>createArcusClient</text>
+        <text>distri</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJdGhyb3cgbmV3IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbihvdmVyZmxvd0FjdGlvbiArICIgaXMgYXZhaWxhYmxlIG92ZXJmbG93IGFjdGlvbiBpbiBvbmx5IGxvcC4iKTsK</text>
@@ -300,9 +301,9 @@
       </register>
     </registers>
     <search>
-      <last-search>createArcusClient</last-search>
+      <last-search>distri</last-search>
       <last-offset />
-      <last-pattern>createArcusClient</last-pattern>
+      <last-pattern>distri</last-pattern>
       <last-replace>put</last-replace>
       <last-substitute>set</last-substitute>
       <last-dir>1</last-dir>
@@ -310,7 +311,6 @@
     </search>
     <history>
       <history-search>
-        <entry>org.apache</entry>
         <entry>SetExist</entry>
         <entry>piped</entry>
         <entry>Piped</entry>
@@ -330,6 +330,7 @@
         <entry>surefire</entry>
         <entry>await</entry>
         <entry>createArcusClient</entry>
+        <entry>distri</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
