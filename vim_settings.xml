@@ -28,12 +28,12 @@
       <file name="/a.dummy" timestamp="1468477361979">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/java/net/spy/memcached/ClientBaseCase.java" timestamp="1468567372823">
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/java/net/spy/memcached/ClientBaseCase.java" timestamp="1468568423078">
         <mark key="'" line="265" column="16" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="58" />
-        <mark key="^" line="275" column="16" />
-        <mark key="." line="68" column="0" />
+        <mark key="[" line="309" column="8" />
+        <mark key="]" line="309" column="11" />
+        <mark key="^" line="309" column="11" />
+        <mark key="." line="309" column="11" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/manual/net/spy/memcached/bulkoperation/BopInsertBulkTest.java" timestamp="1468477896301">
         <mark key="'" line="32" column="13" />
@@ -120,7 +120,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1468567435942">
+      <file name="/Dummy.txt" timestamp="1468568168771">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring/pom.xml" timestamp="1468229059475">
@@ -180,7 +180,7 @@
         <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/java/net/spy/memcached/ProtocolBaseCase.java" timestamp="1468219064810" />
-      <file name="/fragment.java" timestamp="1468564448978">
+      <file name="/fragment.java" timestamp="1468568168767">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring/src/test/java/com/jam2in/arcus/spring/Service_noCOR.java" timestamp="1468233737027">
