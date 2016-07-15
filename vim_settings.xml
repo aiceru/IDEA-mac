@@ -27,12 +27,12 @@
       <file name="/a.dummy" timestamp="1468477361979">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/java/net/spy/memcached/ClientBaseCase.java" timestamp="1468563158294">
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/java/net/spy/memcached/ClientBaseCase.java" timestamp="1468564501655">
         <mark key="'" line="265" column="16" />
-        <mark key="[" line="307" column="0" />
-        <mark key="]" line="307" column="0" />
+        <mark key="[" line="308" column="0" />
+        <mark key="]" line="308" column="0" />
         <mark key="^" line="275" column="16" />
-        <mark key="." line="307" column="0" />
+        <mark key="." line="308" column="0" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/manual/net/spy/memcached/bulkoperation/BopInsertBulkTest.java" timestamp="1468477896301">
         <mark key="'" line="32" column="13" />
@@ -103,11 +103,11 @@
         <mark key="." line="12" column="25" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/ArcusClientConnectTest.java" timestamp="1468218533774" />
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/java/net/spy/memcached/ObserverTest.java" timestamp="1468560951573">
-        <mark key="[" line="49" column="7" />
-        <mark key="]" line="49" column="6" />
-        <mark key="^" line="49" column="6" />
-        <mark key="." line="49" column="6" />
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/java/net/spy/memcached/ObserverTest.java" timestamp="1468564177417">
+        <mark key="[" line="55" column="3" />
+        <mark key="]" line="55" column="4" />
+        <mark key="^" line="55" column="4" />
+        <mark key="." line="55" column="4" />
       </file>
       <file name="$USER_HOME$/arcus-getting-started/arcus-java-getting-started/src/test/java/HelloArcusTest.java" timestamp="1464695279220">
         <mark key="[" line="18" column="0" />
@@ -119,7 +119,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1468550875525">
+      <file name="/Dummy.txt" timestamp="1468564448961">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring/pom.xml" timestamp="1468229059475">
@@ -179,7 +179,7 @@
         <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/java/net/spy/memcached/ProtocolBaseCase.java" timestamp="1468219064810" />
-      <file name="/fragment.java" timestamp="1468550875546">
+      <file name="/fragment.java" timestamp="1468564448978">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring/src/test/java/com/jam2in/arcus/spring/Service_noCOR.java" timestamp="1468233737027">
@@ -293,7 +293,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJY2xpZW50ID0gbmV3IEFyY3VzQ2xpZW50KGNmYi5idWlsZCgpLCBBZGRyVXRpbC5nZXRBZGRyZXNzZXMoQVJDVVNfSE9TVCkpOwo=</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">aW5pdCA=</text>
@@ -305,31 +305,31 @@
         <text encoding="base64">CQkJCUNvbGxlY3Rpb248Q29ubmVjdGlvbk9ic2VydmVyPiBvYnMpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJY2xpZW50ID0gbmV3IEFyY3VzQ2xpZW50KGNmYi5idWlsZCgpLCBBZGRyVXRpbC5nZXRBZGRyZXNzZXMoQVJDVVNfSE9TVCkpOwo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">CQl9Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQlpZihjZmIub2JzZXJ2ZXJzID09IG51bGwpIHsK</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkJY2xpZW50ID0gbmV3IEFyY3VzQ2xpZW50KGNmYi5idWlsZCgpLCBBZGRyVXRpbC5nZXRBZGRyZXNzZXMoQVJDVVNfSE9TVCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCXJldHVybiAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJcHVibGljIENvbGxlY3Rpb248Q29ubmVjdGlvbk9ic2VydmVyPiBnZXRJbml0aWFsT2JzZXJ2ZXJzKCkgewo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJQE92ZXJyaWRlCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">CQkJCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJfQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJCXJldHVybiAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJcHVibGljIENvbGxlY3Rpb248Q29ubmVjdGlvbk9ic2VydmVyPiBnZXRJbml0aWFsT2JzZXJ2ZXJzKCkgewo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJQE92ZXJyaWRlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
