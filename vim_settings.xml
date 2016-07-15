@@ -14,8 +14,8 @@
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="57" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/main/java/net/spy/memcached/CacheManager.java" timestamp="1468486469052">
-        <mark key="'" line="245" column="5" />
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/main/java/net/spy/memcached/CacheManager.java" timestamp="1468544944787">
+        <mark key="'" line="433" column="8" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ops/KeyedOperation.java" timestamp="1467971307929">
         <mark key="[" line="8" column="0" />
@@ -26,7 +26,7 @@
       <file name="/a.dummy" timestamp="1468477361979">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/java/net/spy/memcached/ClientBaseCase.java" timestamp="1468486613119">
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/java/net/spy/memcached/ClientBaseCase.java" timestamp="1468545024483">
         <mark key="[" line="255" column="45" />
         <mark key="]" line="256" column="33" />
         <mark key="^" line="256" column="33" />
@@ -153,7 +153,7 @@
         <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/java/net/spy/memcached/ProtocolBaseCase.java" timestamp="1468219064810" />
-      <file name="/fragment.java" timestamp="1468485697343">
+      <file name="/fragment.java" timestamp="1468544960782">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring/src/test/java/com/jam2in/arcus/spring/Service_noCOR.java" timestamp="1468233737027">
@@ -164,7 +164,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1015" column="28" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/MemcachedClient.java" />
       <jump line="99" column="31" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/internal/BulkGetFuture.java" />
       <jump line="129" column="31" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/internal/BulkGetFuture.java" />
       <jump line="43" column="0" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/CollectionDelete.java" />
@@ -264,6 +263,7 @@
       <jump line="236" column="6" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/pom.xml" />
       <jump line="114" column="17" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/main/java/net/spy/memcached/CacheManager.java" />
       <jump line="245" column="5" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/main/java/net/spy/memcached/CacheManager.java" />
+      <jump line="433" column="8" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/main/java/net/spy/memcached/CacheManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -273,7 +273,7 @@
         <text>nit</text>
       </register>
       <register name="/" type="4">
-        <text>createArcus</text>
+        <text encoding="base64">XDxzZXRJbml0aWFsT2JzZXJ2ZXJzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CXByaXZhdGUgQ29sbGVjdGlvbjxDb25uZWN0aW9uT2JzZXJ2ZXI+IGluaXRpYWxPYnNlcnZlcnMK</text>
@@ -310,9 +310,9 @@
       </register>
     </registers>
     <search>
-      <last-search>createArcus</last-search>
+      <last-search encoding="base64">XDxzZXRJbml0aWFsT2JzZXJ2ZXJzXD4=</last-search>
       <last-offset />
-      <last-pattern>createArcus</last-pattern>
+      <last-pattern encoding="base64">XDxzZXRJbml0aWFsT2JzZXJ2ZXJzXD4=</last-pattern>
       <last-replace>put</last-replace>
       <last-substitute>set</last-substitute>
       <last-dir>1</last-dir>
@@ -320,7 +320,6 @@
     </search>
     <history>
       <history-search>
-        <entry>asyncBopInsertBulk</entry>
         <entry>synthetic</entry>
         <entry>prevChildren</entry>
         <entry>service1.setProduct(</entry>
@@ -340,6 +339,7 @@
         <entry>grace</entry>
         <entry>graceful</entry>
         <entry>createArcus</entry>
+        <entry encoding="base64">XDxzZXRJbml0aWFsT2JzZXJ2ZXJzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
