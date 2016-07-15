@@ -17,10 +17,6 @@
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/java/net/spy/memcached/LongClientTest.java" timestamp="1468572333118">
         <mark key="'" line="18" column="13" />
-        <mark key="[" line="26" column="13" />
-        <mark key="]" line="26" column="38" />
-        <mark key="^" line="26" column="38" />
-        <mark key="." line="26" column="38" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/main/java/net/spy/memcached/CacheManager.java" timestamp="1468562034673">
         <mark key="a" line="431" column="5" />
@@ -161,11 +157,11 @@
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClientIF.java" timestamp="1468374614051" />
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/java/net/spy/memcached/ProtocolBaseCase.java" timestamp="1468571964392">
-        <mark key="'" line="693" column="6" />
-        <mark key="[" line="580" column="0" />
-        <mark key="]" line="580" column="0" />
+        <mark key="'" line="698" column="6" />
+        <mark key="[" line="585" column="0" />
+        <mark key="]" line="585" column="0" />
         <mark key="^" line="579" column="61" />
-        <mark key="." line="580" column="0" />
+        <mark key="." line="585" column="0" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/main/java/net/spy/memcached/DefaultConnectionFactory.java" timestamp="1468565173428">
         <mark key="'" line="247" column="6" />
