@@ -21,12 +21,12 @@
       <file name="/a.dummy" timestamp="1468477361979">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/java/net/spy/memcached/ClientBaseCase.java" timestamp="1468552681914">
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/java/net/spy/memcached/ClientBaseCase.java" timestamp="1468558455409">
         <mark key="'" line="265" column="16" />
-        <mark key="[" line="309" column="8" />
-        <mark key="]" line="309" column="9" />
-        <mark key="^" line="309" column="9" />
-        <mark key="." line="309" column="9" />
+        <mark key="[" line="141" column="58" />
+        <mark key="]" line="141" column="58" />
+        <mark key="^" line="141" column="58" />
+        <mark key="." line="141" column="58" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/manual/net/spy/memcached/bulkoperation/BopInsertBulkTest.java" timestamp="1468477896301">
         <mark key="'" line="32" column="13" />
@@ -273,7 +273,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlUaHJlYWQuc2xlZXAoNTAwMCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>isAlive</text>
@@ -285,22 +285,22 @@
         <text encoding="base64">CQkJCUNvbGxlY3Rpb248Q29ubmVjdGlvbk9ic2VydmVyPiBvYnMpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlUaHJlYWQuc2xlZXAoNTAwMCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQljbGllbnQuCg==</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlUaHJlYWQuc2xlZXAoMTAwMEwpOwo=</text>
+        <text encoding="base64">CQkJCQkJCQlzdXBlci5nZXRJbml0aWFsT2JzZXJ2ZXJzKCkgOiBDRkIuZ2V0SW5pdGlhbE9ic2VydmVycygpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCXJldHVybiBpbml0aWFsT2JzZXJ2ZXJzOwo=</text>
+        <text encoding="base64">CQkJCXJldHVybiBDRkIuZ2V0SW5pdGlhbE9ic2VydmVycygpID09IG51bGwgPwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlwcml2YXRlIENvbGxlY3Rpb248Q29ubmVjdGlvbk9ic2VydmVyPiBvYnM7Cg==</text>
+        <text encoding="base64">CQkJcHVibGljIENvbGxlY3Rpb248Q29ubmVjdGlvbk9ic2VydmVyPiBnZXRJbml0aWFsT2JzZXJ2ZXJzKCkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlwdWJsaWMgQ29sbGVjdGlvbjxDb25uZWN0aW9uT2JzZXJ2ZXI+IGluaXRpYWxPYnNlcnZlcnM7Cg==</text>
+        <text encoding="base64">CQkJQE92ZXJyaWRlCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -309,7 +309,7 @@
         <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJcmV0dXJuIHRoaXM7Cg==</text>
+        <text encoding="base64">CQkJcmV0dXJuIG9ic2VydmVyczsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
