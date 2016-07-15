@@ -27,11 +27,11 @@
       <file name="/a.dummy" timestamp="1468477361979">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/java/net/spy/memcached/ClientBaseCase.java" timestamp="1468547072353">
-        <mark key="[" line="72" column="59" />
-        <mark key="]" line="72" column="59" />
-        <mark key="^" line="72" column="59" />
-        <mark key="." line="72" column="59" />
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/java/net/spy/memcached/ClientBaseCase.java" timestamp="1468547961604">
+        <mark key="[" line="279" column="59" />
+        <mark key="]" line="279" column="42" />
+        <mark key="^" line="279" column="42" />
+        <mark key="." line="279" column="42" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/manual/net/spy/memcached/bulkoperation/BopInsertBulkTest.java" timestamp="1468477896301">
         <mark key="'" line="32" column="13" />
@@ -148,8 +148,8 @@
         <mark key="^" line="39" column="29" />
         <mark key="." line="39" column="29" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/main/java/net/spy/memcached/DefaultConnectionFactory.java" timestamp="1468545417692">
-        <mark key="'" line="199" column="15" />
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/main/java/net/spy/memcached/DefaultConnectionFactory.java" timestamp="1468547727801">
+        <mark key="'" line="199" column="9" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring/src/test/resources/copy.on.read.test.xml" timestamp="1468233977695">
         <mark key="[" line="13" column="25" />
@@ -279,7 +279,7 @@
       <jump line="114" column="17" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/main/java/net/spy/memcached/CacheManager.java" />
       <jump line="245" column="5" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/main/java/net/spy/memcached/CacheManager.java" />
       <jump line="433" column="8" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/main/java/net/spy/memcached/CacheManager.java" />
-      <jump line="199" column="15" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/main/java/net/spy/memcached/DefaultConnectionFactory.java" />
+      <jump line="199" column="9" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/main/java/net/spy/memcached/DefaultConnectionFactory.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -289,7 +289,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>getInitialO</text>
+        <text>getInitialOb</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCUNvbGxlY3Rpb248Q29ubmVjdGlvbk9ic2VydmVyPiBvYnMpIHsK</text>
@@ -326,9 +326,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getInitialO</last-search>
+      <last-search>getInitialOb</last-search>
       <last-offset />
-      <last-pattern>getInitialO</last-pattern>
+      <last-pattern>getInitialOb</last-pattern>
       <last-replace>put</last-replace>
       <last-substitute>set</last-substitute>
       <last-dir>1</last-dir>
@@ -336,7 +336,6 @@
     </search>
     <history>
       <history-search>
-        <entry>prevChildren</entry>
         <entry>service1.setProduct(</entry>
         <entry>arcusClientWithFrontCache</entry>
         <entry>cache.getArcusClient()</entry>
@@ -356,9 +355,9 @@
         <entry>createArcus</entry>
         <entry encoding="base64">XDxzZXRJbml0aWFsT2JzZXJ2ZXJzXD4=</entry>
         <entry>getInitialO</entry>
+        <entry>getInitialOb</entry>
       </history-search>
       <history-cmd>
-        <entry>2</entry>
         <entry>gg=G</entry>
         <entry>set cursorLine</entry>
         <entry>%s/String/Object/g</entry>
@@ -377,6 +376,7 @@
         <entry>362</entry>
         <entry>129</entry>
         <entry>84</entry>
+        <entry>266</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
