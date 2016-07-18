@@ -3,8 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/main/java/net/spy/memcached/ConnectionFactoryBuilder.java" timestamp="1468812649384">
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/main/java/net/spy/memcached/ConnectionFactoryBuilder.java" timestamp="1468816357392">
         <mark key="'" line="39" column="13" />
+        <mark key="[" line="505" column="15" />
+        <mark key="]" line="505" column="15" />
+        <mark key="." line="505" column="15" />
+        <mark key="^" line="505" column="19" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/java/net/spy/memcached/LongClientTest.java" timestamp="1468576023090">
         <mark key="'" line="18" column="13" />
@@ -23,13 +27,13 @@
       <file name="/a.dummy" timestamp="1468569799780">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/java/net/spy/memcached/ClientBaseCase.java" timestamp="1468576199314">
-        <mark key="a" line="77" column="2" />
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/java/net/spy/memcached/ClientBaseCase.java" timestamp="1468816568964">
+        <mark key="a" line="257" column="2" />
         <mark key="'" line="265" column="16" />
-        <mark key="[" line="87" column="76" />
-        <mark key="]" line="87" column="75" />
-        <mark key="^" line="87" column="75" />
-        <mark key="." line="87" column="75" />
+        <mark key="[" line="95" column="31" />
+        <mark key="]" line="95" column="56" />
+        <mark key="^" line="95" column="56" />
+        <mark key="." line="95" column="56" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/main/java/net/spy/memcached/MemcachedClient.java" timestamp="1468577899955">
         <mark key="'" line="188" column="19" />
@@ -62,12 +66,12 @@
         <mark key="^" line="235" column="69" />
         <mark key="." line="235" column="69" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/java/net/spy/memcached/QueueOverflowTest.java" timestamp="1468812806561">
-        <mark key="'" line="63" column="8" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
-        <mark key="^" line="64" column="7" />
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/java/net/spy/memcached/QueueOverflowTest.java" timestamp="1468815958733">
+        <mark key="'" line="73" column="4" />
+        <mark key="[" line="75" column="17" />
+        <mark key="]" line="75" column="27" />
+        <mark key="." line="75" column="27" />
+        <mark key="^" line="75" column="27" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/.travis.yml" timestamp="1468571511177">
         <mark key="[" line="12" column="26" />
@@ -111,15 +115,21 @@
         <mark key="^" line="579" column="29" />
         <mark key="." line="585" column="0" />
       </file>
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/main/java/net/spy/memcached/ConnectionFactory.java" timestamp="1468816340817">
+        <mark key="[" line="36" column="41" />
+        <mark key="]" line="63" column="56" />
+        <mark key="." line="63" column="56" />
+        <mark key="^" line="63" column="56" />
+      </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/manual/net/spy/memcached/btreesmget/ByteArrayBKeySMGetTest.java" timestamp="1468477399928">
         <mark key="[" line="557" column="53" />
         <mark key="]" line="557" column="54" />
         <mark key="." line="557" column="54" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/collection/BaseIntegrationTest.java" timestamp="1468216668212" />
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/main/java/net/spy/memcached/CacheManager.java" timestamp="1468562034673">
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/main/java/net/spy/memcached/CacheManager.java" timestamp="1468815596595">
         <mark key="a" line="431" column="5" />
-        <mark key="'" line="145" column="8" />
+        <mark key="'" line="118" column="9" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ops/KeyedOperation.java" timestamp="1467971307929">
         <mark key="[" line="8" column="0" />
@@ -208,8 +218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="742" column="68" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" />
-      <jump line="743" column="16" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" />
       <jump line="277" column="23" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/MemcachedConnection.java" />
       <jump line="230" column="4" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/BulkService.java" />
       <jump line="120" column="13" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/MemcachedClient.java" />
@@ -308,55 +316,57 @@
       <jump line="339" column="0" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/main/java/net/spy/memcached/ConnectionFactoryBuilder.java" />
       <jump line="39" column="13" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/main/java/net/spy/memcached/ConnectionFactoryBuilder.java" />
       <jump line="63" column="8" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/java/net/spy/memcached/QueueOverflowTest.java" />
+      <jump line="118" column="9" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/main/java/net/spy/memcached/CacheManager.java" />
+      <jump line="73" column="4" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/java/net/spy/memcached/QueueOverflowTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQl9Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>len</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>build</text>
+        <text>run</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQl0aGlzKERFRkFVTFRfT1BfUVVFVUVfTEVOLCBERUZBVUxUX1JFQURfQlVGRkVSX1NJWkUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQl9Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQl9KTsK</text>
+        <text encoding="base64">CXByaXZhdGUgc3RhdGljIGNsYXNzIENGQiBleHRlbmRzIENvbm5lY3Rpb25GYWN0b3J5QnVpbGRlciB7CgoJCXByaXZhdGUgZmluYWwgQ29ubmVjdGlvbkZhY3RvcnkgaW5uZXI7CgoJCXB1YmxpYyBDRkIoQ29ubmVjdGlvbkZhY3RvcnkgY2YpIHsKCQkJdGhpcy5pbm5lciA9IGNmOwoJCX0KCgkJQE92ZXJyaWRlCgkJcHVibGljIENvbm5lY3Rpb25GYWN0b3J5IGJ1aWxkKCkgewoJCQlyZXR1cm4gbmV3IENvbm5lY3Rpb25GYWN0b3J5KCkgewoJCQkJQE92ZXJyaWRlCgkJCQlwdWJsaWMgTWVtY2FjaGVkQ29ubmVjdGlvbiBjcmVhdGVDb25uZWN0aW9uKAoJCQkJCQlMaXN0PEluZXRTb2NrZXRBZGRyZXNzPiBhZGRycykgdGhyb3dzIElPRXhjZXB0aW9uIHsKCQkJCQlyZXR1cm4gaW5uZXIuY3JlYXRlQ29ubmVjdGlvbihhZGRycyk7CgkJCQl9CgoJCQkJQE92ZXJyaWRlCgkJCQlwdWJsaWMgTWVtY2FjaGVkTm9kZSBjcmVhdGVNZW1jYWNoZWROb2RlKFNvY2tldEFkZHJlc3Mgc2EsCgkJCQkJCVNvY2tldENoYW5uZWwgYywgaW50IGJ1ZlNpemUpIHsKCQkJCQlyZXR1cm4gaW5uZXIuY3JlYXRlTWVtY2FjaGVkTm9kZShzYSwgYywgYnVmU2l6ZSk7CgkJCQl9CgoJCQkJQE92ZXJyaWRlCgkJCQlwdWJsaWMgQmxvY2tpbmdRdWV1ZTxPcGVyYXRpb24+IGNyZWF0ZU9wZXJhdGlvblF1ZXVlKCkgewoJCQkJCXJldHVybiBpbm5lci5jcmVhdGVPcGVyYXRpb25RdWV1ZSgpOwoJCQkJfQoKCQkJCUBPdmVycmlkZQoJCQkJcHVibGljIEJsb2NraW5nUXVldWU8T3BlcmF0aW9uPiBjcmVhdGVSZWFkT3BlcmF0aW9uUXVldWUoKSB7CgkJCQkJcmV0dXJuIGlubmVyLmNyZWF0ZVJlYWRPcGVyYXRpb25RdWV1ZSgpOwoJCQkJfQoKCQkJCUBPdmVycmlkZQoJCQkJcHVibGljIEJsb2NraW5nUXVldWU8T3BlcmF0aW9uPiBjcmVhdGVXcml0ZU9wZXJhdGlvblF1ZXVlKCkgewoJCQkJCXJldHVybiBpbm5lci5jcmVhdGVXcml0ZU9wZXJhdGlvblF1ZXVlKCk7CgkJCQl9CgoJCQkJQE92ZXJyaWRlCgkJCQlwdWJsaWMgbG9uZyBnZXRPcFF1ZXVlTWF4QmxvY2tUaW1lKCkgewoJCQkJCXJldHVybiBpbm5lci5nZXRPcFF1ZXVlTWF4QmxvY2tUaW1lKCk7CgkJCQl9CgoJCQkJQE92ZXJyaWRlCgkJCQlwdWJsaWMgTm9kZUxvY2F0b3IgY3JlYXRlTG9jYXRvcihMaXN0PE1lbWNhY2hlZE5vZGU+IG5vZGVzKSB7CgkJCQkJcmV0dXJuIGlubmVyLmNyZWF0ZUxvY2F0b3Iobm9kZXMpOwoJCQkJfQoKCQkJCUBPdmVycmlkZQoJCQkJcHVibGljIE9wZXJhdGlvbkZhY3RvcnkgZ2V0T3BlcmF0aW9uRmFjdG9yeSgpIHsKCQkJCQlyZXR1cm4gaW5uZXIuZ2V0T3BlcmF0aW9uRmFjdG9yeSgpOwoJCQkJfQoKCQkJCUBPdmVycmlkZQoJCQkJcHVibGljIGxvbmcgZ2V0T3BlcmF0aW9uVGltZW91dCgpIHsKCQkJCQlyZXR1cm4gaW5uZXIuZ2V0T3BlcmF0aW9uVGltZW91dCgpOwoJCQkJfQoKCQkJCUBPdmVycmlkZQoJCQkJcHVibGljIGJvb2xlYW4gaXNEYWVtb24oKSB7CgkJCQkJcmV0dXJuIGlubmVyLmlzRGFlbW9uKCk7CgkJCQl9CgoJCQkJQE92ZXJyaWRlCgkJCQlwdWJsaWMgYm9vbGVhbiB1c2VOYWdsZUFsZ29yaXRobSgpIHsKCQkJCQlyZXR1cm4gaW5uZXIudXNlTmFnbGVBbGdvcml0aG0oKTsKCQkJCX0KCgkJCQlAT3ZlcnJpZGUKCQkJCXB1YmxpYyBDb2xsZWN0aW9uPENvbm5lY3Rpb25PYnNlcnZlcj4gZ2V0SW5pdGlhbE9ic2VydmVycygpIHsKCQkJCQlyZXR1cm4gaW5uZXIuZ2V0SW5pdGlhbE9ic2VydmVycygpOwoJCQkJfQoKCQkJCUBPdmVycmlkZQoJCQkJcHVibGljIEZhaWx1cmVNb2RlIGdldEZhaWx1cmVNb2RlKCkgewoJCQkJCXJldHVybiBpbm5lci5nZXRGYWlsdXJlTW9kZSgpOwoJCQkJfQoKCQkJCUBPdmVycmlkZQoJCQkJcHVibGljIFRyYW5zY29kZXI8T2JqZWN0PiBnZXREZWZhdWx0VHJhbnNjb2RlcigpIHsKCQkJCQlyZXR1cm4gaW5uZXIuZ2V0RGVmYXVsdFRyYW5zY29kZXIoKTsKCQkJCX0KCgkJCQlAT3ZlcnJpZGUKCQkJCXB1YmxpYyBUcmFuc2NvZGVyPE9iamVjdD4gZ2V0RGVmYXVsdENvbGxlY3Rpb25UcmFuc2NvZGVyKCkgewoJCQkJCXJldHVybiBpbm5lci5nZXREZWZhdWx0Q29sbGVjdGlvblRyYW5zY29kZXIoKTsKCQkJCX0KCgkJCQlAT3ZlcnJpZGUKCQkJCXB1YmxpYyBib29sZWFuIHNob3VsZE9wdGltaXplKCkgewoJCQkJCXJldHVybiBpbm5lci5zaG91bGRPcHRpbWl6ZSgpOwoJCQkJfQoKCQkJCUBPdmVycmlkZQoJCQkJcHVibGljIGludCBnZXRSZWFkQnVmU2l6ZSgpIHsKCQkJCQlyZXR1cm4gaW5uZXIuZ2V0UmVhZEJ1ZlNpemUoKTsKCQkJCX0KCgkJCQlAT3ZlcnJpZGUKCQkJCXB1YmxpYyBIYXNoQWxnb3JpdGhtIGdldEhhc2hBbGcoKSB7CgkJCQkJcmV0dXJuIGlubmVyLmdldEhhc2hBbGcoKTsKCQkJCX0KCgkJCQlAT3ZlcnJpZGUKCQkJCXB1YmxpYyBsb25nIGdldE1heFJlY29ubmVjdERlbGF5KCkgewoJCQkJCXJldHVybiBpbm5lci5nZXRNYXhSZWNvbm5lY3REZWxheSgpOwoJCQkJfQoKCQkJCUBPdmVycmlkZQoJCQkJcHVibGljIEF1dGhEZXNjcmlwdG9yIGdldEF1dGhEZXNjcmlwdG9yKCkgewoJCQkJCXJldHVybiBpbm5lci5nZXRBdXRoRGVzY3JpcHRvcigpOwoJCQkJfQoKCQkJCUBPdmVycmlkZQoJCQkJcHVibGljIGludCBnZXRUaW1lb3V0RXhjZXB0aW9uVGhyZXNob2xkKCkgewoJCQkJCXJldHVybiBpbm5lci5nZXRUaW1lb3V0RXhjZXB0aW9uVGhyZXNob2xkKCk7CgkJCQl9CgoJCQkJQE92ZXJyaWRlCgkJCQlwdWJsaWMgaW50IGdldFRpbWVvdXRSYXRpb1RocmVzaG9sZCgpIHsKCQkJCQlyZXR1cm4gaW5uZXIuZ2V0VGltZW91dFJhdGlvVGhyZXNob2xkKCk7CgkJCQl9CgoJCQkJQE92ZXJyaWRlCgkJCQlwdWJsaWMgaW50IGdldE1heEZyb250Q2FjaGVFbGVtZW50cygpIHsKCQkJCQlyZXR1cm4gaW5uZXIuZ2V0TWF4RnJvbnRDYWNoZUVsZW1lbnRzKCk7CgkJCQl9CgoJCQkJQE92ZXJyaWRlCgkJCQlwdWJsaWMgU3RyaW5nIGdldEZyb250Q2FjaGVOYW1lKCkgewoJCQkJCXJldHVybiBpbm5lci5nZXRGcm9udENhY2hlTmFtZSgpOwoJCQkJfQoKCQkJCUBPdmVycmlkZQoJCQkJcHVibGljIGJvb2xlYW4gZ2V0RnJvbnRDYWNoZUNvcHlPblJlYWQoKSB7CgkJCQkJcmV0dXJuIGlubmVyLmdldEZyb250Q2FjaGVDb3B5T25SZWFkKCk7CgkJCQl9CgoJCQkJQE92ZXJyaWRlCgkJCQlwdWJsaWMgYm9vbGVhbiBnZXRGcm9udENhY2hlQ29weU9uV3JpdGUoKSB7CgkJCQkJcmV0dXJuIGlubmVyLmdldEZyb250Q2FjaGVDb3B5T25Xcml0ZSgpOwoJCQkJfQoKCQkJCUBPdmVycmlkZQoJCQkJcHVibGljIGludCBnZXRGcm9udENhY2hlRXhwaXJlVGltZSgpIHsKCQkJCQlyZXR1cm4gaW5uZXIuZ2V0RnJvbnRDYWNoZUV4cGlyZVRpbWUoKTsKCQkJCX0KCgkJCQlAT3ZlcnJpZGUKCQkJCXB1YmxpYyBpbnQgZ2V0QnVsa1NlcnZpY2VUaHJlYWRDb3VudCgpIHsKCQkJCQlyZXR1cm4gaW5uZXIuZ2V0QnVsa1NlcnZpY2VUaHJlYWRDb3VudCgpOwoJCQkJfQoKCQkJCUBPdmVycmlkZQoJCQkJcHVibGljIGludCBnZXRCdWxrU2VydmljZUxvb3BMaW1pdCgpIHsKCQkJCQlyZXR1cm4gaW5uZXIuZ2V0QnVsa1NlcnZpY2VMb29wTGltaXQoKTsKCQkJCX0KCgkJCQlAT3ZlcnJpZGUKCQkJCXB1YmxpYyBsb25nIGdldEJ1bGtTZXJ2aWNlU2luZ2xlT3BUaW1lb3V0KCkgewoJCQkJCXJldHVybiBpbm5lci5nZXRCdWxrU2VydmljZVNpbmdsZU9wVGltZW91dCgpOwoJCQkJfQoKCQkJCUBPdmVycmlkZQoJCQkJcHVibGljIGludCBnZXREZWZhdWx0TWF4U01HZXRLZXlDaHVua1NpemUoKSB7CgkJCQkJcmV0dXJuIGlubmVyLmdldERlZmF1bHRNYXhTTUdldEtleUNodW5rU2l6ZSgpOwoJCQkJfQoJCQkJCgkJCQkvKiBFTkFCTEVfUkVQTElDQVRJT04gaWYgKi8KCgkJCQlAT3ZlcnJpZGUKCQkJCXB1YmxpYyBSZWFkUHJpb3JpdHkgZ2V0UmVhZFByaW9yaXR5KCkgewoJCQkJCXJldHVybiBpbm5lci5nZXRSZWFkUHJpb3JpdHkoKTsKCQkJCX0KCQkJCQoJCQkJQE92ZXJyaWRlCgkJCQlwdWJsaWMgTWFwPEFQSVR5cGUsIFJlYWRQcmlvcml0eT4gZ2V0QVBJUmVhZFByaW9yaXR5KCkgewoJCQkJCXJldHVybiBpbm5lci5nZXRBUElSZWFkUHJpb3JpdHkoKTsKCQkJCX0KCQkJCS8qIEVOQUJMRV9SRVBMSUNBVElPTiBlbmQgKi8KCQkJfTsKCQl9CgoJCUBPdmVycmlkZQoJCXB1YmxpYyBDb25uZWN0aW9uRmFjdG9yeUJ1aWxkZXIgc2V0SW5pdGlhbE9ic2VydmVycygKCQkJCUNvbGxlY3Rpb248Q29ubmVjdGlvbk9ic2VydmVyPiBvYnMpIHsKCQkJcmV0dXJuIHRoaXM7CgkJfQoJfQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">CQk9IENvbGxlY3Rpb25zLmVtcHR5TGlzdCgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCXJldHVybiAwOwo=</text>
+        <text encoding="base64">CXByaXZhdGUgQ29sbGVjdGlvbjxDb25uZWN0aW9uT2JzZXJ2ZXI+IGluaXRpYWxPYnNlcnZlcnMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkK</text>
+        <text encoding="base64">CQlUaHJlYWQuc2xlZXAoMTAwMEwpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJQE92ZXJyaWRlCgkJCXB1YmxpYyBNZW1jYWNoZWRDb25uZWN0aW9uIGNyZWF0ZUNvbm5lY3Rpb24oCgkJCQkJTGlzdDxJbmV0U29ja2V0QWRkcmVzcz4gYWRkcnMpIHRocm93cyBJT0V4Y2VwdGlvbiB7CgkJCQlNZW1jYWNoZWRDb25uZWN0aW9uIHJ2ID0gc3VwZXIuY3JlYXRlQ29ubmVjdGlvbihhZGRycyk7CgkJCQlyZXR1cm4gcnY7CgkJCX0KCQkJQE92ZXJyaWRlCgkJCXB1YmxpYyBsb25nIGdldE9wZXJhdGlvblRpbWVvdXQoKSB7CgkJCQlyZXR1cm4gMTAwMDsKCQkJfQoJCQlAT3ZlcnJpZGUKCQkJcHVibGljIEJsb2NraW5nUXVldWU8T3BlcmF0aW9uPiBjcmVhdGVPcGVyYXRpb25RdWV1ZSgpIHsKCQkJCXJldHVybiBuZXcgQXJyYXlCbG9ja2luZ1F1ZXVlPE9wZXJhdGlvbj4oZ2V0T3BRdWV1ZUxlbigpKTsKCQkJfQoJCQlAT3ZlcnJpZGUKCQkJcHVibGljIEJsb2NraW5nUXVldWU8T3BlcmF0aW9uPiBjcmVhdGVSZWFkT3BlcmF0aW9uUXVldWUoKSB7CgkJCQlyZXR1cm4gbmV3IEFycmF5QmxvY2tpbmdRdWV1ZTxPcGVyYXRpb24+KAoJCQkJCShpbnQpIChnZXRPcFF1ZXVlTGVuKCkgKiAxLjEpKTsKCQkJfQoJCQlAT3ZlcnJpZGUKCQkJcHVibGljIEJsb2NraW5nUXVldWU8T3BlcmF0aW9uPiBjcmVhdGVXcml0ZU9wZXJhdGlvblF1ZXVlKCkgewoJCQkJcmV0dXJuIGNyZWF0ZU9wZXJhdGlvblF1ZXVlKCk7CgkJCX0KCQkJQE92ZXJyaWRlCgkJCXB1YmxpYyBib29sZWFuIHNob3VsZE9wdGltaXplKCkgewoJCQkJcmV0dXJuIGZhbHNlOwoJCQl9CgkJCUBPdmVycmlkZQoJCQlwdWJsaWMgbG9uZyBnZXRPcFF1ZXVlTWF4QmxvY2tUaW1lKCkgewo=</text>
+        <text encoding="base64">CQkJCQl9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CSAqIEByZXR1cm4K</text>
+        <text encoding="base64">CQl9Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CSAqIEBwYXJhbSBzaXplCg==</text>
+        <text encoding="base64">CQl9KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>build</last-search>
+      <last-search>run</last-search>
       <last-offset />
-      <last-pattern>build</last-pattern>
+      <last-pattern>run</last-pattern>
       <last-replace>put</last-replace>
       <last-substitute>initClient</last-substitute>
       <last-dir>1</last-dir>
@@ -376,7 +386,6 @@
         <entry>getInitialO</entry>
         <entry>testStupid</entry>
         <entry>setUp</entry>
-        <entry>run</entry>
         <entry>Timeout</entry>
         <entry>initClient</entry>
         <entry>getOpQueue</entry>
@@ -384,6 +393,7 @@
         <entry>this</entry>
         <entry>getInitialOb</entry>
         <entry>build</entry>
+        <entry>run</entry>
       </history-search>
       <history-cmd>
         <entry>gg=G</entry>
