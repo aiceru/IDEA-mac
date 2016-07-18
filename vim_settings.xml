@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/main/java/net/spy/memcached/ConnectionFactoryBuilder.java" timestamp="1468578978333">
-        <mark key="'" line="426" column="8" />
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/main/java/net/spy/memcached/ConnectionFactoryBuilder.java" timestamp="1468812649384">
+        <mark key="'" line="39" column="13" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/java/net/spy/memcached/LongClientTest.java" timestamp="1468576023090">
         <mark key="'" line="18" column="13" />
@@ -62,11 +62,12 @@
         <mark key="^" line="235" column="69" />
         <mark key="." line="235" column="69" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/java/net/spy/memcached/QueueOverflowTest.java" timestamp="1468576800567">
-        <mark key="[" line="62" column="7" />
-        <mark key="]" line="64" column="66" />
-        <mark key="^" line="64" column="66" />
-        <mark key="." line="64" column="66" />
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/java/net/spy/memcached/QueueOverflowTest.java" timestamp="1468812806561">
+        <mark key="'" line="63" column="8" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+        <mark key="^" line="64" column="7" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/.travis.yml" timestamp="1468571511177">
         <mark key="[" line="12" column="26" />
@@ -207,8 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1105" column="27" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" />
-      <jump line="48" column="16" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/collection/SetDelete.java" />
       <jump line="742" column="68" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" />
       <jump line="743" column="16" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ArcusClient.java" />
       <jump line="277" column="23" filename="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/MemcachedConnection.java" />
@@ -291,7 +290,6 @@
       <jump line="327" column="15" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/main/java/net/spy/memcached/ConnectionFactoryBuilder.java" />
       <jump line="212" column="22" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/main/java/net/spy/memcached/DefaultConnectionFactory.java" />
       <jump line="247" column="6" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/main/java/net/spy/memcached/DefaultConnectionFactory.java" />
-      <jump line="39" column="13" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/main/java/net/spy/memcached/ConnectionFactoryBuilder.java" />
       <jump line="562" column="6" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/java/net/spy/memcached/ProtocolBaseCase.java" />
       <jump line="560" column="4" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/java/net/spy/memcached/ProtocolBaseCase.java" />
       <jump line="579" column="4" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/java/net/spy/memcached/ProtocolBaseCase.java" />
@@ -307,55 +305,58 @@
       <jump line="1883" column="16" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/main/java/net/spy/memcached/MemcachedClient.java" />
       <jump line="188" column="19" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/main/java/net/spy/memcached/MemcachedClient.java" />
       <jump line="444" column="8" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/main/java/net/spy/memcached/ConnectionFactoryBuilder.java" />
+      <jump line="339" column="0" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/main/java/net/spy/memcached/ConnectionFactoryBuilder.java" />
+      <jump line="39" column="13" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/main/java/net/spy/memcached/ConnectionFactoryBuilder.java" />
+      <jump line="63" column="8" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/java/net/spy/memcached/QueueOverflowTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CSAqIEByZXR1cm4K</text>
+        <text encoding="base64">CQl9Owo=</text>
       </register>
       <register name="-" type="4">
         <text>len</text>
       </register>
       <register name="/" type="4">
-        <text>getInitialOb</text>
+        <text>build</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQl0aGlzKERFRkFVTFRfT1BfUVVFVUVfTEVOLCBERUZBVUxUX1JFQURfQlVGRkVSX1NJWkUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSAqIEByZXR1cm4K</text>
+        <text encoding="base64">CQl9Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSAqIEBwYXJhbSBzaXplCg==</text>
+        <text encoding="base64">CQl9KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSAqIEByZXR1cm4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CSAqIEBwYXJhbSBsZW4K</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXRoaXMoREVGQVVMVF9PUF9RVUVVRV9MRU4sIERFRkFVTFRfUkVBRF9CVUZGRVJfU0laRSk7Cg==</text>
+        <text encoding="base64">CQkJCXJldHVybiAwOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXB1YmxpYyB2b2lkIHRlc3RJbml0aWFsT2JzZXJ2ZXJzKCkgdGhyb3dzIEV4Y2VwdGlvbiB7CgkJYXNzZXJ0VHJ1ZSgiQ291bGRuJ3Qgc2h1dCBkb3duIHdpdGhpbiBmaXZlIHNlY29uZHMiLAoJCQljbGllbnQuc2h1dGRvd24oNSwgVGltZVVuaXQuU0VDT05EUykpOwoKCQlmaW5hbCBDb3VudERvd25MYXRjaCBsYXRjaCA9IG5ldyBDb3VudERvd25MYXRjaCgxKTsKCQlmaW5hbCBDb25uZWN0aW9uT2JzZXJ2ZXIgb2JzID0gbmV3IENvbm5lY3Rpb25PYnNlcnZlcigpIHsKCgkJCXB1YmxpYyB2b2lkIGNvbm5lY3Rpb25Fc3RhYmxpc2hlZChTb2NrZXRBZGRyZXNzIHNhLAoJCQkJCWludCByZWNvbm5lY3RDb3VudCkgewoJCQkJbGF0Y2guY291bnREb3duKCk7CgkJCX0KCgkJCXB1YmxpYyB2b2lkIGNvbm5lY3Rpb25Mb3N0KFNvY2tldEFkZHJlc3Mgc2EpIHsKCQkJCWFzc2VydCBmYWxzZSA6ICJTaG91bGQgbm90IHNlZSB0aGlzLiI7CgkJCX0KCgkJfTsKCgkJLy8gR2V0IGEgbmV3IGNsaWVudAoJCWluaXRDbGllbnQobmV3IENvbm5lY3Rpb25GYWN0b3J5QnVpbGRlcigpCgkJCQkJCS5zZXRJbml0aWFsT2JzZXJ2ZXJzKENvbGxlY3Rpb25zLnNpbmdsZXRvbihvYnMpKSk7CgoJCWFzc2VydFRydWUoIkRpZG4ndCBkZXRlY3QgY29ubmVjdGlvbiIsCgkJCQlsYXRjaC5hd2FpdCgyLCBUaW1lVW5pdC5TRUNPTkRTKSk7CgkJYXNzZXJ0VHJ1ZSgiRGlkIG5vdCBpbnN0YWxsIG9ic2VydmVyLiIsIGNsaWVudC5yZW1vdmVPYnNlcnZlcihvYnMpKTsKCQlhc3NlcnRGYWxzZSgiRGlkbid0IGNsZWFuIHVwIG9ic2VydmVyLiIsIGNsaWVudC5yZW1vdmVPYnNlcnZlcihvYnMpKTsKCX0K</text>
+        <text encoding="base64">CQkJQE92ZXJyaWRlCgkJCXB1YmxpYyBNZW1jYWNoZWRDb25uZWN0aW9uIGNyZWF0ZUNvbm5lY3Rpb24oCgkJCQkJTGlzdDxJbmV0U29ja2V0QWRkcmVzcz4gYWRkcnMpIHRocm93cyBJT0V4Y2VwdGlvbiB7CgkJCQlNZW1jYWNoZWRDb25uZWN0aW9uIHJ2ID0gc3VwZXIuY3JlYXRlQ29ubmVjdGlvbihhZGRycyk7CgkJCQlyZXR1cm4gcnY7CgkJCX0KCQkJQE92ZXJyaWRlCgkJCXB1YmxpYyBsb25nIGdldE9wZXJhdGlvblRpbWVvdXQoKSB7CgkJCQlyZXR1cm4gMTAwMDsKCQkJfQoJCQlAT3ZlcnJpZGUKCQkJcHVibGljIEJsb2NraW5nUXVldWU8T3BlcmF0aW9uPiBjcmVhdGVPcGVyYXRpb25RdWV1ZSgpIHsKCQkJCXJldHVybiBuZXcgQXJyYXlCbG9ja2luZ1F1ZXVlPE9wZXJhdGlvbj4oZ2V0T3BRdWV1ZUxlbigpKTsKCQkJfQoJCQlAT3ZlcnJpZGUKCQkJcHVibGljIEJsb2NraW5nUXVldWU8T3BlcmF0aW9uPiBjcmVhdGVSZWFkT3BlcmF0aW9uUXVldWUoKSB7CgkJCQlyZXR1cm4gbmV3IEFycmF5QmxvY2tpbmdRdWV1ZTxPcGVyYXRpb24+KAoJCQkJCShpbnQpIChnZXRPcFF1ZXVlTGVuKCkgKiAxLjEpKTsKCQkJfQoJCQlAT3ZlcnJpZGUKCQkJcHVibGljIEJsb2NraW5nUXVldWU8T3BlcmF0aW9uPiBjcmVhdGVXcml0ZU9wZXJhdGlvblF1ZXVlKCkgewoJCQkJcmV0dXJuIGNyZWF0ZU9wZXJhdGlvblF1ZXVlKCk7CgkJCX0KCQkJQE92ZXJyaWRlCgkJCXB1YmxpYyBib29sZWFuIHNob3VsZE9wdGltaXplKCkgewoJCQkJcmV0dXJuIGZhbHNlOwoJCQl9CgkJCUBPdmVycmlkZQoJCQlwdWJsaWMgbG9uZyBnZXRPcFF1ZXVlTWF4QmxvY2tUaW1lKCkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSAqIEByZXR1cm4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl9KTsK</text>
+        <text encoding="base64">CSAqIEBwYXJhbSBzaXplCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>getInitialOb</last-search>
+      <last-search>build</last-search>
       <last-offset />
-      <last-pattern>getInitialOb</last-pattern>
+      <last-pattern>build</last-pattern>
       <last-replace>put</last-replace>
       <last-substitute>initClient</last-substitute>
       <last-dir>1</last-dir>
@@ -376,13 +377,13 @@
         <entry>testStupid</entry>
         <entry>setUp</entry>
         <entry>run</entry>
-        <entry>build</entry>
         <entry>Timeout</entry>
         <entry>initClient</entry>
         <entry>getOpQueue</entry>
         <entry>connectionEs</entry>
         <entry>this</entry>
         <entry>getInitialOb</entry>
+        <entry>build</entry>
       </history-search>
       <history-cmd>
         <entry>gg=G</entry>
