@@ -27,15 +27,15 @@
       <file name="/a.dummy" timestamp="1468843009591">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/java/net/spy/memcached/ClientBaseCase.java" timestamp="1468893376064">
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/java/net/spy/memcached/ClientBaseCase.java" timestamp="1468894743620">
         <mark key="a" line="301" column="4" />
         <mark key="'" line="320" column="4" />
         <mark key="j" line="265" column="10" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
+        <mark key="[" line="256" column="37" />
+        <mark key="]" line="256" column="26" />
         <mark key="m" line="265" column="10" />
-        <mark key="^" line="84" column="21" />
-        <mark key="." line="80" column="0" />
+        <mark key="^" line="256" column="26" />
+        <mark key="." line="256" column="26" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/java/net/spy/memcached/BinaryClientTest.java" timestamp="1468825551121">
         <mark key="[" line="10" column="9" />
@@ -345,11 +345,11 @@
       <jump line="591" column="14" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/main/java/net/spy/memcached/ConnectionFactoryBuilder.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>getInitialOb</text>
