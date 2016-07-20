@@ -290,7 +290,7 @@
       <file name="$USER_HOME$/Work/arcus/tests/ArcusSMGetTest/lib/arcus-client-1.6.2-sources.jar!/net/spy/memcached/ArcusClient.java" timestamp="1467093664331">
         <mark key="'" line="1601" column="37" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/main/java/net/spy/memcached/internal/BulkGetFuture.java" timestamp="1468922585732" />
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/main/java/net/spy/memcached/internal/BulkGetFuture.java" timestamp="1468976595245" />
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring/src/main/java/com/navercorp/arcus/spring/ArcusClientFactoryBean.java" timestamp="1467701702711">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
