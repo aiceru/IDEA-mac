@@ -10,12 +10,6 @@
         <mark key="." line="505" column="15" />
         <mark key="^" line="505" column="19" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/java/net/spy/memcached/LongClientTest.java" timestamp="1468902398666">
-        <mark key="'" line="18" column="13" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/pom.xml" timestamp="1468217270313">
         <mark key="'" line="38" column="41" />
         <mark key="[" line="115" column="56" />
@@ -235,6 +229,12 @@
         <mark key="^" line="24" column="71" />
         <mark key="." line="24" column="71" />
       </file>
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/manual/net/spy/memcached/collection/BaseIntegrationTest.java" timestamp="1468992669441">
+        <mark key="a" line="80" column="2" />
+        <mark key="[" line="41" column="20" />
+        <mark key="]" line="41" column="21" />
+        <mark key="." line="41" column="21" />
+      </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring/src/main/java/com/navercorp/arcus/spring/cache/ArcusStringKey.java" timestamp="1468204302675">
         <mark key="'" line="29" column="2" />
         <mark key="[" line="29" column="0" />
@@ -242,11 +242,11 @@
         <mark key="^" line="19" column="20" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/manual/net/spy/memcached/btreesmget/SMGetTest.java" timestamp="1468907398666">
-        <mark key="[" line="533" column="19" />
-        <mark key="]" line="551" column="29" />
-        <mark key="." line="551" column="29" />
-        <mark key="^" line="551" column="29" />
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/manual/net/spy/memcached/btreesmget/SMGetTest.java" timestamp="1468992680616">
+        <mark key="[" line="507" column="6" />
+        <mark key="]" line="528" column="5" />
+        <mark key="." line="528" column="5" />
+        <mark key="^" line="528" column="5" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/bulkoperation/BopInsertBulkTest.java" timestamp="1468304562616">
         <mark key="[" line="342" column="23" />
@@ -424,7 +424,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkJCQkJZ2V0SW5pdGlhbE9ic2VydmVycygpLCBnZXRGYWlsdXJlTW9kZSgpLCBnZXRPcGVyYXRpb25GYWN0b3J5KCkpOwo=</text>
+        <text encoding="base64">CUBPdmVycmlkZQoJcHJvdGVjdGVkIHZvaWQgc2V0VXAoKSB0aHJvd3MgRXhjZXB0aW9uIHsKCQl0cnkgewoJCQlTeXN0ZW0uc2V0UHJvcGVydHkoIm5ldC5zcHkubG9nLkxvZ2dlckltcGwiLAoJCQkJCSJuZXQuc3B5Lm1lbWNhY2hlZC5jb21wYXQubG9nLkxvZzRKTG9nZ2VyIik7CgkJCVN5c3RlbS5zZXRQcm9wZXJ0eSgiYXJjdXMubWJlYW4iLCAidHJ1ZSIpOwoJCQlpZiAoVVNFX1pLKSB7CgkJCQlvcGVuRnJvbVpLKCk7CgkJCX0gZWxzZSB7CgkJCQlvcGVuRGlyZWN0KCk7CgkJCX0KCQl9IGNhdGNoIChFeGNlcHRpb24gZSkgewoJCQllLnByaW50U3RhY2tUcmFjZSgpOwoJCX0KCX0K</text>
       </register>
       <register name="-" type="4">
         <text>MILLISECONDS</text>
@@ -433,7 +433,7 @@
         <text>testTimeout</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CUBUZXN0Cg==</text>
+        <text encoding="base64">CUBPdmVycmlkZQoJcHJvdGVjdGVkIHZvaWQgc2V0VXAoKSB0aHJvd3MgRXhjZXB0aW9uIHsKCQl0cnkgewoJCQlTeXN0ZW0uc2V0UHJvcGVydHkoIm5ldC5zcHkubG9nLkxvZ2dlckltcGwiLAoJCQkJCSJuZXQuc3B5Lm1lbWNhY2hlZC5jb21wYXQubG9nLkxvZzRKTG9nZ2VyIik7CgkJCVN5c3RlbS5zZXRQcm9wZXJ0eSgiYXJjdXMubWJlYW4iLCAidHJ1ZSIpOwoJCQlpZiAoVVNFX1pLKSB7CgkJCQlvcGVuRnJvbVpLKCk7CgkJCX0gZWxzZSB7CgkJCQlvcGVuRGlyZWN0KCk7CgkJCX0KCQl9IGNhdGNoIChFeGNlcHRpb24gZSkgewoJCQllLnByaW50U3RhY2tUcmFjZSgpOwoJCX0KCX0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJCQkJCQkJZ2V0SW5pdGlhbE9ic2VydmVycygpLCBnZXRGYWlsdXJlTW9kZSgpLCBnZXRPcGVyYXRpb25GYWN0b3J5KCkpOwo=</text>
