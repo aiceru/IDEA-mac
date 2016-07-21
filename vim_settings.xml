@@ -17,8 +17,12 @@
         <mark key="." line="115" column="55" />
         <mark key="^" line="115" column="55" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/java/net/spy/memcached/ClientBaseCase.java" timestamp="1469088664259">
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/java/net/spy/memcached/ClientBaseCase.java" timestamp="1469089712897">
         <mark key="a" line="310" column="0" />
+        <mark key="[" line="293" column="31" />
+        <mark key="]" line="293" column="31" />
+        <mark key="." line="293" column="31" />
+        <mark key="^" line="292" column="47" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/java/net/spy/memcached/TimeoutTest.java" timestamp="1469008676913" />
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/java/net/spy/memcached/BinaryClientTest.java" timestamp="1468825551121">
@@ -248,11 +252,11 @@
         <mark key="." line="55" column="4" />
         <mark key="^" line="55" column="4" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/java/net/spy/memcached/ObserverTest.java" timestamp="1469086229055">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="28" column="6" />
-        <mark key="." line="28" column="6" />
-        <mark key="^" line="28" column="6" />
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/java/net/spy/memcached/ObserverTest.java" timestamp="1469089765097">
+        <mark key="[" line="63" column="5" />
+        <mark key="]" line="63" column="5" />
+        <mark key="." line="63" column="5" />
+        <mark key="^" line="63" column="5" />
       </file>
       <file name="/Dummy.txt" timestamp="1469086281010">
         <mark key="[" line="0" column="0" />
@@ -393,10 +397,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>surefire</text>
@@ -408,28 +412,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXByb3RlY3RlZCBzdGF0aWMgY2xhc3MK</text>
+        <text encoding="base64">CQljbGllbnQgPSBuZXcgQXJjdXNDbGllbnQoKSwgQWRkclV0aWwuZ2V0QWRkcmVzc2VzKEFSQ1VTX0hPU1QpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CQl9Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlzdXBlci5zZXRVcCgpOwo=</text>
+        <text encoding="base64">CQlDb25uZWN0aW9uRmFjdG9yeUJ1aWxkZXIgY2ZiID0gbmV3IENvbm5lY3Rpb25GYWN0b3J5QnVpbGRlcigpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXB1YmxpYyB2b2lkIHNldHVwKCkgdGhyb3dzIEV4Y2VwdGlvbiB7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQlhc3N1bWVUcnVlKCkK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">CXByb3RlY3RlZCBzdGF0aWMgY2xhc3MK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CX0K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuQXNzdW1lLmFzc3VtZVRydWU7Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
