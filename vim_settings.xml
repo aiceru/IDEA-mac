@@ -429,7 +429,7 @@
         <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>299</text>
       </register>
     </registers>
     <search>
@@ -465,7 +465,6 @@
         <entry>testTimeout</entry>
       </history-search>
       <history-cmd>
-        <entry>gg=G</entry>
         <entry>set cursorLine</entry>
         <entry>%s/String/Object/g</entry>
         <entry>e CollectionDelete.java</entry>
@@ -485,6 +484,7 @@
         <entry>84</entry>
         <entry>266</entry>
         <entry>w</entry>
+        <entry>299</entry>
       </history-cmd>
       <history-expr />
       <history-input />
