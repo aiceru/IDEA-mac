@@ -17,11 +17,12 @@
         <mark key="." line="115" column="55" />
         <mark key="^" line="115" column="55" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/java/net/spy/memcached/ClientBaseCase.java" timestamp="1469093992616">
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/java/net/spy/memcached/ClientBaseCase.java" timestamp="1469102271762">
         <mark key="a" line="310" column="0" />
-        <mark key="[" line="275" column="0" />
-        <mark key="]" line="275" column="8" />
-        <mark key="." line="275" column="8" />
+        <mark key="[" line="261" column="27" />
+        <mark key="]" line="261" column="26" />
+        <mark key="." line="261" column="26" />
+        <mark key="^" line="261" column="26" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/java/net/spy/memcached/TimeoutTest.java" timestamp="1469008676913" />
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/java/net/spy/memcached/BinaryClientTest.java" timestamp="1468825551121">
