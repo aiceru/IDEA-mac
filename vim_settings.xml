@@ -17,13 +17,13 @@
         <mark key="." line="115" column="55" />
         <mark key="^" line="115" column="55" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/java/net/spy/memcached/ClientBaseCase.java" timestamp="1469081447517">
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/java/net/spy/memcached/ClientBaseCase.java" timestamp="1469085581219">
         <mark key="a" line="310" column="0" />
         <mark key="'" line="86" column="36" />
         <mark key="j" line="270" column="10" />
-        <mark key="[" line="80" column="38" />
+        <mark key="[" line="293" column="0" />
         <mark key="m" line="270" column="10" />
-        <mark key="]" line="83" column="35" />
+        <mark key="]" line="293" column="77" />
         <mark key="." line="83" column="35" />
         <mark key="^" line="83" column="35" />
       </file>
@@ -255,6 +255,15 @@
         <mark key="." line="55" column="4" />
         <mark key="^" line="55" column="4" />
       </file>
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/java/net/spy/memcached/ObserverTest.java" timestamp="1469086229055">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="28" column="6" />
+        <mark key="." line="28" column="6" />
+        <mark key="^" line="28" column="6" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1469086281010">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/java/net/spy/memcached/CancellationBaseCase.java" timestamp="1468833747599">
         <mark key="[" line="22" column="45" />
         <mark key="]" line="22" column="51" />
@@ -277,6 +286,9 @@
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/bulkoperation/BulkSetTest.java" timestamp="1468221416281" />
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/java/net/spy/memcached/ProtocolBaseCase.java" timestamp="1468219064810" />
+      <file name="/fragment.java" timestamp="1469086281022">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring/src/test/java/com/jam2in/arcus/spring/Service_noCOR.java" timestamp="1468233737027">
         <mark key="[" line="22" column="3" />
         <mark key="]" line="26" column="15" />
@@ -388,43 +400,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CUBPdmVycmlkZQoJcHJvdGVjdGVkIHZvaWQgc2V0VXAoKSB0aHJvd3MgRXhjZXB0aW9uIHsKCQl0cnkgewoJCQlTeXN0ZW0uc2V0UHJvcGVydHkoIm5ldC5zcHkubG9nLkxvZ2dlckltcGwiLAoJCQkJCSJuZXQuc3B5Lm1lbWNhY2hlZC5jb21wYXQubG9nLkxvZzRKTG9nZ2VyIik7CgkJCVN5c3RlbS5zZXRQcm9wZXJ0eSgiYXJjdXMubWJlYW4iLCAidHJ1ZSIpOwoJCQlpZiAoVVNFX1pLKSB7CgkJCQlvcGVuRnJvbVpLKCk7CgkJCX0gZWxzZSB7CgkJCQlvcGVuRGlyZWN0KCk7CgkJCX0KCQl9IGNhdGNoIChFeGNlcHRpb24gZSkgewoJCQllLnByaW50U3RhY2tUcmFjZSgpOwoJCX0KCX0K</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="-" type="4">
-        <text>MILLISECONDS</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>surefire</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CUBPdmVycmlkZQoJcHJvdGVjdGVkIHZvaWQgc2V0VXAoKSB0aHJvd3MgRXhjZXB0aW9uIHsKCQl0cnkgewoJCQlTeXN0ZW0uc2V0UHJvcGVydHkoIm5ldC5zcHkubG9nLkxvZ2dlckltcGwiLAoJCQkJCSJuZXQuc3B5Lm1lbWNhY2hlZC5jb21wYXQubG9nLkxvZzRKTG9nZ2VyIik7CgkJCVN5c3RlbS5zZXRQcm9wZXJ0eSgiYXJjdXMubWJlYW4iLCAidHJ1ZSIpOwoJCQlpZiAoVVNFX1pLKSB7CgkJCQlvcGVuRnJvbVpLKCk7CgkJCX0gZWxzZSB7CgkJCQlvcGVuRGlyZWN0KCk7CgkJCX0KCQl9IGNhdGNoIChFeGNlcHRpb24gZSkgewoJCQllLnByaW50U3RhY2tUcmFjZSgpOwoJCX0KCX0K</text>
+        <text encoding="base64">CQljbGllbnQgPSBuZXcgQXJjdXNDbGllbnQoY2ZiLmJ1aWxkKCksIEFkZHJVdGlsLmdldEFkZHJlc3NlcyhBUkNVU19IT1NUKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJCQkJZ2V0SW5pdGlhbE9ic2VydmVycygpLCBnZXRGYWlsdXJlTW9kZSgpLCBnZXRPcGVyYXRpb25GYWN0b3J5KCkpOwo=</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQlyZXR1cm4gbmV3IE1lbWNhY2hlZENvbm5lY3Rpb24oZ2V0UmVhZEJ1ZlNpemUoKSwgdGhpcywgYWRkcnMsCg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkvKmZpbmFsIENvdW50RG93bkxhdGNoIGxhdGNoID0gbmV3IENvdW50RG93bkxhdGNoKAoJCQkJQVJDVVNfSE9TVC5zcGxpdCgiLCIpLmxlbmd0aCk7CgoJCWZpbmFsIENvbm5lY3Rpb25PYnNlcnZlciBvYnMgPSBuZXcgQ29ubmVjdGlvbk9ic2VydmVyKCkgewoJCQlAT3ZlcnJpZGUKCQkJcHVibGljIHZvaWQgY29ubmVjdGlvbkVzdGFibGlzaGVkKFNvY2tldEFkZHJlc3Mgc2EsCgkJCQkJaW50IHJlY29ubmVjdENvdW50KSB7CgkJCQlsYXRjaC5jb3VudERvd24oKTsKCQkJfQoKCQkJQE92ZXJyaWRlCgkJCXB1YmxpYyB2b2lkIGNvbm5lY3Rpb25Mb3N0KFNvY2tldEFkZHJlc3Mgc2EpIHsKCQkJCWFzc2VydCBmYWxzZSA6ICJDb25uZWN0aW9uIGlzIGZhaWxlZC4iOwoJCQl9CgoJCX07CgkJY2ZiLnNldEluaXRpYWxPYnNlcnZlcnMoQ29sbGVjdGlvbnMuc2luZ2xldG9uKG9icykpOyovCgo=</text>
+        <text encoding="base64">CQlzdXBlci5zZXRVcCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8JCVRocmVhZC5zbGVlcCgxMDAwTCk7Cg==</text>
+        <text encoding="base64">CXB1YmxpYyB2b2lkIHNldHVwKCkgdGhyb3dzIEV4Y2VwdGlvbiB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8JCWxhdGNoLmF3YWl0KCk7Cg==</text>
+        <text encoding="base64">CQlhc3N1bWVUcnVlKCkK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXB1YmxpYyB2b2lkIHRlc3RJbml0aWFsT2JzZXJ2ZXJzKCkgdGhyb3dzIEV4Y2VwdGlvbiB7CgkJYXNzZXJ0VHJ1ZSgiQ291bGRuJ3Qgc2h1dCBkb3duIHdpdGhpbiBmaXZlIHNlY29uZHMiLAoJCQljbGllbnQuc2h1dGRvd24oNSwgVGltZVVuaXQuU0VDT05EUykpOwoKCQlmaW5hbCBDb3VudERvd25MYXRjaCBsYXRjaCA9IG5ldyBDb3VudERvd25MYXRjaCgxKTsKCQlmaW5hbCBDb25uZWN0aW9uT2JzZXJ2ZXIgb2JzID0gbmV3IENvbm5lY3Rpb25PYnNlcnZlcigpIHsKCgkJCXB1YmxpYyB2b2lkIGNvbm5lY3Rpb25Fc3RhYmxpc2hlZChTb2NrZXRBZGRyZXNzIHNhLAoJCQkJCWludCByZWNvbm5lY3RDb3VudCkgewoJCQkJbGF0Y2guY291bnREb3duKCk7CgkJCX0KCgkJCXB1YmxpYyB2b2lkIGNvbm5lY3Rpb25Mb3N0KFNvY2tldEFkZHJlc3Mgc2EpIHsKCQkJCWFzc2VydCBmYWxzZSA6ICJTaG91bGQgbm90IHNlZSB0aGlzLiI7CgkJCX0KCgkJfTsKCgkJLy8gR2V0IGEgbmV3IGNsaWVudAoJCWluaXRDbGllbnQobmV3IERlZmF1bHRDb25uZWN0aW9uRmFjdG9yeSgpIHsKCgkJCUBPdmVycmlkZQoJCQlwdWJsaWMgQ29sbGVjdGlvbjxDb25uZWN0aW9uT2JzZXJ2ZXI+IGdldEluaXRpYWxPYnNlcnZlcnMoKSB7CgkJCQlyZXR1cm4gQ29sbGVjdGlvbnMuc2luZ2xldG9uKG9icyk7CgkJCX0KCgkJfSk7CgoJCWFzc2VydFRydWUoIkRpZG4ndCBkZXRlY3QgY29ubmVjdGlvbiIsCgkJCQlsYXRjaC5hd2FpdCgyLCBUaW1lVW5pdC5TRUNPTkRTKSk7CgkJYXNzZXJ0VHJ1ZSgiRGlkIG5vdCBpbnN0YWxsIG9ic2VydmVyLiIsIGNsaWVudC5yZW1vdmVPYnNlcnZlcihvYnMpKTsKCQlhc3NlcnRGYWxzZSgiRGlkbid0IGNsZWFuIHVwIG9ic2VydmVyLiIsIGNsaWVudC5yZW1vdmVPYnNlcnZlcihvYnMpKTsKCX0K</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuQXNzdW1lLmFzc3VtZVRydWU7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQlyZXR1cm4gaW5uZXIuY3JlYXRlQ29ubmVjdGlvbihhZGRycyk7Cg==</text>
+        <text encoding="base64">CQlpbml0Q2xpZW50KG5ldyBEZWZhdWx0Q29ubmVjdGlvbkZhY3RvcnkoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">CQljbGllbnQgPSBBcmN1c0NsaWVudC5jcmVhdGVBcmN1c0NsaWVudChaS19IT1NULCBaS19TRVJWSUNFX0lELCBjZmIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
