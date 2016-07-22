@@ -219,6 +219,12 @@
         <mark key="^" line="24" column="71" />
         <mark key="." line="24" column="71" />
       </file>
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/manual/net/spy/memcached/collection/BaseIntegrationTest.java" timestamp="1469179596020">
+        <mark key="[" line="97" column="8" />
+        <mark key="]" line="97" column="10" />
+        <mark key="." line="97" column="10" />
+        <mark key="^" line="97" column="10" />
+      </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring/src/main/java/com/navercorp/arcus/spring/cache/ArcusStringKey.java" timestamp="1468204302675">
         <mark key="'" line="29" column="2" />
         <mark key="[" line="29" column="0" />
@@ -420,14 +426,14 @@
       <register name="a" type="2">
         <text encoding="base64">CQlDb3VudERvd25MYXRjaCBsID0gbmV3IENvdW50RG93bkxhdGNoKDEpOwoJCVdvcmtsb2FkR2VuZXJhdG9yIHdnID0gbmV3IFdvcmtsb2FkR2VuZXJhdG9yKG1jLCAxMDAwMCwgbCk7CgkJVGhyZWFkIHd0ID0gbmV3IFRocmVhZCh3Zyk7CgkJd3Quc3RhcnQoKTsKCgkJdHJ5IHsKCQkJbC5hd2FpdCgpOwoJCX0gY2F0Y2ggKEludGVycnVwdGVkRXhjZXB0aW9uIGUpIHsKCQkJZmFpbChlLmdldE1lc3NhZ2UoKSk7CgkJfQoK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Y2xpZW50IA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CQl0cnkgewoJCQlsLmF3YWl0KCk7CgkJfSBjYXRjaCAoSW50ZXJydXB0ZWRFeGNlcHRpb24gZSkgewoJCQlmYWlsKGUuZ2V0TWVzc2FnZSgpKTsKCQl9Cgo=</text>
       </register>
       <register name="-" type="4">
-        <text>SECONDS</text>
+        <text encoding="base64">Y2xpZW50IA==</text>
       </register>
       <register name="/" type="4">
         <text>testTimeout</text>
@@ -436,31 +442,31 @@
         <text encoding="base64">CQkJQ291bnREb3duTGF0Y2ggbCA9IG5ldyBDb3VudERvd25MYXRjaCgxKTsKCQkJV29ya2xvYWRHZW5lcmF0b3Igd2cgPSBuZXcgV29ya2xvYWRHZW5lcmF0b3IobWMsIDEwMDAwLCBsKTsKCQkJVGhyZWFkIHd0ID0gbmV3IFRocmVhZCh3Zyk7CgkJCXd0LnN0YXJ0KCk7CgoJCQl0cnkgewoJCQkJbC5hd2FpdCgpOwoJCQl9IGNhdGNoIChJbnRlcnJ1cHRlZEV4Y2VwdGlvbiBlKSB7CgkJCQlmYWlsKGUuZ2V0TWVzc2FnZSgpKTsKCQkJfQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">CQkJCWZsdXNoUGF1c2UoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQoJCXRyeSB7CgkJCWwuYXdhaXQoKTsKPj4+Pj4+PiA3ZjVlNDVhZDU1MTJjODQ2YzhiNzBmNmEwMzgzZGY4NWRjNzNiMjYzCg==</text>
+        <text encoding="base64">CQkJCS8qbWMuc2h1dGRvd24oKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PT09PT09PQoJCXRyeSB7CgkJCWwuYXdhaXQoKTsKPj4+Pj4+PiA3ZjVlNDVhZDU1MTJjODQ2YzhiNzBmNmEwMzgzZGY4NWRjNzNiMjYzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlUaHJlYWQgd3QgPSBuZXcgVGhyZWFkKHdnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlXb3JrbG9hZEdlbmVyYXRvciB3ZyA9IG5ldyBXb3JrbG9hZEdlbmVyYXRvcihtYywgMTAwMDAsIGwpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlDb3VudERvd25MYXRjaCBsID0gbmV3IENvdW50RG93bkxhdGNoKDEpOwo=</text>
+        <text encoding="base64">CQlUaHJlYWQgd3QgPSBuZXcgVGhyZWFkKHdnKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQlXb3JrbG9hZEdlbmVyYXRvciB3ZyA9IG5ldyBXb3JrbG9hZEdlbmVyYXRvcihtYywgMTAwMDAsIGwpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQlDb3VudERvd25MYXRjaCBsID0gbmV3IENvdW50RG93bkxhdGNoKDEpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -499,7 +505,6 @@
         <entry>testTimeout</entry>
       </history-search>
       <history-cmd>
-        <entry>e CollectionDelete.java</entry>
         <entry>17</entry>
         <entry>q</entry>
         <entry>17,23s/service1.setProduct(/productMap.put(&quot;id1&quot;</entry>
@@ -518,6 +523,7 @@
         <entry>299</entry>
         <entry>508</entry>
         <entry>819</entry>
+        <entry>39</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
