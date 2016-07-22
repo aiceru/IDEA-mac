@@ -219,10 +219,10 @@
         <mark key="^" line="24" column="71" />
         <mark key="." line="24" column="71" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/manual/net/spy/memcached/collection/BaseIntegrationTest.java" timestamp="1469179596020">
-        <mark key="[" line="97" column="8" />
-        <mark key="]" line="97" column="10" />
-        <mark key="." line="97" column="10" />
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/manual/net/spy/memcached/collection/BaseIntegrationTest.java" timestamp="1469182858848">
+        <mark key="[" line="201" column="42" />
+        <mark key="]" line="201" column="43" />
+        <mark key="." line="201" column="43" />
         <mark key="^" line="97" column="10" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring/src/main/java/com/navercorp/arcus/spring/cache/ArcusStringKey.java" timestamp="1468204302675">
