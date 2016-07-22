@@ -20,20 +20,14 @@
       <file name="/a.dummy" timestamp="1469103214431">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/java/net/spy/memcached/ClientBaseCase.java" timestamp="1469102271762">
-        <mark key="a" line="310" column="0" />
-        <mark key="[" line="261" column="27" />
-        <mark key="]" line="261" column="26" />
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/java/net/spy/memcached/ClientBaseCase.java" timestamp="1469155656531">
+        <mark key="a" line="321" column="20" />
+        <mark key="[" line="314" column="0" />
+        <mark key="]" line="321" column="21" />
         <mark key="." line="261" column="26" />
         <mark key="^" line="261" column="26" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/java/net/spy/memcached/TimeoutTest.java" timestamp="1469008676913" />
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/java/net/spy/memcached/BinaryClientTest.java" timestamp="1468825551121">
-        <mark key="[" line="10" column="9" />
-        <mark key="]" line="10" column="9" />
-        <mark key="^" line="10" column="9" />
-        <mark key="." line="10" column="9" />
-      </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/main/java/net/spy/memcached/MemcachedClient.java" timestamp="1468922044295">
         <mark key="'" line="1025" column="16" />
       </file>
@@ -47,24 +41,12 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/util/concurrent/CountDownLatch.java" timestamp="1468480044221">
         <mark key="'" line="217" column="5" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/collection/btree/BopMutateTest.java" timestamp="1467971181771">
-        <mark key="[" line="69" column="46" />
-        <mark key="]" line="69" column="45" />
-        <mark key="^" line="69" column="45" />
-        <mark key="." line="69" column="45" />
-      </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/pom.xml" timestamp="1469092261315">
         <mark key="'" line="42" column="0" />
         <mark key="[" line="182" column="67" />
         <mark key="]" line="182" column="67" />
         <mark key="." line="182" column="67" />
         <mark key="^" line="182" column="72" />
-      </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/btreesmget/ByteArrayBKeySMGetErrorTest.java" timestamp="1467970915650">
-        <mark key="[" line="235" column="58" />
-        <mark key="]" line="235" column="69" />
-        <mark key="^" line="235" column="69" />
-        <mark key="." line="235" column="69" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/java/net/spy/memcached/QueueOverflowTest.java" timestamp="1468979172542">
         <mark key="a" line="66" column="6" />
@@ -73,12 +55,6 @@
         <mark key="]" line="30" column="0" />
         <mark key="^" line="74" column="2" />
         <mark key="." line="30" column="0" />
-      </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/.travis.yml" timestamp="1468571511177">
-        <mark key="[" line="12" column="26" />
-        <mark key="]" line="12" column="26" />
-        <mark key="^" line="12" column="26" />
-        <mark key="." line="12" column="26" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/manual/net/spy/memcached/flushbyprefix/FlushByPrefixTest.java" timestamp="1469103365521">
         <mark key="'" line="24" column="42" />
@@ -89,12 +65,6 @@
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/ArcusClientConnectTest.java" timestamp="1468218533774" />
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/main/java/net/spy/memcached/MemcachedConnection.java" timestamp="1468921639027" />
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring/pom.xml" timestamp="1468229059475">
-        <mark key="[" line="108" column="12" />
-        <mark key="]" line="108" column="12" />
-        <mark key="." line="108" column="12" />
-        <mark key="^" line="108" column="12" />
-      </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/manual/net/spy/memcached/emptycollection/InsertListWithAttrTest.java" timestamp="1469092738040" />
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/manual/net/spy/memcached/bulkoperation/SetBulkTimeoutTest.java" timestamp="1468907600509">
         <mark key="'" line="47" column="36" />
@@ -110,32 +80,8 @@
         <mark key="." line="586" column="29" />
         <mark key="^" line="586" column="29" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/manual/net/spy/memcached/btreesmget/SMGetTestWithEflag.java" timestamp="1468907459644">
-        <mark key="[" line="552" column="19" />
-        <mark key="]" line="552" column="29" />
-        <mark key="." line="552" column="29" />
-        <mark key="^" line="552" column="29" />
-      </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/internal/CheckedOperationTimeoutException.java" timestamp="1467971392299">
-        <mark key="[" line="30" column="2" />
-        <mark key="]" line="30" column="3" />
-        <mark key="^" line="30" column="3" />
-        <mark key="." line="30" column="3" />
-      </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/java/net/spy/memcached/BinaryCancellationTest.java" timestamp="1468825675932">
-        <mark key="[" line="9" column="9" />
-        <mark key="]" line="9" column="9" />
-        <mark key="^" line="9" column="9" />
-        <mark key="." line="9" column="9" />
-      </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/java/net/spy/memcached/ProtocolBaseCase.java" timestamp="1468842553540">
         <mark key="'" line="698" column="6" />
-      </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/main/java/net/spy/memcached/ConnectionFactory.java" timestamp="1468816340817">
-        <mark key="[" line="36" column="41" />
-        <mark key="]" line="63" column="56" />
-        <mark key="." line="63" column="56" />
-        <mark key="^" line="63" column="56" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring/src/test/resources/copy.on.read.test.xml" timestamp="1468233977695">
         <mark key="[" line="13" column="25" />
@@ -149,11 +95,11 @@
         <mark key="." line="575" column="29" />
         <mark key="^" line="575" column="29" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/manual/net/spy/memcached/bulkoperation/SopInsertBulkTest.java" timestamp="1468907623437">
-        <mark key="[" line="112" column="32" />
-        <mark key="]" line="112" column="42" />
-        <mark key="." line="112" column="42" />
-        <mark key="^" line="112" column="42" />
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/manual/net/spy/memcached/bulkoperation/SopInsertBulkTest.java" timestamp="1469157749962">
+        <mark key="[" line="111" column="6" />
+        <mark key="]" line="111" column="7" />
+        <mark key="." line="111" column="7" />
+        <mark key="^" line="111" column="7" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring/src/main/java/com/navercorp/arcus/spring/cache/StringKeyGenerator.java" timestamp="1468228665747">
         <mark key="[" line="51" column="0" />
@@ -168,26 +114,8 @@
         <mark key="." line="35" column="22" />
         <mark key="^" line="35" column="22" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/java/net/spy/memcached/BinaryIPV6ClientTest.java" timestamp="1468825568917">
-        <mark key="[" line="8" column="33" />
-        <mark key="]" line="8" column="41" />
-        <mark key="^" line="8" column="41" />
-        <mark key="." line="8" column="41" />
-      </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/main/java/net/spy/memcached/CacheManager.java" timestamp="1468981829577">
         <mark key="'" line="118" column="9" />
-      </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/manual/net/spy/memcached/bulkoperation/LopInsertBulkTest.java" timestamp="1468907569877">
-        <mark key="[" line="102" column="32" />
-        <mark key="]" line="102" column="42" />
-        <mark key="." line="102" column="42" />
-        <mark key="^" line="102" column="42" />
-      </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ops/KeyedOperation.java" timestamp="1467971307929">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="8" column="0" />
-        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/manual/net/spy/memcached/bulkoperation/BopInsertBulkTest.java" timestamp="1468908709568">
         <mark key="'" line="32" column="13" />
@@ -196,25 +124,15 @@
         <mark key="." line="342" column="23" />
         <mark key="^" line="342" column="23" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/main/java/net/spy/memcached/ops/OperationException.java" timestamp="1467971221042">
-        <mark key="[" line="10" column="2" />
-        <mark key="]" line="10" column="3" />
-        <mark key="^" line="10" column="3" />
-        <mark key="." line="10" column="3" />
-      </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/manual/net/spy/memcached/emptycollection/PipedBulkInsertListWithAttrTest.java" timestamp="1468402333308" />
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/MultibyteKeyTest.java" timestamp="1468237816401">
-        <mark key="[" line="24" column="69" />
-        <mark key="]" line="24" column="71" />
-        <mark key="^" line="24" column="71" />
-        <mark key="." line="24" column="71" />
-      </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/manual/net/spy/memcached/collection/BaseIntegrationTest.java" timestamp="1469154588692">
-        <mark key="a" line="81" column="2" />
-        <mark key="[" line="176" column="0" />
-        <mark key="]" line="172" column="22" />
-        <mark key="." line="172" column="22" />
-        <mark key="^" line="172" column="22" />
+      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/manual/net/spy/memcached/collection/BaseIntegrationTest.java" timestamp="1469157417420">
+        <mark key="a" line="85" column="2" />
+        <mark key="j" line="92" column="8" />
+        <mark key="[" line="201" column="57" />
+        <mark key="m" line="92" column="8" />
+        <mark key="]" line="202" column="46" />
+        <mark key="." line="202" column="46" />
+        <mark key="^" line="202" column="46" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring/src/main/java/com/navercorp/arcus/spring/cache/ArcusStringKey.java" timestamp="1468204302675">
         <mark key="'" line="29" column="2" />
@@ -229,20 +147,8 @@
         <mark key="." line="518" column="20" />
         <mark key="^" line="518" column="20" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/bulkoperation/BopInsertBulkTest.java" timestamp="1468304562616">
-        <mark key="[" line="342" column="23" />
-        <mark key="]" line="342" column="22" />
-        <mark key="^" line="342" column="22" />
-        <mark key="." line="342" column="22" />
-      </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/main/java/net/spy/memcached/protocol/ascii/BaseGetOpImpl.java" timestamp="1468922148540">
         <mark key="'" line="68" column="0" />
-      </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/java/net/spy/memcached/AsciiIPV6ClientTest.java" timestamp="1468824960980">
-        <mark key="[" line="8" column="33" />
-        <mark key="]" line="8" column="41" />
-        <mark key="^" line="8" column="41" />
-        <mark key="." line="8" column="41" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/manual/net/spy/memcached/bulkoperation/BulkSetTest.java" timestamp="1468907540373">
         <mark key="'" line="32" column="13" />
@@ -250,12 +156,6 @@
         <mark key="]" line="289" column="45" />
         <mark key="." line="289" column="45" />
         <mark key="^" line="289" column="45" />
-      </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/main/java/net/spy/memcached/plugin/FrontCacheMemcachedClient.java" timestamp="1468828158524">
-        <mark key="[" line="55" column="56" />
-        <mark key="]" line="55" column="4" />
-        <mark key="." line="55" column="4" />
-        <mark key="^" line="55" column="4" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/java/net/spy/memcached/ObserverTest.java" timestamp="1469089765097">
         <mark key="[" line="63" column="5" />
@@ -290,12 +190,6 @@
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/java/net/spy/memcached/ProtocolBaseCase.java" timestamp="1468219064810" />
       <file name="/fragment.java" timestamp="1469086281022">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring/src/test/java/com/jam2in/arcus/spring/Service_noCOR.java" timestamp="1468233737027">
-        <mark key="[" line="22" column="3" />
-        <mark key="]" line="26" column="15" />
-        <mark key="^" line="26" column="15" />
-        <mark key="." line="26" column="15" />
       </file>
     </filemarks>
     <jumps>
@@ -401,44 +295,44 @@
       <jump line="24" column="42" filename="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/manual/net/spy/memcached/flushbyprefix/FlushByPrefixTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCX0K</text>
+      <register name="&quot;" type="4">
+        <text>MILLISECONDS</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>MILLISECONDS</text>
       </register>
       <register name="/" type="4">
         <text>testTimeout</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQljbGllbnQgPSBuZXcgQXJjdXNDbGllbnQoY2ZiLmJ1aWxkKCksIEFkZHJVdGlsLmdldEFkZHJlc3NlcyhBUkNVU19IT1NUKSk7Cg==</text>
+        <text encoding="base64">CQljbGllbnQuc2h1dGRvd24oKTsKCQljbGllbnQgPSBudWxsOwoJCWluaXRDbGllbnQoKTsKCQlmbHVzaFBhdXNlKCk7CgkJYXNzZXJ0VHJ1ZShjbGllbnQuZmx1c2goKS5nZXQoKSk7CgkJY2xpZW50LnNodXRkb3duKCk7CgkJY2xpZW50ID0gbnVsbDsKCQlzdXBlci50ZWFyRG93bigpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCX0K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJCX0gZWxzZSB7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJCQlyZXR1cm4gRmFpbHVyZU1vZGUuQ2FuY2VsOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJCWlmKFVTRV9aSykgewo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJU3lzdGVtLm91dC5wcmludGxuKGtleUFycmF5WzBdKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJbGF0Y2guY291bnREb3duKCk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQl3dC5zdGFydCgpOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">CQljbGllbnQgPSBuZXcgQXJjdXNDbGllbnQoKSwgQWRkclV0aWwuZ2V0QWRkcmVzc2VzKEFSQ1VTX0hPU1QpKTsK</text>
+        <text encoding="base64">CQkJbG9uZyBzID0gMDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl9Owo=</text>
+        <text encoding="base64">CQl3Zy5ydW4oKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">CQkJd2cucnVuKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlDb25uZWN0aW9uRmFjdG9yeUJ1aWxkZXIgY2ZiID0gbmV3IENvbm5lY3Rpb25GYWN0b3J5QnVpbGRlcigpIHsK</text>
+        <text encoding="base64">CQkJcyA9IFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
