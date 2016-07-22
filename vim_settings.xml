@@ -58,13 +58,6 @@
         <mark key="^" line="47" column="46" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/target/classes/net/spy/memcached/ArcusClientIF.class" timestamp="1468374647414" />
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/manual/net/spy/memcached/btreesmget/SMGetTestWithCombinationEflag.java" timestamp="1469168628483">
-        <mark key="a" line="573" column="4" />
-        <mark key="'" line="49" column="0" />
-        <mark key="[" line="563" column="0" />
-        <mark key="]" line="573" column="5" />
-        <mark key="." line="599" column="0" />
-      </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/java/net/spy/memcached/ProtocolBaseCase.java" timestamp="1468842553540">
         <mark key="'" line="698" column="6" />
       </file>
@@ -74,19 +67,9 @@
         <mark key="." line="13" column="56" />
         <mark key="^" line="13" column="56" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/manual/net/spy/memcached/btreesmget/ByteArrayBKeySMGetTest.java" timestamp="1469167402615">
-        <mark key="a" line="556" column="14" />
-        <mark key="[" line="553" column="0" />
-        <mark key="]" line="556" column="15" />
-        <mark key="." line="565" column="2" />
-        <mark key="^" line="565" column="2" />
-      </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/manual/net/spy/memcached/bulkoperation/SopInsertBulkTest.java" timestamp="1469166838299">
-        <mark key="a" line="108" column="12" />
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="108" column="15" />
-        <mark key="^" line="117" column="42" />
-        <mark key="." line="118" column="0" />
+        <mark key="^" line="21" column="42" />
+        <mark key="." line="116" column="0" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring/src/main/java/com/navercorp/arcus/spring/cache/StringKeyGenerator.java" timestamp="1468228665747">
         <mark key="[" line="51" column="0" />
@@ -111,13 +94,6 @@
         <mark key="]" line="29" column="0" />
         <mark key="^" line="19" column="20" />
         <mark key="." line="29" column="0" />
-      </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/manual/net/spy/memcached/btreesmget/SMGetTest.java" timestamp="1469167506827">
-        <mark key="a" line="532" column="2" />
-        <mark key="[" line="562" column="38" />
-        <mark key="]" line="563" column="42" />
-        <mark key="." line="563" column="42" />
-        <mark key="^" line="563" column="42" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/main/java/net/spy/memcached/protocol/ascii/BaseGetOpImpl.java" timestamp="1468922148540">
         <mark key="'" line="68" column="0" />
