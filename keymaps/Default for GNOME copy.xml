@@ -1,0 +1,6 @@
+<keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
+  <action id="Back">
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="alt open_bracket" />
+  </action>
+</keymap>
