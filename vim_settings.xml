@@ -40,11 +40,6 @@
       <file name="/a.dummy" timestamp="1469177483477">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/java/net/spy/memcached/ClientBaseCase.java" timestamp="1469155656531">
-        <mark key="a" line="321" column="20" />
-        <mark key="[" line="314" column="0" />
-        <mark key="]" line="321" column="21" />
-      </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/manual/net/spy/memcached/bulkoperation/BopInsertBulkTest.java" timestamp="1469178146057">
         <mark key="a" line="366" column="0" />
         <mark key="'" line="33" column="13" />
@@ -259,7 +254,7 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1469086281022">
+      <file name="/fragment.java" timestamp="1469411591607">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-spring/src/test/java/com/jam2in/arcus/spring/Service_noCOR.java" timestamp="1468233737027">
