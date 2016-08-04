@@ -4,8 +4,8 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/manual/net/spy/memcached/bulkoperation/BopInsertBulkMultipleTest.java" timestamp="1469178119806">
-        <mark key="a" line="226" column="0" />
-        <mark key="]" line="226" column="0" />
+        <mark key="a" line="203" column="0" />
+        <mark key="]" line="203" column="0" />
       </file>
       <file name="vim_settings.xml" timestamp="1469185718277">
         <mark key="[" line="0" column="0" />
@@ -86,9 +86,6 @@
         <mark key="^" line="19" column="20" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/manual/net/spy/memcached/collection/CollectionFutureTest.java" timestamp="1469178257136">
-        <mark key="]" line="89" column="0" />
-      </file>
       <file name="$USER_HOME$/Work/arcus/repo/aiceru/arcus-java-client/src/test/manual/net/spy/memcached/btreesmget/ByteArrayBKeySMGetErrorTest.java" timestamp="1467970915650">
         <mark key="[" line="235" column="58" />
         <mark key="]" line="235" column="69" />
@@ -96,7 +93,7 @@
         <mark key="." line="235" column="69" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/manual/net/spy/memcached/bulkoperation/SopInsertBulkMultipleValueTest.java" timestamp="1469178238770">
-        <mark key="]" line="215" column="0" />
+        <mark key="]" line="192" column="0" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/java/net/spy/memcached/QueueOverflowTest.java" timestamp="1468979172542">
         <mark key="a" line="66" column="6" />
@@ -129,9 +126,9 @@
         <mark key="." line="12" column="52" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/test/manual/net/spy/memcached/flushbyprefix/FlushByPrefixTest.java" timestamp="1469178279723">
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="133" column="0" />
-        <mark key="." line="133" column="0" />
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="0" />
+        <mark key="." line="121" column="0" />
       </file>
       <file name="$USER_HOME$/Work/arcus/repo/jam2in/arcus-java-client/src/main/java/net/spy/memcached/plugin/FrontCacheMemcachedClient.java" timestamp="1468828158524">
         <mark key="[" line="55" column="56" />
